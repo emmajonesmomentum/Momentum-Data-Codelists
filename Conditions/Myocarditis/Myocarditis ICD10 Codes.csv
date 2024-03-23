@@ -1,0 +1,18 @@
+ICD10Codes,Description
+I51.4,"Myocarditis, unspecified"
+I09.0,Rheumatic myocarditis
+I41,Myocarditis in diseases classified elsewhere
+I41.0,Myocarditis in bacterial diseases classified elsewhere
+I41.1,"
+Myocarditis in viral diseases classified elsewhere"
+I41.2,"
+Myocarditis in other infectious and parasitic diseases classified elsewhere"
+I41.8,Myocarditis in other diseases classified elsewhere
+I40,Acute myocarditis
+I40.0,Infective myocarditis
+I40.1,"
+Isolated myocarditis"
+I40.8,"
+Other acute myocarditis"
+I40.9,"Acute myocarditis, unspecified"
+I01.2,Acute rheumatic myocarditis

@@ -1,0 +1,14 @@
+CTV3Codes,Description
+PJ63.,Turner's syndrome
+PJ631,"Karyotype 45, X"
+PJ632,"Karyotype 46, X iso (Xq)"
+PJ633,"Karyotype 46, X with abnormal sex chromosome except iso (Xq)"
+Xa9D6,"Mosaicism 45, X; 46, XX"
+X78F1,"Mosaicism 45, X; 46, XY"
+X78F2,Turner's phenotype - ring chromosome karyotype
+PJ630,"Turner's phenotype, karyotype normal"
+PJ634,"Turner's phenotype, mosaicism 45, X; 46, XX or 45, X; 46, XY"
+PyuA5,[X]Other variants of Turner's syndrome
+X78F0,"Turner's phenotype, partial X deletion karyotype"
+XE1Me,"Turner's phenotype, other variant karyotypes"
+XE1Mf,Turner's syndrome NOS

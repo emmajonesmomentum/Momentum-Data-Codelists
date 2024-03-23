@@ -1,0 +1,10 @@
+V2Codes,Description
+PJ63.,Turner's syndrome
+PJ630,"Turner's phenotype, karyotype normal"
+PJ631,"Turner's phenotype, karyotype 45X"
+PJ632,"Turner's phenotype, karyotype 46X iso (Xq)"
+PJ633,"Turner's phenotype, karyotype 46X with abnormal sex chromosome, except iso (Xq)"
+PJ634,"Turner's phenotype, mosaicism 45X/46XX or 45X/46XY"
+PJ635,"Turner's phenotype, mosaicism, 45X/other cell line with abnormal sex chromosome"
+PJ636,"Turner's phenotype, other variant karyotypes"
+PJ63z,Turner's syndrome NOS

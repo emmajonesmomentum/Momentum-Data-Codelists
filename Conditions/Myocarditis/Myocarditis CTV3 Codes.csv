@@ -1,0 +1,50 @@
+CTV3Codes,Description
+XaDyL,Myocarditis
+G52..,Acute myocarditis
+G012.,Acute rheumatic myocarditis
+G520.,Acute myocarditis in diseases EC
+G520z,"Acute myocarditis in diseases EC, NOS"
+G5200,Acute aseptic myocarditis of the newborn
+G52y.,Other acute myocarditis
+G52y0,"Acute myocarditis, unspecified"
+Gyu5G,"[X]Acute myocarditis, unspecified"
+G52y2,Idiopathic myocarditis NOS
+G52yz,Other acute myocarditis NOS
+Gyu5F,[X]Other acute myocarditis
+XE0Ut,Isolated (Fiedler's) myocarditis
+G52z.,Acute myocarditis NOS
+XaDo0,Infective myocarditis
+X201Q,Viral myocarditis
+A7423,Coxsackie myocarditis
+G5201,Acute myocarditis - coxsackie
+G5203,Acute myocarditis - influenzal
+Gyu5J,[X]Myocarditis in viral diseases classified elsewhere
+XM1Ql,Myocarditis - virus unidentified
+X201R,Bacterial myocarditis
+A32y1,Diphtheritic myocarditis
+G5202,Acute myocarditis - diphtheritic
+G5206,Acute myocarditis - tuberculous
+G52y5,Septic myocarditis - streptococcal
+G52y4,Septic myocarditis - staphylococcal
+A93y1,Syphilitic myocarditis
+G5204,Acute myocarditis - syphilitic
+G5207,Acute myocarditis - meningococcal
+G52y3,Septic myocarditis - pneumococcal
+Gyu5H,[X]Myocarditis in bacterial diseases classified elsewhere
+X201T,Q fever myocarditis
+X201U,Fungal myocarditis
+X201V,Parasitic myocarditis
+AD03.,Toxoplasma myocarditis
+G5205,Acute myocarditis - toxoplasmosis
+G52y6,Septic myocarditis NOS
+Gyu5K,[X]Myocarditis in other infectious and parasitic diseases classified elsewhere
+G52y7,Toxic myocarditis
+G1y0.,Rheumatic myocarditis
+G5y0.,Myocarditis NOS
+G5y7.,Sarcoid myocarditis
+G5y8.,Rheumatoid myocarditis
+Gyu5L,[X]Myocarditis in other diseases classified elsewhere
+G102.,Chronic rheumatic myopericarditis
+G51z1,Acute myoendocarditis NOS
+G51z4,Subacute myoendocarditis NOS
+X779D,Myocardial inflammation

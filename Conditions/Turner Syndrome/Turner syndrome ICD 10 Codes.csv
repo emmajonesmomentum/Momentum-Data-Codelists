@@ -1,0 +1,9 @@
+ICD10Codes,Description
+Q96,Turner syndrome
+Q96.0,"Karyotype 45,X"
+Q96.1,"Karyotype 46,X iso (Xq)"
+Q96.2,"Karyotype 46,X with abnormal sex chromosome, except iso (Xq)"
+Q96.3,"Mosaicism, 45,X/46,XX or XY"
+Q96.4,"Mosaicism, 45,X/other cell line(s) with abnormal sex chromosome"
+Q96.8,Other variants of Turner syndrome
+Q96.9,"Turner syndrome, unspecified"
