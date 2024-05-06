@@ -1,0 +1,53 @@
+V2Codes,Description
+E0013,Presenile dementia with depression
+E0021,Senile dementia with depression
+E112.,Single major depressive episode
+E1120,"Single major depressive episode, unspecified"
+E1121,"Single major depressive episode, mild"
+E1122,"Single major depressive episode, moderate"
+E1123,"Single major depressive episode, severe, without mention of psychosis"
+E1124,"Single major depressive episode, severe, with psychosis"
+E1125,"Single major depressive episode, in partial or unspecified remission"
+E1126,"Single major depressive episode, in full remission"
+E112z,Single major depressive episode NOS
+E113.,Recurrent major depressive episode
+E1130,"Recurrent major depressive episodes, unspecified"
+E1131,"Recurrent major depressive episodes, mild"
+E1132,"Recurrent major depressive episodes, moderate"
+E1133,"Recurrent major depressive episodes, severe, without mention of psychosis"
+E1134,"Recurrent major depressive episodes, severe, with psychosis"
+E1137,Recurrent depression
+E113z,Recurrent major depressive episode NOS
+E118.,Seasonal affective disorder
+E11y2,Atypical depressive disorder
+E11z2,Masked depression
+E130.,Reactive depressive psychosis
+E135.,Agitated depression
+E2003,Anxiety with depression
+E291.,Prolonged depressive reaction
+E2B..,Depressive disorder NEC
+E2B1.,Chronic depression
+E2B0.,Postviral depression
+Eu204,[X]Post-schizophrenic depression
+Eu251,"[X]Schizoaffective disorder, depressive type"
+Eu32.,[X]Depressive episode
+Eu320,[X]Mild depressive episode
+Eu321,[X]Moderate depressive episode
+Eu322,[X]Severe depressive episode without psychotic symptoms
+Eu323,[X]Severe depressive episode with psychotic symptoms
+Eu324,[X]Mild depression
+Eu325,"[X]Major depression, mild"
+Eu326,"[X]Major depression, moderately severe"
+Eu327,"[X]Major depression, severe without psychotic symptoms"
+Eu328,"[X]Major depression, severe with psychotic symptoms"
+Eu32y,[X]Other depressive episodes
+Eu32z,"[X]Depressive episode, unspecified"
+Eu33.,[X]Recurrent depressive disorder
+Eu330,"[X]Recurrent depressive disorder, current episode mild"
+Eu331,"[X]Recurrent depressive disorder, current episode moderate"
+Eu332,"[X]Recurrent depressive disorder, current episode severe without psychotic symptoms"
+Eu333,"[X]Recurrent depressive disorder, current episode severe with psychotic symptoms"
+Eu334,"[X]Recurrent depressive disorder, currently in remission"
+Eu33y,[X]Other recurrent depressive disorders
+Eu33z,"[X]Recurrent depressive disorder, unspecified"
+Eu412,[X]Mixed anxiety and depressive disorder

@@ -1,0 +1,12 @@
+ICD10Codes,Description
+M33.1,Other dermatomyositis [Non-Specific Code]
+M33.10,"Other dermatomyositis, organ involvement unspecified"
+M33.11,Other dermatomyositis with respiratory involvement
+M33.12,Other dermatomyositis with myopathy
+M33.13,Other dermatomyositis without myopathy
+M33.19,Other dermatomyositis with other organ involvement
+M33.90,Dermatopolymyositis organ involvement unspecified
+M33.91 ,Dermatopolymyositis with respiratory involvement
+M33.92 ,Dermatopolymyositis with myopathy
+M33.93 ,Dermatopolymyositis without myopathy
+M33.99 ,Dermatopolymyositis with other organ involvement

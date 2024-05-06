@@ -1,0 +1,21 @@
+V2Codes,Description
+E113.,Recurrent major depressive episode
+E1130,"Recurrent major depressive episodes, unspecified"
+E1131,"Recurrent major depressive episodes, mild"
+E1132,"Recurrent major depressive episodes, moderate"
+E1133,"Recurrent major depressive episodes, severe, without mention of psychosis"
+E1134,"Recurrent major depressive episodes, severe, with psychosis"
+E1135,"Recurrent major depressive episodes, in partial or unspecified remission"
+E1136,"Recurrent major depressive episodes, in full remission"
+E1137,Recurrent depression
+E113z,Recurrent major depressive episode NOS
+E2B1.,Chronic depression
+Eu32A,"[X]Recurrent major depressive episodes, severe, with psychosis, psychosis in remission"
+Eu33.,[X]Recurrent depressive disorder
+Eu330,"[X]Recurrent depressive disorder, current episode mild"
+Eu331,"[X]Recurrent depressive disorder, current episode moderate"
+Eu332,"[X]Recurrent depressive disorder, current episode severe without psychotic symptoms"
+Eu333,"[X]Recurrent depressive disorder, current episode severe with psychotic symptoms"
+Eu334,"[X]Recurrent depressive disorder, currently in remission"
+Eu33y,[X]Other recurrent depressive disorders
+Eu33z,"[X]Recurrent depressive disorder, unspecified"

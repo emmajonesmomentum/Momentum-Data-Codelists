@@ -1,0 +1,61 @@
+CTV3Codes,Description
+X00Sb,Mixed anxiety and depressive disorder
+X00SO,Depressive disorder
+X761L,Seasonal affective disorder
+Xa0wV,Recurrent brief depressive disorder
+X00SQ,Agitated depression
+XE1YC,Reactive depression
+X00SR,Endogenous depression
+X00SS,Endogenous depression first episode
+XE1Y0,Single major depressive episode
+E1120,"Single major depressive episode, unspecified"
+E1121,"Single major depressive episode, mild"
+E1122,"Single major depressive episode, moderate"
+E1123,"Single major depressive episode, severe, without mention of psychosis"
+E1124,"Single major depressive episode, severe, with psychosis"
+XaX53,"Single major depressive episode, severe, with psychosis, psychosis in remission"
+E1125,"Single major depressive episode, in partial or unspecified remission"
+E1126,"Single major depressive episode, in full remission"
+E112z,Single major depressive episode NOS
+XM1GC,Endogenous depression - recurrent
+E1130,"Recurrent major depressive episodes, unspecified"
+E1131,"Recurrent major depressive episodes, mild"
+E1132,"Recurrent major depressive episodes, moderate"
+E1133,"Recurrent major depressive episodes, severe, without mention of psychosis"
+E1134,"Recurrent major depressive episodes, severe, with psychosis"
+E1135,"Recurrent major depressive episodes, in partial or unspecified remission"
+E1136,"Recurrent major depressive episodes, in full remission"
+E113z,Recurrent major depressive episode NOS
+X00SU,Masked depression
+E11y2,Atypical depressive disorder
+X00S8,Post-schizophrenic depression
+XSEGJ,Major depressive disorder
+XSKr7,Cotard syndrome
+XSGol,Moderate major depression
+XSGok,Mild major depression
+XSGom,Severe major depression without psychotic features
+XSGon,Severe major depression with psychotic features
+E1137,Recurrent depression
+E130.,Reactive depressive psychosis
+E2B..,Depressive disorder NEC
+E2B0.,Postviral depression
+E2B1.,Chronic depression
+Eu320,[X]Mild depressive episode
+Eu321,[X]Moderate depressive episode
+Eu331,"[X]Recurrent depressive disorder, current episode moderate"
+XE1Y1,Recurrent major depressive episodes
+XE1ZY,[X]Severe depressive episode without psychotic symptoms
+XE1ZZ,[X]Severe depressive episode with psychotic symptoms
+XE1Za,[X]Other depressive episodes
+XE1Zb,"[X]Depressive episode, unspecified"
+XE1Zd,"[X]Recurrent depressive disorder, current episode severe without psychotic symptoms"
+XE1Ze,"[X]Recurrent depressive disorder, current episode severe with psychotic symptoms"
+XE1Zf,"[X]Recurrent depressive disorder, unspecified"
+XaB9J,Depression NOS
+XaCHr,[X] Single episode agitated depression without psychotic symptoms
+XaCHs,[X] Single episode major depression without psychotic symptoms
+XaCIs,Mild depression
+XaCIt,Moderate depression
+XaCIu,Severe depression
+E0013,Presenile dementia with depression
+E0021,Senile dementia with depression

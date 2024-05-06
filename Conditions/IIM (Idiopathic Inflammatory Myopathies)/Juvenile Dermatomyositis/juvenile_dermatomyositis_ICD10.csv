@@ -1,0 +1,17 @@
+ICD10Codes,Description
+M33.0,Juvenile dermatomyositis [Non-Specific Code]
+M33.00,"Juvenile dermatomyositis, organ involvement unspecified"
+M33.01,Juvenile dermatomyositis with respiratory involvement
+M33.02,Juvenile dermatomyositis with myopathy
+M33.03,Juvenile dermatomyositis without myopathy
+M33.09,Juvenile dermatomyositis with other organ involvement
+M33.10,"Other dermatomyositis, organ involvement unspecified"
+M33.11,Other dermatomyositis with respiratory involvement
+M33.12,Other dermatomyositis with myopathy
+M33.13,Other dermatomyositis without myopathy
+M33.19,Other dermatomyositis with other organ involvement
+M33.90,Dermatopolymyositis organ involvement unspecified
+M33.91 ,Dermatopolymyositis with respiratory involvement
+M33.92 ,Dermatopolymyositis with myopathy
+M33.93 ,Dermatopolymyositis without myopathy
+M33.99 ,Dermatopolymyositis with other organ involvement
