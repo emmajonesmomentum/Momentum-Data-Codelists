@@ -1,0 +1,157 @@
+CTV3Codes,Description
+d24..,Chlordiazepoxide
+d246.,Chlordiazepoxide 5mg tablet
+d24b.,Librium 5mg tablet
+d247.,Chlordiazepoxide 10mg tablet
+d24c.,Librium 10mg tablet
+d248.,Chlordiazepoxide 25mg tablet
+d24d.,Librium 25mg tablet
+d241.,Chlordiazepoxide hydrochloride 5mg capsule
+d249.,Librium 5mg capsule
+d24f.,Tropium 5mg capsule
+d242.,Chlordiazepoxide hydrochloride 10mg capsule
+d24a.,Librium 10mg capsule
+d24g.,Tropium 10mg capsule
+d243.,Chlordiazepoxide hydrochloride 5mg tablet
+d24h.,Tropium 5mg tablet
+d244.,Chlordiazepoxide hydrochloride 10mg tablet
+d24i.,Tropium 10mg tablet
+d245.,Chlordiazepoxide hydrochloride 25mg tablet
+d24j.,Tropium 25mg tablet
+d24e.,Librium 100mg injection
+d22..,Alprazolam
+d22y.,Alprazolam 250micrograms tablet
+d221.,Xanax 250mcg tablet
+d22z.,Alprazolam 500micrograms tablet
+d222.,Xanax 500mcg tablet
+x02Lk,Clonazepam
+dn4y.,Clonazepam 500micrograms tablet
+dn41.,Rivotril 500mcg tablet
+dn4z.,Clonazepam 2mg tablet
+dn42.,Rivotril 2mg tablet
+do2z.,Clonazepam 1mg/1mL injection
+do21.,Rivotril 1mg/1mL injection
+dn4w.,Clonazepam 0.5mg/5mL s/f oral solution
+dn4x.,Clonazepam 2mg/5mL s/f oral solution
+dn4..,Clonazepam [epilepsy control]
+do2..,Clonazepam [status epilepsy]
+x02LM,Diazepam
+x01BA,Oral diazepam
+d213.,Diazepam 2mg tablet
+d217.,Alupram 2mg tablet
+d21a.,Atensine 2mg tablet
+d21e.,Evacalm 2mg tablet
+d21B.,Rimapam 2mg tablet
+d21m.,Tensium 2mg tablet
+d21r.,Valium 2mg tablet
+d214.,Diazepam 5mg tablet
+d218.,Alupram 5mg tablet
+d21n.,Tensium 5mg tablet
+d21s.,Valium 5mg tablet
+d215.,Diazepam 10mg tablet
+d219.,Alupram 10mg tablet
+d21c.,Atensine 10mg tablet
+d21D.,Rimapam 10mg tablet
+d21o.,Tensium 10mg tablet
+d21t.,Valium 10mg tablet
+d211.,Diazepam 2mg capsule
+d21g.,Solis 2mg capsule
+d21p.,Valium 2mg capsule
+d212.,Diazepam 5mg capsule
+d21q.,Valium 5mg capsule
+d21H.,Diazepam 1mg/5mL suspension
+d216.,Diazepam 2mg/5mL oral solution
+d21u.,Valium 2mg/5mL syrup
+d21F.,Dialar 5mg/5mL syrup
+d21J.,Diazepam 10mg/5mL suspension
+x01BB,Parenteral diazepam
+do1w.,Diazepam 10mg/2mL injection
+d21i.,Stesolid 10mg/2mL injection
+do12.,Stesolid [ep] 10mg/2mL injection
+o534.,Valium 10mg/2mL injection
+d21v.,Valium [anxiol] 10mg/2ml injection
+do16.,Valium [ep] 10mg/2mL injection
+d21w.,Valium dup del injection
+do1v.,Diazepam 10mg/2mL injection emulsion
+do11.,Diazemuls [ep] 10mg/2mL injection
+do1z.,Diazepam 20mg/4mL injection
+do17.,Valium [ep] 20mg/4mL injection
+x01BC,Rectal diazepam
+d21x.,Valium 5mg suppository
+d21z.,Diazepam 10mg suppository
+d21y.,Valium 10mg suppository
+do1t.,Diazepam 2.5mg/1.25mL rectal solution
+do1A.,Diazepam 2.5mg/1.25mL RecTube
+do1x.,Diazepam 5mg/2.5mL rectal solution
+do18.,Diazepam 5mg/2.5mL RecTube
+d21k.,Stesolid 5mg rectal solution
+do1y.,Diazepam 10mg/2.5mL rectal solution
+do19.,Diazepam 10mg/2.5mL RecTube
+d21l.,Stesolid 10mg rectal solution
+do1u.,Diazepam 20mg/5mL rectal solution
+do1B.,Diazepam 20mg/5mL RecTube
+d21..,Diazepam [anxiolytic]
+do1..,Diazepam [epilepsy use]
+j81..,Diazepam [skeletal muscle relaxant]
+o53..,Diazepam [anaesthesia]
+x02LN,Lorazepam
+x01BD,Oral lorazepam
+d2a1.,Lorazepam 1mg tablet
+d2a3.,Almazine 1mg tablet
+d2a5.,Ativan 1mg tablet
+d2a2.,Lorazepam 2.5mg tablet
+d2a4.,Almazine 2.5mg tablet
+d2a6.,Ativan 2.5mg tablet
+x01BE,Parenteral lorazepam
+d2az.,Lorazepam 4mg/1mL injection
+d2a7.,Ativan 4mg/1mL injection
+do41.,Ativan [ep] 4mg/mL injection
+d2a..,Lorazepam [anxiolytic]
+do4..,Lorazepam [epilepsy]
+o56..,Lorazepam [anaesthesia]
+d2d..,Oxazepam
+d2d2.,Oxazepam 10mg tablet
+d2d5.,Oxanid 10mg tablet
+d2d3.,Oxazepam 15mg tablet
+d2d6.,Oxanid 15mg tablet
+d2d4.,Oxazepam 30mg tablet
+d2d7.,Oxanid 30mg tablet
+d2d1.,Oxazepam 30mg capsule
+d1a2.,Temazepam 15mg capsule
+d1a3.,Temazepam 20mg capsule
+d1a7.,Normison 20mg capsule
+d1b..,Triazolam
+d1b1.,Triazolam 125micrograms tablet
+d1b3.,Halcion 125micrograms tablet
+d1b2.,Triazolam 250micrograms tablet
+d1b4.,Halcion 250micrograms tablet
+x02Ml,Temazepam
+d1a1.,Temazepam 10mg capsule
+d1a6.,Normison 10mg capsule
+x01BH,Buspirone
+d2f1.,Buspirone hydrochloride 5mg tablet
+d2f2.,Buspar 5mg tablet
+d2f3.,Buspar 5mg tablets x126
+d2f5.,Buspirone hydrochloride 10mg tablet
+d2f4.,Buspar 10mg tablet
+d2f..,Buspirone hydrochloride
+d26..,Clobazam
+d261.,Clobazam 10mg capsule
+d262.,Frisium 10mg capsule
+dnc1.,Clobazam SLS 10mg capsules
+d263.,Clobazam 10mg tablet
+d264.,Frisium 10mg tablet
+d265.,TAPCLOB 5mg/5mL oral suspension
+d266.,CLOBAZAM 5mg/5mL oral suspension
+d267.,TAPCLOB 10mg/5mL oral suspension
+d268.,CLOBAZAM 10mg/5mL oral suspension
+d269.,PERIZAM 1mg/mL oral suspension
+d26A.,PERIZAM 2mg/mL oral suspension
+dnc..,Clobazam [epilepsy only]
+d2c..,Meprobamate
+d2c1.,Meprobamate 200mg tablet
+d2c3.,Equanil 200mg tablet
+d2c2.,Meprobamate 400mg tablet
+d2c4.,Equanil 400mg tablet
+d2c5.,Meprate 400mg tablet
+d2c6.,Tenavoid tablet
