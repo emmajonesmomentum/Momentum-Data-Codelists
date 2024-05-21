@@ -1,0 +1,107 @@
+V2Codes,Description,Grade
+N040.,Rheumatoid arthritis,1
+N040C,Rheumatoid arthritis of sacro-iliac joint,2
+H570.,Rheumatoid lung,3
+G5yA.,Rheumatoid carditis,3
+N041.,Felty's syndrome,3
+N042.,Other rheumatoid arthropathy with visceral or systemic involvement,3
+N0420,Rheumatic carditis,3
+N043.,Juvenile rheumatoid arthritis - Still's disease,1
+N0430,Juvenile rheumatoid arthropathy unspecified,1
+N0431,Acute polyarticular juvenile rheumatoid arthritis,1
+N0432,Pauciarticular juvenile rheumatoid arthritis,1
+N0433,Monarticular juvenile rheumatoid arthritis,1
+N043z,Juvenile rheumatoid arthritis NOS,1
+N047.,Seropositive errosive rheumatoid arthritis,1
+N04X.,"Seropositive rheumatoid arthritis, unspecified",1
+66HC.,Rheumatic disorder annual review invitation,4
+66HZ.,Rheumatol.dis. monitoring NOS,4
+38vs,rheumatoid arthritis impact of disease questionnaire,4
+n04y0-2,fibrosing alveolitis associated with rheumatoid arthritis,3
+38dz,disease activity score in rheumatoid arthritis,4
+38dz-1,das - disease activity score,4
+14g1,h/o: rheumatoid arthritis,4
+emisnqrh17,rheumatoid arthritis monitoring invitation,4
+emisnqrh18,rheumatoid arthritis monitoring telephone invitation,4
+emisnqrh19,rheumatoid arthritis monitoring verbal invitation,4
+emisnqrh20,rheumatoid arthritis monitoring invitation first letter,4
+emisnqrh21,rheumatoid arthritis monitoring invitation second letter,4
+emisnqrh22,rheumatoid arthritis monitoring invitation third letter,4
+f3712,polyneuropathy in rheumatoid arthritis,3
+emisnq3d16,3d study - problems with rheumatoid arthritis management,4
+f3964,myopathy due to rheumatoid arthritis,3
+g5y8,rheumatoid myocarditis,3
+n0400,rheumatoid arthritis of cervical spine,2
+n0402,rheumatoid arthritis of shoulder,2
+n0403,rheumatoid arthritis of sternoclavicular joint,2
+n0404,rheumatoid arthritis of acromioclavicular joint,2
+n0405,rheumatoid arthritis of elbow,2
+n0406,rheumatoid arthritis of distal radio-ulnar joint,2
+n0407,rheumatoid arthritis of wrist,2
+n0407-99,rheum. arth. - wrist joint,2
+n0408-99,rheum. arth. - hand joint,2
+n0408,rheumatoid arthritis of mcp joint,2
+n0409,rheumatoid arthritis of pip joint of finger,2
+n040a,rheumatoid arthritis of dip joint of finger,2
+n040b,rheumatoid arthritis of hip,2
+n040b-99,rheum. arth. - hip joint,2
+n040d,rheumatoid arthritis of knee,2
+n040d-99,rheum. arth. - knee joint,2
+n040e,rheumatoid arthritis of tibio-fibular joint,2
+n040f,rheumatoid arthritis of ankle,2
+n040f-99,rheum. arth. - ankle/foot,2
+n040g,rheumatoid arthritis of subtalar joint,2
+n040h,rheumatoid arthritis of talonavicular joint,2
+n040k,rheumatoid arthritis of 1st mtp joint,2
+n040l,rheumatoid arthritis of lesser mtp joint,2
+n040m,rheumatoid arthritis of ip joint of toe,2
+n040t,flare of rheumatoid arthritis,2
+7p203,delivery of rehabilitation for rheumatoid arthritis,4
+nyu11,[x]other seropositive rheumatoid arthritis,1
+nyu1g,"[x]seropositive rheumatoid arthritis, unspecified",1
+n04x,"seropositive rheumatoid arthritis, unspecified",1
+n040p,seronegative rheumatoid arthritis,3
+n042z,rheumatoid arthropathy + visceral/systemic involvement nos,3
+n042,other rheumatoid arthropathy + visceral/systemic involvement,3
+nyu10,[x]rheumatoid arthritis+involvement/other organs or systems,3
+66h-3,rheumatoid arthrit. monitoring,4
+n040s,rheumatoid arthritis - multiple joint,2
+g5ya,rheumatoid carditis,3
+n047,seropositive errosive rheumatoid arthritis,1
+n0422,rheumatoid nodule,3
+n040r,rheumatoid nodule,3
+n04y0-1,caplan's syndrome,3
+n0421,rheumatoid lung disease,3
+n04y0,rheumatoid lung,3
+h570,rheumatoid lung,3
+n040n,rheumatoid vasculitis,3
+n040j,rheumatoid arthritis of other tarsal joint,2
+2hj,disease activity score using 28 joint count,4
+38dz0,disease activity score 28 joint in rheumatoid arthritis,4
+n041,felty's syndrome,3
+n040,rheumatoid arthritis,1
+n040-90,rheumatoid arthritis nos,1
+n040-91,rheum. arth. - other joint,2
+n040-92,rheum. arth. - ankle/foot,2
+n040-93,rheum. arth. - knee joint,2
+n040-94,rheum. arth. - hip joint,2
+n040-95,rheum. arth. - hand joint,2
+n040-96,rheum. arth. - wrist joint,2
+n040-97,rheum. arth. - elbow joint,2
+n040-98,rheum. arth. - shoulder joint,2
+n040-99,rheum. arth. - multiple joint,2
+nyu12,[x]other specified rheumatoid arthritis,4
+n04,rheumatoid arthritis and other inflammatory polyarthropathy,4
+9hr,exception reporting: rheumatoid arthritis quality indicators,4
+9hr0,except rheumatoid arthritis quality indicator: pt unsuitable,4
+9hr1,except rheumatoid arthritis qual indicator: informed dissent,4
+n040q,rheumatoid bursitis,4
+66hb0,rheumatoid arthritis annual review,4
+9mm,rheumatoid arthritis monitoring invitation,4
+9mm0,rheumatoid arthritis monitoring invitation first letter,4
+9mm1,rheumatoid arthritis monitoring invitation second letter,4
+9mm2,rheumatoid arthritis monitoring invitation third letter,4
+9mm3,rheumatoid arthritis monitoring verbal invitation,4
+9mm4,rheumatoid arthritis monitoring telephone invitation,4
+hngp005,[rfc] rheumatoid arthritis,1
+n0401,other rheumatoid arthritis of spine,2

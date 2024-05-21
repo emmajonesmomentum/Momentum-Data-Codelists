@@ -1,0 +1,13 @@
+ICD10Codes,Description
+E11,Type 2 diabetes mellitus
+E11.0,With coma
+E11.1,With ketoacidosis
+E11.2,With renal complications
+E11.3,With ophthalmic complications
+E11.4,With neurological complications
+E11.5,With peripheral circulatory complications
+E11.6,With other specified complications
+E11.7,With multiple complications
+E11.8,With unspecified complications
+E11.9,Without complications
+O24.1,Pre-existing type 2 diabetes mellitus

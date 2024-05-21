@@ -1,0 +1,74 @@
+V2Codes,Description
+br6..,ENOXAPARIN
+br61.,ENOXAPARIN 20mg/0.2mL prefilled syringe
+br62.,ENOXAPARIN 40mg/0.4mL prefilled syringe
+br63.,CLEXANE 20mg/0.2mL prefilled syringe
+br64.,CLEXANE 40mg/0.4mL prefilled syringe
+br65.,ENOXAPARIN 60mg/0.6mL prefilled syringe
+br66.,ENOXAPARIN 80mg/0.8mL prefilled syringe
+br67.,ENOXAPARIN 100mg/1mL prefilled syringe
+br68.,CLEXANE 60mg/0.6mL prefilled syringe
+br69.,CLEXANE 80mg/0.8mL prefilled syringe
+br6A.,CLEXANE 100mg/1mL prefilled syringe
+br6B.,CLEXANE 120mg/0.8mL prefilled syringe
+br6C.,CLEXANE 150mg/1mL prefilled syringe
+br6D.,CLEXANE 300mg/3mL solution for injection
+br6x.,ENOXAPARIN 300mg/3mL solution for injection
+br6y.,ENOXAPARIN 120mg/0.8mL prefilled syringe
+br6z.,ENOXAPARIN 150mg/1mL prefilled syringe
+brE..,BEMIPARIN
+brE1.,"BEMIPARIN SODIUM 2,500iu/0.2mL injection solution prefilled syringe"
+brE2.,"BEMIPARIN SODIUM 3,500iu/0.2mL injection solution prefilled syringe"
+brE3.,"BEMIPARIN SODIUM 5,000iu/0.2mL injection solution prefilled syringe"
+brE4.,"BEMIPARIN SODIUM 7,500iu/0.3mL injection solution prefilled syringe"
+brE5.,"BEMIPARIN SODIUM 10,000iu/0.4mL injection solution prefilled syringe"
+brE6.,"ZIBOR 2,500iu/0.2mL injection solution prefilled syringe"
+brE7.,"ZIBOR 3,500iu/0.2mL injection solution prefilled syringe"
+brE8.,"ZIBOR 5,000iu/0.2mL injection solution prefilled syringe"
+brE9.,"ZIBOR 7,500iu/0.3mL injection solution prefilled syringe"
+brEA.,"ZIBOR 10,000iu/0.4mL injection solution prefilled syringe"
+br2A.,"DALTEPARIN SODIUM 100,000iu/4mL injection vial"
+br2z.,"DALTEPARIN SODIUM 10,000iu/1mL prefilled syringe"
+br2L.,DALTEPARIN SODIUM 7500iu/0.3mL prefilled syringe
+br2D.,"DALTEPARIN SODIUM 12,500iu/0.5mL prefilled syringe"
+br2I.,"DALTEPARIN SODIUM 15,000iu/0.6mL prefilled syringe"
+br2C.,"DALTEPARIN SODIUM 10,000iu/0.4mL prefilled syringe"
+br2E.,"DALTEPARIN SODIUM 18,000iu/0.72mL prefilled syringe"
+br2l.,"DALTEPARIN SODIUM 10,000iu/1mL subcutaneous injection"
+br2m.,"DALTEPARIN SODIUM 10,000iu/4mL subcutaneous injection"
+br2o.,"DALTEPARIN SODIUM 25,000iu/mL prefilled syringe 0.2mL"
+br2n.,"DALTEPARIN SODIUM 12,500iu/mL prefilled syringe 0.2mL"
+br7..,TINZAPARIN SODIUM
+br71.,INNOHEP 3500iu(anti Xa)/0.3mL subcutaneous injection in syringe
+br72.,INNOHEP 5000iu(anti Xa)/0.5mL subcutaneous injection ampoules
+br73.,LOGIPARIN 2500iu/0.21mL subcutaneous injection in syringe
+br74.,LOGIPARIN 3500iu/0.3mL subcutaneous injection in syringe
+br75.,LOGIPARIN 4500iu/0.39mL subcutaneous injection in syringe
+br76.,TINZAPARIN SODIUM 2500iu/0.21mL subcutaneous injection in syringe
+br77.,TINZAPARIN SODIUM 3500iu(anti Xa)/0.3mL subcutaneous injection insyringe
+br78.,TINZAPARIN SODIUM 4500iu/0.39mL subcutaneous injection in syringe
+br79.,TINZAPARIN SODIUM 5000iu(anti Xa)/0.5mL subcutaneous injection ampoules
+br7A.,"INNOHEP 40,000iu(anti Xa)/2mL subcutaneous injection vials"
+br7B.,"TINZAPARIN SODIUM 40,000iu(anti Xa)/2mL subcutaneous injection vials"
+br7C.,TINZAPARIN SODIUM 5000iu(anti Xa)/5mL injection ampoules
+br7D.,INNOHEP 5000iu(anti Xa)/5mL injection ampoules
+br7E.,"TINZAPARIN SODIUM 10,000iu(anti Xa)/0.5mL prefilled syringe"
+br7F.,"TINZAPARIN SODIUM 14,000iu(anti Xa)/0.7mL prefilled syringe"
+br7G.,"TINZAPARIN SODIUM 18,000iu(anti Xa)/0.9mL prefilled syringe"
+br7H.,"INNOHEP 10,000iu(anti Xa)/0.5mL prefilled syringe"
+br7J.,"INNOHEP 14,000iu(anti Xa)/0.7mL prefilled syringe"
+br7K.,"INNOHEP 18,000iu(anti Xa)/0.9mL prefilled syringe"
+br7L.,TINZAPARIN SODIUM 3500iu(anti Xa)/0.35mL prefilled syringe
+br7M.,TINZAPARIN SODIUM 4500iu(anti Xa)/0.45mL prefilled syringe
+br7N.,INNOHEP 3500iu(anti Xa)/0.35mL prefilled syringe
+br7O.,INNOHEP 4500iu(anti Xa)/0.45mL prefilled syringe
+br7P.,"TINZAPARIN SODIUM 20,000iu(anti Xa)/2mL injection vial"
+br7Q.,"INNOHEP 20,000iu(anti Xa)/2mL injection vial"
+br7R.,INNOHEP 2500iu(anti Xa)/0.25mL prefilled syringe
+br7S.,TINZAPARIN SODIUM 2500iu(anti Xa)/0.25mL prefilled syringe
+br7T.,INNOHEP 8000iu(anti Xa)/0.4mL prefilled syringe
+br7U.,"INNOHEP 12,000iu(anti Xa)/0.6mL prefilled syringe"
+br7V.,"INNOHEP 16,000iu(anti Xa)/0.8mL prefilled syringe"
+br7W.,TINZAPARIN SODIUM 8000iu(anti Xa)/0.4mL prefilled syringe
+br7X.,"TINZAPARIN SODIUM 12,000iu(anti Xa)/0.6mL prefilled syringe"
+br7Y.,"TINZAPARIN SODIUM 16,000iu(anti Xa)/0.8mL prefilled syringe"

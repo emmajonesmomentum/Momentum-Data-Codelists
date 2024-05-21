@@ -1,0 +1,35 @@
+V2Codes,Description
+14AF.,H/O sub-arachnoid haemorrhage
+G60..,Subarachnoid haemorrhage
+G600.,Ruptured berry aneurysm
+G601.,Subarachnoid haemorrhage from carotid siphon and bifurcation
+G602.,Subarachnoid haemorrhage from middle cerebral artery
+G603.,Subarachnoid haemorrhage from anterior communicating artery
+G604.,Subarachnoid haemorrhage from posterior communicating artery
+G605.,Subarachnoid haemorrhage from basilar artery
+G606.,Subarachnoid haemorrhage from vertebral artery
+G60X.,"Subarachnoid haemorrhage from intracranial artery, unspecified"
+G60z.,Subarachnoid haemorrhage NOS
+G61..,Intracerebral haemorrhage
+G610.,Cortical haemorrhage
+G611.,Internal capsule haemorrhage
+G612.,Basal nucleus haemorrhage
+G613.,Cerebellar haemorrhage
+G614.,Pontine haemorrhage
+G615.,Bulbar haemorrhage
+G616.,External capsule haemorrhage
+G617.,"Intracerebral haemorrhage, intraventricular"
+G618.,"Intracerebral haemorrhage, multiple localized"
+G61X.,"Intracerebral haemorrhage in hemisphere, unspecified"
+G61X0,"Left sided intracerebral haemorrhage, unspecified"
+G61X1,"Right sided intracerebral haemorrhage, unspecified"
+G61z.,Intracerebral haemorrhage NOS
+G62..,Other and unspecified intracranial haemorrhage
+G620.,Extradural haemorrhage - nontraumatic
+G62z.,Intracranial haemorrhage NOS
+G680.,Sequelae of subarachnoid haemorrhage
+G681.,Sequelae of intracerebral haemorrhage
+G682.,Sequelae of other nontraumatic intracranial haemorrhage
+Gyu61,[X]Other subarachnoid haemorrhage
+Gyu62,[X]Other intracerebral haemorrhage
+Gyu6F,"[X]Intracerebral haemorrhage in hemisphere, unspecified"

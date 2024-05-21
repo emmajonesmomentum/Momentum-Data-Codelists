@@ -1,0 +1,412 @@
+MedCodeID,Description
+1988841000006112,"Intraventricular (nontraumatic) haemorrhage, grade 4, of fetus and newborn"
+8453031000006117,Haemorrhagic stroke
+8044331000006114,History of haemorrhagic stroke with hemiparesis
+8044341000006116,History of hemorrhagic stroke with hemiparesis
+8044371000006112,History of hemorrhagic stroke with hemiplegia
+8044361000006117,History of haemorrhagic stroke with hemiplegia
+8044431000006119,Spontaneous cerebral hemorrhage with compression of brain
+8044421000006117,Compression of brain co-occurrent and due to spontaneous cerebral hemorrhage
+8044411000006113,Spontaneous cerebral haemorrhage with compression of brain
+8044441000006112,Compression of brain co-occurrent and due to spontaneous cerebral haemorrhage
+8044561000006112,Compression of brain co-occurrent and due to nontraumatic subarachnoid hemorrhage
+8044551000006110,Compression of brain co-occurrent and due to nontraumatic subarachnoid haemorrhage
+8044571000006117,Nontraumatic subarachnoid hemorrhage with brain compression
+8044541000006113,Nontraumatic subarachnoid haemorrhage with brain compression
+3510552019,History of haemorrhagic stroke with residual deficit
+3510551014,History of hemorrhagic stroke with residual deficit
+3510549010,History of hemorrhagic cerebrovascular accident with residual deficit
+3510550010,History of haemorrhagic cerebrovascular accident with residual deficit
+8045251000006112,Spontaneous cerebellar haemorrhage
+8045261000006114,Spontaneous cerebellar hemorrhage
+8045761000006115,Spontaneous intraparenchymal cerebral hemorrhage
+8045771000006110,Nontraumatic intraparenchymal cerebral hemorrhage
+8045741000006119,Nontraumatic intraparenchymal cerebral haemorrhage
+8045751000006117,Spontaneous intraparenchymal cerebral haemorrhage
+3518235015,Neonatal non-traumatic intraventricular haemorrhage
+3517767015,Neonatal non-traumatic intraventricular hemorrhage
+300244012,Subarachnoid haemorrhage from carotid siphon and bifurcation
+4777721000006118,Subarachnoid hemorrhage from carotid siphon and bifurcation
+4777741000006113,Subarachnoid hemorrhage from vertebral artery
+300253017,Subarachnoid haemorrhage from vertebral artery
+4777761000006112,Intracranial subarachnoid haemorrhage from vertebral artery
+4777751000006110,Intracranial subarachnoid hemorrhage from vertebral artery
+4777811000006117,Basal ganglia hemorrhage
+503791000006114,Basal ganglia haemorrhage
+4777831000006111,External capsule hemorrhage
+300276019,External capsule haemorrhage
+4777851000006116,"Intracerebral hemorrhage, intraventricular"
+4777861000006119,Intracerebral haemorrhage with intraventricular haemorrhage
+4777871000006114,Intracerebral hemorrhage with intraventricular hemorrhage
+163261000006119,"Right sided intracerebral haemorrhage, unspecified"
+300277011,"Intracerebral haemorrhage, intraventricular"
+4777881000006112,"Intracerebral haemorrhage, multiple localised"
+746571000006116,"Intracerebral haemorrhage, multiple localized"
+4777891000006110,"Intracerebral hemorrhage, multiple localized"
+316153011,Cerebral haemorrhage due to birth injury
+404771000006118,[X]Other intracranial lacerations and haemorrhages due to birth injury
+4835931000006111,Cerebral hemorrhage due to birth injury
+4835941000006118,Cerebral hemorrhage due to birth trauma
+4835951000006116,Cerebral haemorrhage due to birth trauma
+894091000006111,Cerebral haemorrhage - birth
+4837401000006118,"Intraventricular (nontraumatic) hemorrhage, grade 1, of fetus and newborn"
+4837411000006115,"Intraventricular (nontraumatic) haemorrhage, grade 1, of foetus and newborn"
+767641000006118,"Intraventricular (nontraumatic) haemorrhage, grade 1, of fetus and newborn"
+4837441000006116,"Intraventricular (nontraumatic) hemorrhage, grade 2, of fetus and newborn"
+4837421000006111,"Intraventricular (nontraumatic) haemorrhage, grade 2, of foetus and newborn"
+767651000006116,"Intraventricular (nontraumatic) haemorrhage, grade 2, of fetus and newborn"
+4837451000006119,"Intraventricular (nontraumatic) haemorrhage, grade 3, of foetus and newborn"
+767661000006119,"Intraventricular (nontraumatic) hemorrhage, grade 3, of fetus and newborn"
+4837471000006112,"Intraventricular (nontraumatic) haemorrhage, grade 3, of fetus and newborn"
+4837491000006113,Intraventricular hemorrhage due to birth injury
+316516014,Intraventricular haemorrhage due to birth injury
+4837521000006110,Intracranial subarachnoid haemorrhage due to birth injury
+4837531000006113,Intracranial subarachnoid hemorrhage due to birth injury
+4837511000006119,Subarachnoid hemorrhage due to birth injury
+316519019,Subarachnoid haemorrhage due to birth injury
+4837751000006110,Cerebellar (nontraumatic) and posterior fossa haemorrhage of fetus and newborn
+4837741000006113,Cerebellar (nontraumatic) and posterior fossa hemorrhage of fetus and newborn
+542271000006119,Cerebellar (nontraumatic) and posterior fossa haemorrhage of foetus and newborn
+2832651000006111,Subcortical haemorrhage
+2832681000006115,Subcortical cerebral hemorrhage
+2832671000006118,Subcortical cerebral haemorrhage
+2832661000006113,Subcortical hemorrhage
+4854121000006110,"Subarachnoid hemorrhage following injury with open intracranial wound, with no loss of consciousness"
+123381000006110,"Subarachnoid haemorrhage following injury with open intracranial wound, with no loss of consciousness"
+2836991000006113,Subarachnoid hemorrhage from any perinatal cause
+480952017,Perinatal subarachnoid haemorrhage
+2836981000006110,Perinatal subarachnoid hemorrhage
+2837021000006110,Perinatal intracranial subarachnoid hemorrhage
+2837011000006119,Perinatal intracranial subarachnoid haemorrhage
+2837001000006117,Subarachnoid haemorrhage from any perinatal cause
+2841151000006113,SAH - Subarachnoid hemorrhage
+300936018,[X]Other subarachnoid haemorrhage
+123511000006114,Subarachnoid haemorrhage from middle cerebral artery
+481028017,Subarachnoid haemorrhage
+123521000006118,Subarachnoid haemorrhage from posterior communicating artery
+428181000006115,Subarachnoid hemorrhage
+12761901000006117,Subarachnoid hemorrhage
+2841161000006110,Subarachnoid intracranial haemorrhage
+2841171000006115,Subarachnoid intracranial hemorrhage
+2841141000006111,SAH - Subarachnoid haemorrhage
+123441000006112,"Subarachnoid haemorrh from intracranial artery, unspecif"
+300935019,[X]Subarachnoid haemorrhage from other intracranial arteries
+300257016,Subarachnoid haemorrhage NOS
+123481000006118,Subarachnoid haemorrhage from anterior communicating artery
+5011381000006110,Massive supratentorial cerebral hemorrhage
+5011371000006112,Massive supratentorial cerebral haemorrhage
+345675012,Lobar cerebral haemorrhage
+5011401000006110,Lobar cerebral hemorrhage
+5011411000006113,Thalamic haemorrhage
+5011421000006117,Thalamic hemorrhage
+5011431000006119,Lacunar haemorrhage
+5011441000006112,Lacunar hemorrhage
+5011571000006117,Subarachnoid hemorrhage due to ruptured arteriovenous malformation
+5011561000006112,Subarachnoid haemorrhage due to ruptured arteriovenous malformation
+5011601000006112,SAH - Subarachnoid hemorrhage from ruptured aneurysm
+5011621000006119,Intracranial subarachnoid hemorrhage due to ruptured aneurysm
+5011631000006116,Intracranial subarachnoid haemorrhage due to ruptured aneurysm
+5011611000006110,SAH - Subarachnoid haemorrhage from ruptured aneurysm
+5011581000006119,Subarachnoid haemorrhage due to ruptured aneurysm
+5011591000006116,Subarachnoid hemorrhage due to ruptured aneurysm
+2871251000006116,Ventricular hemorrhage
+2871241000006118,Ventricular haemorrhage
+2871271000006114,Intraventricular haemorrhage
+2871261000006119,Intraventricular hemorrhage
+5111341000006112,Pituitary hemorrhage
+5111331000006119,Pituitary haemorrhage
+769281000006119,Intracranial haemorrhage in fetus or newborn
+5146111000006110,Intracerebral haemorrhage in fetus or newborn
+359985011,Intracerebral haemorrhage in foetus or newborn
+5146121000006119,Intracerebral hemorrhage in fetus or newborn
+5445641000006113,Neonatal cerebral hemorrhage
+1842021000006111,Neonatal cerebral haemorrhage
+5455841000006112,Burst lobe of brain
+5518051000006114,SAH - Spontaneous subarachnoid hemorrhage
+5518061000006111,Spontaneous subarachnoid hemorrhage
+5518071000006116,SAH - Spontaneous subarachnoid haemorrhage
+5518041000006112,Spontaneous subarachnoid haemorrhage
+5518091000006115,Spontaneous intracranial subarachnoid hemorrhage
+5518101000006114,Nontraumatic subarachnoid intracranial hemorrhage
+5518111000006112,Nontraumatic subarachnoid intracranial haemorrhage
+5518081000006118,Spontaneous intracranial subarachnoid haemorrhage
+12762021000006116,Cerebral hemorrhage
+300956017,"[X]Intracerebral haemorrhage in hemisphere, unspecified"
+122371000006118,Cerebral haemorrhage
+300939013,Cerebral haemorrhage
+989211000006119,Cerebral haemorrhage NOS
+884421000006119,Cerebral haemorrhage
+12223111000006115,Intracerebral hemorrhage
+12223131000006114,ICH - intracerebral hemorrhage
+744901000006114,Intracerebral haemorrhage (ICH)
+300287010,Intracerebral haemorrhage NOS
+744921000006116,"Intracerebral haemorrhage in hemisphere, unspecified"
+12223101000006118,Intracerebral haemorrhage
+989201000006117,Cerebral haemorrhage
+11919571000006110,[X]Other intracerebral haemorrhage
+12223121000006111,ICH - intracerebral haemorrhage
+748941000006115,"Left sided intracerebral haemorrhage, unspecified"
+13031191000006112,Cerebral hemorrhage
+5560161000006111,Intracerebral hemorrhage (ICH)
+11903571000006110,Stroke due to intracerebral haemorrhage
+605471000006112,Cerebral hemorrhage
+5582981000006119,Subarachnoid hemorrhage from multiple aneurysms
+5582971000006117,Subarachnoid haemorrhage from multiple aneurysms
+5582991000006116,Subarachnoid haemorrhage from anterior cerebral artery aneurysm
+5583001000006115,Subarachnoid hemorrhage from anterior cerebral artery aneurysm
+5583031000006111,Subarachnoid hemorrhage from middle cerebral artery aneurysm
+5583021000006113,Subarachnoid haemorrhage from middle cerebral artery aneurysm
+5583041000006118,Subarachnoid haemorrhage from posterior cerebral artery aneurysm
+5583051000006116,Subarachnoid hemorrhage from posterior cerebral artery aneurysm
+5583071000006114,Subarachnoid hemorrhage from anterior communicating artery aneurysm
+5583061000006119,Subarachnoid haemorrhage from anterior communicating artery aneurysm
+5583081000006112,Subarachnoid haemorrhage from posterior communicating artery aneurysm
+5583091000006110,Subarachnoid hemorrhage from posterior communicating artery aneurysm
+123491000006115,Subarachnoid haemorrhage from basilar artery
+5583101000006116,Subarachnoid haemorrhage from basilar artery aneurysm
+5583111000006118,Subarachnoid hemorrhage from basilar artery aneurysm
+5583121000006114,Subarachnoid haemorrhage from posterior inferior cerebellar artery aneurysm
+5583131000006112,Subarachnoid hemorrhage from posterior inferior cerebellar artery aneurysm
+5583151000006117,Subarachnoid hemorrhage from carotid artery aneurysm
+5583141000006119,Subarachnoid haemorrhage from carotid artery aneurysm
+5588481000006114,Intraventricular hemorrhage of prematurity
+5588471000006111,Intraventricular haemorrhage of prematurity
+5588541000006119,Germinal matrix hemorrhage
+5588561000006115,Perinatal subependymal hemorrhage
+5588511000006118,Perinatal subependymal haemorrhage
+5588551000006117,GMH - Germinal matrix hemorrhage
+5588531000006112,Germinal matrix haemorrhage
+5588521000006114,GMH - Germinal matrix haemorrhage
+5588581000006113,Perinatal subependymal hemorrhage with intraventricular extension
+5588571000006110,Perinatal subependymal haemorrhage with intraventricular extension
+5588601000006115,Perinatal subependymal hemorrhage with intraventricular and intracerebral extension
+5588591000006111,Perinatal subependymal haemorrhage with intraventricular and intracerebral extension
+5589641000006112,Intracerebellar and posterior fossa haemorrhage
+5589651000006114,Intracerebellar and posterior fossa hemorrhage
+5597361000006110,Angiogram-negative intracranial subarachnoid haemorrhage
+5597351000006113,Angiogram-negative intracranial subarachnoid hemorrhage
+5597331000006118,Angiogram-negative subarachnoid haemorrhage
+5597341000006111,Angiogram-negative subarachnoid hemorrhage
+2954631000006118,Basilar haemorrhage
+2954621000006116,Basilar hemorrhage
+2954641000006111,Pars basalis hemorrhage
+2954611000006112,Pars basalis haemorrhage
+5731181000006118,Fetal cerebral hemorrhage
+5731171000006116,Fetal cerebral haemorrhage
+5731161000006111,Foetal cerebral haemorrhage
+3511277013,Spontaneous hemorrhage of subarachnoid space from basilar artery
+3511278015,Spontaneous haemorrhage of subarachnoid space from basilar artery
+3511280014,Nontraumatic haemorrhage of subarachnoid space from basilar artery
+3511279011,Nontraumatic hemorrhage of subarachnoid space from basilar artery
+3511285016,Nontraumatic haemorrhage of subarachnoid space from intracranial artery
+3511284017,Nontraumatic hemorrhage of subarachnoid space from intracranial artery
+3511282018,Spontaneous hemorrhage of subarachnoid space from intracranial artery
+3511283011,Spontaneous haemorrhage of subarachnoid space from intracranial artery
+3511249016,Nontraumatic haemorrhage of subarachnoid space from left posterior communicating artery
+3511251017,Spontaneous haemorrhage of subarachnoid space from left posterior communicating artery
+3511250016,Nontraumatic hemorrhage of subarachnoid space from left posterior communicating artery
+3511252012,Spontaneous hemorrhage of subarachnoid space from left posterior communicating artery
+3511257018,Spontaneous haemorrhage of subarachnoid space from right posterior communicating artery
+3511256010,Nontraumatic hemorrhage of subarachnoid space from right posterior communicating artery
+3511255014,Spontaneous hemorrhage of subarachnoid space from right posterior communicating artery
+3511254013,Nontraumatic haemorrhage of subarachnoid space from right posterior communicating artery
+3507363011,Spontaneous haemorrhage of deep cerebral hemisphere
+3507365016,Nontraumatic haemorrhage of deep cerebral hemisphere
+3507362018,Spontaneous hemorrhage of deep cerebral hemisphere
+3507364017,Nontraumatic hemorrhage of deep cerebral hemisphere
+3507383012,Spontaneous haemorrhage of cortical intracerebral hemisphere
+3507382019,Spontaneous hemorrhage of cortical intracerebral hemisphere
+3507385017,Nontraumatic hemispheric cortical intracerebral haemorrhage
+3507384018,Nontraumatic hemispheric cortical intracerebral hemorrhage
+3507367012,Nontraumatic haemorrhage of cerebral hemisphere
+3507369010,Spontaneous hemorrhage of cerebral hemisphere
+3507366015,Nontraumatic hemorrhage of cerebral hemisphere
+3507370011,Spontaneous haemorrhage of cerebral hemisphere
+3507358012,Spontaneous hemorrhage of brain stem
+3507356011,Nontraumatic hemorrhage of brain stem
+3507359016,Spontaneous haemorrhage of brain stem
+3507360014,Nontraumatic haemorrhage of brain stem
+8089851000006116,Nontraumatic intracerebral haemorrhage
+8089841000006118,Nontraumatic intracerebral hemorrhage
+8089831000006111,Spontaneous cerebral hemorrhage
+8089821000006113,Spontaneous cerebral haemorrhage
+3508914019,Cognitive deficit due to and following nontraumatic subarachnoid hemorrhage
+3508918016,Cognitive deficit as late effect of spontaneous subarachnoid haemorrhage
+3508919012,Cognitive deficit as sequela of nontraumatic subarachnoid haemorrhage
+3508916017,Cognitive deficit as late effect of spontaneous subarachnoid hemorrhage
+3508915018,Cognitive deficit due to and following nontraumatic subarachnoid haemorrhage
+3508917014,Cognitive deficit as sequela of nontraumatic subarachnoid hemorrhage
+3513780018,Aphasia due to and following non-traumatic subarachnoid hemorrhage
+3510802019,Aphasia as sequela of non-traumatic subarachnoid hemorrhage
+3513781019,Aphasia due to and following non-traumatic subarachnoid haemorrhage
+3513769018,Aphasia as sequela of non-traumatic subarachnoid haemorrhage
+5772731000006111,Postpartum intrapituitary hemorrhage
+5772721000006113,Postpartum intrapituitary haemorrhage
+3511463013,Dysphagia due to and following non-traumatic subarachnoid haemorrhage
+3511461010,Dysphagia as late effect of spontaneous subarachnoid haemorrhage
+3511462015,Dysphagia due to and following non-traumatic subarachnoid hemorrhage
+3504909011,Dysphagia as sequela of non-traumatic subarachnoid hemorrhage
+3511460011,Dysphagia as sequela of non-traumatic subarachnoid haemorrhage
+3504910018,Dysphagia as late effect of spontaneous subarachnoid hemorrhage
+5898471000006114,Cerebellar hematoma
+5898461000006119,Cerebellar haematoma
+3027231000006111,Hemorrhage due to ruptured berry aneurysm
+3027241000006118,Haemorrhage due to ruptured berry aneurysm
+3027211000006117,Haemorrhage due to ruptured congenital cerebral aneurysm
+3027221000006113,Hemorrhage due to ruptured congenital cerebral aneurysm
+3119351000006115,Cerebral haemorrhage due to intrapartum anoxia or hypoxia
+3119361000006118,Cerebral hemorrhage due to intrapartum anoxia or hypoxia
+6720791000006113,Nuchal rigidity due to subarachnoid hemorrhage
+6720781000006110,Nuchal rigidity due to subarachnoid haemorrhage
+3184051000006118,Cerebromeningeal hemorrhage
+3184041000006115,Cerebromeningeal haemorrhage
+7052021000006110,Non-traumatic intracerebral ventricular hemorrhage
+7052011000006119,Non-traumatic intracerebral ventricular haemorrhage
+7085481000006116,Intraventricular haemorrhage of foetus
+7085471000006119,Ventricular hemorrhage of fetus
+7085491000006118,Ventricular haemorrhage of foetus
+7085461000006114,Intraventricular hemorrhage of fetus
+7085451000006112,Intraventricular haemorrhage of fetus
+7134241000006113,Intraparenchymal haematoma of brain
+7134251000006110,Intraparenchymal hematoma of brain
+7363351000006117,Intraparenchymal hemorrhage of brain
+7363341000006119,Intraparenchymal haemorrhage of brain
+7377671000006118,Haemorrhage into subarachnoid space of neuraxis
+7377681000006115,Hemorrhage into subarachnoid space of neuraxis
+39721000006117,Oth cereb h'ge inj + open intracran wnd+LOC unspec duration
+39731000006119,Oth cereb h'ge inj no open intracran wnd+>24hr LOC +recovery
+39751000006114,Oth cereb h'ge inj no open intracran wnd+concussion unspec
+30981000006112,Oth cerebral h'ge inj no open intracran wnd+unspec consc
+7378411000006114,Cerebral hemorrhage following injury
+35791000006117,Other cerebral h'ge after injury + open intracranial wound
+39741000006112,Oth cereb h'ge inj no open intracran wnd+>24hr LOC -restored
+39771000006116,Oth cerebral h'ge inj + open intracran wnd + unspec consc
+39761000006111,Oth cereb h'ge inj no open intracran wnd+LOC unspec duration
+39791000006115,Oth cerebral h'ge inj + open intracran wnd+1-24hr loss consc
+39831000006110,Oth cerebral h'ge inj no open intracranial wnd+no loss consc
+39811000006116,Oth cerebral h'ge inj no open intracran wnd+<1hr loss consc
+39801000006119,Oth cerebral h'ge inj + open intracranial wnd+no loss consc
+39821000006112,Oth cerebral h'ge inj no open intracran wnd+1-24hr LOC
+39781000006118,Oth cerebral h'ge inj + open intracran wnd+<1hr loss consc
+35801000006116,Other cerebral h'ge after injury no open intracranial wound
+39691000006110,Oth cereb h'ge inj + open intracran wnd+>24hr LOC + recovery
+39711000006113,Oth cereb h'ge inj + open intracran wnd+concussion unspec
+320852013,Cerebral haemorrhage following injury NOS
+320853015,Other cerebral haemorrhage following injury
+7378441000006113,Traumatic cerebral hemorrhage
+320897016,Other cerebral haemorrhage following injury NOS
+505322013,Cerebral haemorrhage following injury
+505324014,Traumatic cerebral haemorrhage
+7378421000006118,Traumatic intracerebral haemorrhage
+39701000006110,Oth cereb h'ge inj + open intracran wnd+>24hr LOC -restored
+7378401000006111,Traumatic intracerebral hemorrhage
+7386811000006116,Pallidal hemorrhage
+7386831000006110,Hemorrhage in globus pallidus
+7386821000006112,Pallidal haemorrhage
+7386801000006119,Haemorrhage in globus pallidus
+7386851000006115,Hemorrhage in caudate nucleus
+7386841000006117,Haemorrhage in caudate nucleus
+7386861000006118,Haemorrhage in putamen
+7386871000006113,Hemorrhage in putamen
+3284991000006114,Subarachnoid hemorrhage following injury with open intracranial wound AND concussion
+3284981000006111,Subarachnoid haemorrhage following injury with open intracranial wound AND concussion
+3299621000006119,Cortical hemorrhage
+495394013,Cortical haemorrhage
+496232015,Internal capsule haemorrhage
+3346051000006110,Internal capsule hemorrhage
+2583451000006111,Subarachnoid hemorrhage following injury with open intracranial wound
+123361000006117,Subarachnoid h'ge inj + open intracran wound + unspec consc
+320735017,Subarachnoid haemorrhage following injury with open intracranial wound
+123301000006118,Subarach h'ge inj + open intracran wnd+LOC unspec duration
+123351000006119,Subarachnoid h'ge inj + open intracran wnd+concussion unspec
+3508875012,Dysarthria as late effect of haemorrhagic stroke
+3508872010,Dysarthria due to and following haemorrhagic cerebrovascular accident
+3508876013,Dysarthria as sequela of haemorrhagic cerebrovascular accident
+3508874011,Dysarthria as sequela of hemorrhagic cerebrovascular accident
+3508873017,Dysarthria as late effect of hemorrhagic stroke
+3508871015,Dysarthria due to and following hemorrhagic cerebrovascular accident
+3508937013,Dysphasia as late effect of haemorrhagic stroke
+3508938015,Dysphasia as sequela of haemorrhagic cerebrovascular accident
+3508935017,Dysphasia as late effect of hemorrhagic stroke
+3508933012,Dysphasia due to and following hemorrhagic cerebrovascular accident
+3508934018,Dysphasia due to and following haemorrhagic cerebrovascular accident
+3508936016,Dysphasia as sequela of hemorrhagic cerebrovascular accident
+3508890011,Cognitive deficit due to and following haemorrhagic cerebrovascular accident
+3508891010,Cognitive deficit as late effect of hemorrhagic stroke
+3508893013,Cognitive deficit as late effect of haemorrhagic stroke
+3508892015,Cognitive deficit as sequela of hemorrhagic cerebrovascular accident
+3508894019,Cognitive deficit as sequela of haemorrhagic cerebrovascular accident
+3508889019,Cognitive deficit due to and following hemorrhagic cerebrovascular accident
+3513558019,Speech and language deficit as late effect of hemorrhagic stroke
+3513778012,Speech and language deficit as sequela of haemorrhagic cerebrovascular accident
+3513771018,Speech and language deficit as late effect of haemorrhagic stroke
+3513779016,Speech and language deficit due to and following hemorrhagic cerebrovascular accident
+3513684017,Speech and language deficit due to and following haemorrhagic cerebrovascular accident
+3513557012,Speech and language deficit as sequela of hemorrhagic cerebrovascular accident
+7571421000006110,Deep hemispheric cerebral haemorrhage
+7571451000006118,Deep hemispheric hemorrhage
+7571431000006113,Deep hemispheric haemorrhage
+7571441000006115,Deep hemispheric cerebral hemorrhage
+7571751000006114,Subarachnoid hemorrhage from vertebral artery aneurysm
+7571741000006112,Subarachnoid haemorrhage from vertebral artery aneurysm
+7572371000006113,Non-aneurysmal subarachnoid intracranial hemorrhage
+7572361000006118,Non-aneurysmal subarachnoid intracranial haemorrhage
+7572391000006114,Perimesencephalic subarachnoid hemorrhage
+7572381000006111,Perimesencephalic subarachnoid haemorrhage
+7572411000006114,Convexal subarachnoid hemorrhage
+7572401000006111,Convexal subarachnoid haemorrhage
+7586101000006114,Non-aneurysmal perimesencephalic subarachnoid haemorrhage
+7586111000006112,Non-aneurysmal perimesencephalic subarachnoid hemorrhage
+3648511000006111,Intraventricular haemorrhage from any perinatal cause
+3648491000006117,Intraventricular hemorrhage from any perinatal cause
+3648521000006115,Neonatal intraventricular haemorrhage
+3648501000006113,Neonatal intraventricular hemorrhage
+894331000006110,Fetal cerebral haemorrhage
+3648481000006115,Perinatal intraventricular hemorrhage
+501622012,Perinatal intraventricular haemorrhage
+7833771000006116,Fetal or neonatal intraventricular non-traumatic hemorrhage grade 4
+7833761000006111,Foetal or neonatal intraventricular non-traumatic haemorrhage grade 4
+7833781000006118,Foetal or neonatal non-traumatic intraventricular haemorrhage
+7833791000006115,Fetal or neonatal non-traumatic intraventricular hemorrhage
+7833801000006119,Foetal or neonatal intracerebral non-traumatic haemorrhage
+7833811000006116,Fetal or neonatal intracerebral non-traumatic hemorrhage
+7833831000006110,Fetal or neonatal non-traumatic hemorrhage of subarachnoid space of brain
+7833821000006112,Fetal or neonatal non-traumatic haemorrhage of subarachnoid space of brain
+7834271000006110,Focal hemorrhagic contusion of cerebrum
+7834261000006115,Focal haemorrhagic contusion of cerebrum
+7834621000006111,Traumatic hemorrhage of brainstem
+7834611000006115,Traumatic haemorrhage of brainstem
+7834641000006116,Haemorrhage of brainstem due to traumatic injury
+7834631000006114,Hemorrhage of brainstem due to traumatic injury
+7840071000006111,Late effects of non-traumatic intracranial subarachnoid hemorrhage
+7840051000006118,Sequela of non-traumatic intracranial subarachnoid haemorrhage
+7840061000006116,Sequela of non-traumatic intracranial subarachnoid hemorrhage
+3687821000006114,Cerebral hemisphere hemorrhage
+3687811000006118,Cerebral hemisphere haemorrhage
+483988011,Bulbar haemorrhage
+7951271000006116,Haemorrhage of medulla oblongata
+7951281000006118,Hemorrhage of medulla oblongata
+3719861000006119,Haemorrhagic cerebellum
+3719871000006114,Hemorrhagic cerebellum
+3719851000006116,Cerebellar hemorrhage
+502878012,Cerebellar haemorrhage
+3727881000006110,Subarachnoid hemorrhage following injury with open intracranial wound AND loss of consciousness
+3727871000006112,Subarachnoid haemorrhage following injury with open intracranial wound AND loss of consciousness
+503469016,Pontine haemorrhage
+2622631000006114,Intrapontine haemorrhage
+2622641000006116,Intrapontine hemorrhage
+2622651000006119,Pontine hemorrhage
+4056951000006111,Brainstem haemorrhage
+4056941000006114,Brain stem hemorrhage
+4056961000006113,Brainstem hemorrhage
+4056931000006116,Brain stem haemorrhage
+808111000006110,H/O subarachnoid haemorrhage
+300242011,Ruptured berry aneurysm
+300290016,Other and unspecified intracranial haemorrhage
+660111000006117,Nontraumatic extradural haemorrhage
+884431000006116,Extradural haemorrhage
+884451000006111,Cerebral haemorrhage NOS
+300298011,Intracranial haemorrhage
+300406018,Sequelae of subarachnoid haemorrhage
+300407010,Sequelae of intracerebral haemorrhage
+149551000006111,Sequelae of other nontraumatic intracranial haemorrhage

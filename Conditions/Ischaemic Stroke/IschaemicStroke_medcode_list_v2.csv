@@ -1,0 +1,268 @@
+MedCodeID,Description
+2729551000000111,Cerebral infarction due to occlusion of cerebral artery
+2729571000000119,Cerebral infarction due to stenosis of cerebral artery
+4193641000006111,Nonparalytic stroke
+4270361000006116,Paralytic stroke
+8037251000006117,History of thrombotic stroke without residual deficits
+8037281000006113,History of embolic stroke without deficits
+370661000006114,[X]Cereb infarct due unsp occlus/stenos precerebr arteries
+542261000006114,Cerebral infarction due to occlusion of precerebral artery
+8044471000006116,Ischemic stroke with coma
+8044461000006111,Ischaemic stroke with coma
+8044491000006115,Ischemic stroke without coma
+8044481000006118,Ischaemic stroke without coma
+8044631000006116,History of ischemic stroke without residual deficits
+8044621000006119,History of ischaemic stroke without residual deficits
+8044811000006111,History of ischemic cerebrovascular accident with residual deficit
+8044801000006113,History of ischaemic cerebrovascular accident with residual deficit
+8044821000006115,History of embolic stroke with deficits
+8046951000006114,Cerebral infarction due to carotid artery occlusion
+3509799010,Cerebrovascular accident due to occlusion of left posterior cerebral artery
+3509790014,Cerebrovascular accident due to occlusion of right posterior cerebral artery
+3509810017,Cerebrovascular accident due to occlusion of right middle cerebral artery
+3509794017,Cerebrovascular accident due to occlusion of left middle cerebral artery
+3508961018,Cerebrovascular accident due to thrombus of right middle cerebral artery
+3508962013,Stroke due to thrombus of right middle cerebral artery
+3508964014,Cerebrovascular accident due to thrombus of left middle cerebral artery
+3508965010,Stroke due to thrombus of left middle cerebral artery
+9875641000006111,Cerebrovascular accident due to right carotid artery occlusion
+11865051000006118,Cerebrovascular accident due to occlusion of right carotid artery
+3509777019,Cerebrovascular accident due to occlusion of left pontine artery
+3509783016,Cerebrovascular accident due to occlusion of right pontine artery
+3509792018,Cerebrovascular accident due to occlusion of left carotid artery
+3509769018,Cerebrovascular accident due to occlusion of left cerebellar artery
+3509781019,Cerebrovascular accident due to occlusion of right cerebellar artery
+9875951000006117,Cerebrovascular accident due to right carotid artery stenosis
+11843931000006117,Cerebrovascular accident due to stenosis of right carotid artery
+9875961000006115,Cerebrovascular accident due to left carotid artery stenosis
+11843941000006110,Cerebrovascular accident due to stenosis of left carotid artery
+9912271000006112,Cerebellar stroke
+300312010,Cerebral infarct due to thrombosis of precerebral arteries
+300313017,Cerebral infarction due to embolism of precerebral arteries
+300321011,Cerebral infarction due to thrombosis of cerebral arteries
+300322016,Cerebral infarction due to embolism of cerebral arteries
+300370010,Left sided CVA
+4778181000006119,Left sided cerebral hemisphere cerebrovascular accident
+300371014,Right sided CVA
+4778201000006118,Right sided cerebral hemisphere cerebrovascular accident
+542251000006112,"Cerebral infarction due to cerebral venous thrombosis, non-pyogenic"
+5009091000006112,Infarction of optic radiation
+405339016,Cerebrovascular accident
+122401000006115,Stroke unspecified
+605501000006117,CVA unspecified
+605491000006113,CVA - Cerebrovascular accident
+5010981000006119,Stroke
+11878511000006113,Cerebrovascular accident due to occlusion of cerebral artery
+5011021000006113,Cerebrovascular accident due to cerebral artery occlusion
+122361000006113,Stroke due to cerebral arterial occlusion
+605461000006117,CVA - cerebrovascular accident due to cerebral artery occlusion
+345639010,Infarction - precerebral
+5011041000006118,Anterior cerebral circulation infarction
+5011071000006114,Total anterior cerebral circulation stroke
+5011051000006116,Total anterior cerebral circulation infarction
+5011061000006119,TACI - Total anterior cerebral circulation infarction
+5011081000006112,TACS - Total anterior cerebral circulation stroke
+5011111000006118,Partial anterior cerebral circulation stroke
+5011121000006114,PACS - Partial anterior cerebral circulation stroke
+5011101000006116,PACI - Partial anterior cerebral circulation infarction
+5011091000006110,Partial anterior cerebral circulation infarction
+5011181000006113,LI - Lacunar infarction
+5011161000006115,Lacunar stroke
+299342019,Lacunar infarction
+5011171000006110,LACI - Lacunar infarction
+345655015,Pure motor lacunar syndrome
+5011191000006111,Pure motor lacunar infarction
+5011231000006118,Pure sensorimotor lacunar infarction
+5011241000006111,Lacunar ataxic hemiparesis
+5011251000006113,Dysarthria-clumsy hand syndrome
+5011451000006114,Stroke of uncertain pathology
+5011461000006111,Anterior circulation stroke of uncertain pathology
+5011471000006116,Posterior circulation stroke of uncertain pathology
+5011871000006119,Spinal cord stroke
+371641000000112,Delivery of rehabilitation for stroke
+2901571000006113,Completed stroke
+2539131000006116,Stroke rehabilitation
+605481000006110,CVA - cerebrovascular accident in the puerperium
+411416011,Stroke in the puerperium
+2476091017,H/O: stroke
+411518010,H/O: CVA
+1227591017,[V]Personal history of stroke
+809421000006116,History of cerebrovascular accident
+5582311000006110,Occipital cerebral infarction
+5649201000006113,Extension of cerebrovascular accident
+5649221000006115,CVA - Extension of cerebrovascular accident
+5649211000006111,Extension of stroke
+3507425016,Cerebrovascular accident due to stenosis of right vertebral artery
+3507427012,Cerebrovascular accident due to stenosis of left vertebral artery
+3509775010,Cerebrovascular accident due to right vertebral artery occlusion
+3515793014,Cerebrovascular accident due to occlusion of right vertebral artery
+3509779016,Cerebrovascular accident due to occlusion of left vertebral artery
+3510961010,Lacunar ataxic hemiparesis of right dominant side
+3510963013,Lacunar ataxic hemiparesis of left dominant side
+8090421000006115,Cerebral infarction due to vertebral artery stenosis
+8090471000006119,Cerebral infarction due to stenosis of precerebral artery
+5866391000006119,Stroke test positive
+5912811000006111,Infarction of visual cortex
+449935012,Admission to stroke unit
+5967391000006111,Multiple lacunar infarcts
+451133011,Left sided cerebral infarction
+451134017,Right sided cerebral infarction
+5974521000006116,History of stroke in last year
+451371010,H/O: Stroke in last year
+3636133016,Cerebrovascular accident due to occlusion of right middle cerebral artery by embolus
+3636136012,Cerebrovascular accident due to occlusion of left middle cerebral artery by embolus
+3636137015,Cerebrovascular accident due to occlusion of right posterior cerebral artery by embolus
+3636139017,Cerebrovascular accident due to occlusion of left posterior cerebral artery by embolus
+3636141016,Cerebrovascular accident due to occlusion of right cerebellar artery by embolus
+3509817019,Left hemispheric cerebellar artery embolism with stroke
+3636143018,Cerebrovascular accident due to occlusion of left cerebellar artery by embolus
+3508955016,Cerebrovascular accident due to thrombus of basilar artery
+3508956015,Stroke due to basilar artery thrombus
+3508958019,Cerebrovascular accident due to thrombus of right carotid artery
+3508959010,Stroke due to thrombus of right carotid artery
+3510965018,Lacunar ataxic hemiparesis of right nondominant side
+3508953011,Stroke due to thrombus of left carotid artery
+3508952018,Cerebrovascular accident due to thrombus of left carotid artery
+8015121000006118,Cerebral infarction due to occlusion of basilar artery
+8015131000006115,Cerebral infarction due to vertebral artery occlusion
+6348291000006115,Thrombotic stroke
+6348301000006119,Embolic stroke
+6349401000006115,Neonatal stroke
+1212072018,Occlusive stroke
+6431861000006113,Periventricular haemorrhagic venous infarct
+6431871000006118,Periventricular hemorrhagic venous infarct
+6837061000006117,Basal ganglion infarct
+2474651019,Infarction of basal ganglia
+6837051000006119,Basal ganglion stroke
+6846141000006118,Cardioembolic stroke
+6908391000006111,Stroke/transient ischaemic attack monitoring invitation
+6908401000006113,Stroke/transient ischemic attack monitoring invitation
+6990991000006112,Ischemic stroke
+6990981000006114,Ischaemic stroke
+7054171000006115,Acute lacunar infarction
+7067301000006114,Medulla oblongata stroke
+7067291000006113,Infarction of medulla oblongata
+7071901000006111,Thalamic infarction
+7071911000006114,Thalamic stroke
+7100261000006114,History of cardioembolic stroke
+7112631000006117,History of cerebrovascular accident without residual deficits
+395780010,Cerebral infarction
+300941014,[X]Other cerebral infarction
+218511000000117,Infarction - cerebral
+7232811000006116,History of cerebrovascular accident with residual deficit
+7251251000006113,Infarct of cerebrum due to iatrogenic cerebrovascular accident
+3441831000006111,Progressing stroke
+3441841000006118,Stroke-in-evolution syndrome
+3510865019,Hemiplegia of nondominant side as late effect of ischemic stroke
+3510866018,Hemiplegia of nondominant side as late effect of ischaemic stroke
+3510863014,Hemiplegia of nondominant side as sequela of ischemic cerebrovascular accident
+3510862016,Hemiplegia of nondominant side due to and following ischemic cerebrovascular accident
+3510864015,Hemiplegia of nondominant side as sequela of ischaemic cerebrovascular accident
+3510853018,Hemiplegia of dominant side as sequela of ischemic cerebrovascular accident
+3510856014,Hemiplegia of dominant side as late effect of ischaemic stroke
+3510855013,Hemiplegia of dominant side as late effect of ischemic stroke
+3510852011,Hemiplegia of dominant side due to and following ischemic cerebrovascular accident
+3510854012,Hemiplegia of dominant side as sequela of ischaemic cerebrovascular accident
+3508853010,Dysphasia due to and following ischemic cerebrovascular accident
+3508856019,Dysphasia as sequela of ischemic cerebrovascular accident
+3508857011,Dysphasia as late effect of ischaemic stroke
+3508855015,Dysphasia as late effect of ischemic stroke
+3508854016,Dysphasia due to and following ischaemic cerebrovascular accident
+3508858018,Dysphasia as sequela of ischaemic cerebrovascular accident
+3508905012,Cognitive deficit as sequela of ischaemic cerebrovascular accident
+3508900019,Cognitive deficit due to and following ischemic cerebrovascular accident
+3508904011,Cognitive deficit as late effect of ischaemic stroke
+3508903017,Cognitive deficit as sequela of ischemic cerebrovascular accident
+3508902010,Cognitive deficit as late effect of ischemic stroke
+3508901015,Cognitive deficit due to and following ischaemic cerebrovascular accident
+3511081019,Vertigo as sequela of ischemic cerebrovascular accident
+3511082014,Vertigo as late effect of ischemic stroke
+3513774014,Vertigo as sequela of ischaemic cerebrovascular accident
+3513681013,Vertigo due to and following ischaemic cerebrovascular accident
+3513680014,Vertigo due to and following ischemic cerebrovascular accident
+3513775010,Vertigo as late effect of ischaemic stroke
+3510590013,Monoplegia of upper limb as sequela of ischaemic cerebrovascular accident
+3510589016,Monoplegia of upper limb due to and following ischemic cerebrovascular accident
+3510586011,Monoplegia of arm as late effect of ischemic stroke
+3510588012,Monoplegia of upper limb as sequela of ischemic cerebrovascular accident
+3510591012,Monoplegia of upper limb due to and following ischaemic cerebrovascular accident
+3510587019,Monoplegia of arm as late effect of ischaemic stroke
+3513787015,Apraxia due to and following ischaemic cerebrovascular accident
+3513773015,Apraxia as sequela of ischaemic cerebrovascular accident
+3510822015,Apraxia as sequela of ischemic cerebrovascular accident
+3513786012,Apraxia due to and following ischemic cerebrovascular accident
+3508822013,Weakness of facial muscle as sequela of ischemic cerebrovascular accident
+3513529017,Weakness of facial muscle due to and following ischaemic cerebrovascular accident
+3514426017,Facial weakness as late effect of ischaemic stroke
+3508823015,Weakness of facial muscle as sequela of ischaemic cerebrovascular accident
+3513528013,Weakness of facial muscle due to and following ischemic cerebrovascular accident
+3508824014,Facial weakness as late effect of ischemic stroke
+3512916018,Speech and language deficit as sequela of ischemic cerebrovascular accident
+3512917010,Speech and language deficit as late effect of ischemic stroke
+3513777019,Speech and language deficit as late effect of ischaemic stroke
+3513686015,Speech and language deficit due to and following ischemic cerebrovascular accident
+3513687012,Speech and language deficit due to and following ischaemic cerebrovascular accident
+3513776011,Speech and language deficit as sequela of ischaemic cerebrovascular accident
+8211971000006112,History of stroke of cerebellum
+8211961000006117,History of cerebellar stroke
+7522031000006111,History of cerebrovascular accident in last eight weeks
+7598981000006119,Cerebral infarction due to embolism of middle cerebral artery
+7599001000006116,Cerebral infarction due to thrombosis of middle cerebral artery
+7703601000006113,Post stroke pain
+7703611000006111,Post CVA (cerebrovascular accident) pain
+7703591000006117,Pain following cerebrovascular accident
+7741511000006115,CVA (cerebrovascular accident) during surgery
+7741501000006118,Cerebrovascular accident during surgery
+8221321000006118,Stroke and TIA
+7838271000006115,Perinatal arterial ischaemic stroke
+7838281000006117,Perinatal arterial ischemic stroke
+7839991000006115,Silent cerebral infarct
+7840011000006119,Late effects of cerebral ischemic stroke
+7840001000006117,Late effects of cerebral ischaemic stroke
+7855641000006118,Cerebral ischemic stroke due to small artery occlusion
+7855631000006111,Cerebral ischaemic stroke due to small artery occlusion
+7855661000006119,Cerebral ischemic stroke due to intracranial large artery atherosclerosis
+7855651000006116,Cerebral ischaemic stroke due to intracranial large artery atherosclerosis
+7855671000006114,Cerebral ischaemic stroke due to extracranial large artery atherosclerosis
+7855681000006112,Cerebral ischemic stroke due to extracranial large artery atherosclerosis
+7855721000006117,Stroke and migraine
+7855731000006119,Migraine-induced stroke
+7855711000006113,Stroke co-occurrent with migraine
+7863711000006119,Cerebral ischaemic stroke due to occlusion of extracranial large artery
+7863721000006110,Cerebral ischemic stroke due to occlusion of extracranial large artery
+7863741000006115,Cerebral ischemic stroke due to stenosis of extracranial large artery
+7863731000006113,Cerebral ischaemic stroke due to stenosis of extracranial large artery
+7865721000006111,Ischaemic stroke without residual deficits
+7865731000006114,Ischemic stroke without residual deficits
+7955241000006114,Multifocal cerebral infarction due to and following procedure on cardiovascular system
+8024261000006112,Stroke care management
+8265471000006116,Acute stroke care
+524541000006117,Brain stem infarction
+4057041000006110,Brain stem stroke
+4057051000006112,Infarction of brain stem
+345650013,Brainstem infarction NOS
+4057031000006117,Brain stem infarct
+8030701000006114,History of parietal cerebrovascular accident
+7991141000006110,Occlusion of cerebral artery with stroke
+8031211000006113,History of lacunar cerebrovascular accident
+8031281000006118,Cerebral infarction due to stenosis of carotid artery
+1222398015,Cerebral arterial occlusion
+118689010,Cerebral thrombosis
+542831000006116,Cerebral embolus
+125470015,Cerebral embolism
+158118014,Cerebellar infarction
+884501000006113,Cerebral A. occlusion NOS
+884521000006115,Stroke/CVA - undefined
+884531000006117,Stroke
+300362017,Middle cerebral artery syndrome
+300363010,Anterior cerebral artery syndrome
+300364016,Posterior cerebral artery syndrome
+524511000006116,Brainstem stroke syndrome
+300366019,Cerebellar stroke syndrome
+370701000006118,[X]Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs
+300942019,[X]Occlusion and stenosis of other precerebral arteries
+300943012,Cerebral artery occlusion
+130375018,Lateral medullary syndrome
+57341000006119,Wallenberg's syndrome
+345658018,Pure sensory lacunar syndrome
+543141000006110,Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs

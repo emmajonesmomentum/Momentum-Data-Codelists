@@ -1,0 +1,156 @@
+MedCodeID,Description
+301450011,Chronic asthmatic bronchitis
+301451010,Chronic wheezy bronchitis
+183191000006115,Recurrent wheezy bronchitis
+4781571000006111,Bronchial hyperresponsiveness
+2535857010,Hyperreactive airway disease
+4781551000006118,Bronchial hyperreactivity
+4781531000006113,Asthmatic
+301485011,Asthma
+4781581000006114,Bronchial hypersensitivity
+301511014,Asthma unspecified
+4781521000006110,Airway hyperreactivity
+396120014,Asthma NOS
+301480018,Bronchial asthma
+4781561000006116,BHR - Bronchial hyperreactivity
+301509017,Mixed asthma
+2815001000006115,Meat-wrappers' asthma
+338238011,Brittle asthma
+5054251000006118,Byssinosis grade 3
+350147016,Childhood asthma
+350148014,Late onset asthma
+350149018,Late-onset asthma
+5054341000006110,Late-onset asthma
+350154010,Pollen asthma
+350153016,Hay fever with asthma
+817361000006114,Hay fever with asthma
+5054371000006119,Colophony asthma
+5054391000006118,Sulfite-induced asthma
+5054381000006116,Sulphite-induced asthma
+5054431000006112,Asthmatic pulmonary eosinophilia
+5492441000006114,Non-allergic asthma
+396114013,Intrinsic asthma
+301508013,Intrinsic asthma NOS
+5492451000006111,Asthma due to internal immunological process
+5649191000006110,Exacerbation of asthma
+2988741000006118,Allergic-infective asthma
+11922851000006115,Acute asthma
+456163018,Asthma - currently active
+655611000006111,Exercise induced asthma
+655601000006113,Exercise-induced asthma
+3005811000006119,Exercise induced asthma
+3005801000006117,EIA - Exercise-induced asthma
+3047751000006114,Baker's asthma
+3047731000006119,Bakers' asthma
+3047741000006112,Flour asthma
+1208969012,Mild asthma
+1208970013,Moderate asthma
+1208971012,Occasional asthma
+1208972017,Severe asthma
+1483199016,Allergic asthma
+350152014,Allergic asthma NEC
+6512381000006116,Atopic asthma
+660351000006118,Allergic atopic asthma
+885291000006115,Extrinsic asthma - atopy
+6550131000006111,Nocturnal asthma
+1488722011,Asthma night-time symptoms
+1780388018,Asthma confirmed
+6703821000006115,Platinum asthma
+6703841000006110,Cheese-makers' asthma
+6703881000006116,Isocyanate induced asthma
+2163183015,Wheezy bronchitis
+6720721000006111,Asthmatic bronchitis
+929091000006111,Aspirin-induced asthma
+6782071000006115,Cough variant asthma
+3169591000006116,Enzyme lung
+3169581000006119,Enzyme detergent respiratory disease
+3169571000006117,Enzyme detergent lung
+3169561000006112,Detergent workers' lung
+69311016,Detergent asthma
+3169601000006112,Enzyme lung disease
+6920631000006113,Tea-makers' asthma
+7015991000006110,Non-IgE mediated allergic asthma
+7016011000006114,Non-immunoglobulin E mediated allergic asthma
+7016001000006111,Non IgE mediated allergic asthma
+7021801000006116,Substance induced asthma
+7030321000006113,IgE mediated asthma
+7030351000006116,Immunoglobulin E-mediated allergic asthma
+301499010,Extrinsic asthma
+7030311000006117,IgE-mediated allergic asthma
+7030341000006118,IgE mediated allergic asthma
+7052221000006118,Exacerbation of intermittent asthma
+7062421000006112,Severe persistent asthma
+7067211000006115,Mild persistent asthma
+7071891000006112,Moderate persistent asthma
+7076331000006112,Intermittent asthma
+7077481000006119,Mild intermittent asthma
+7258581000006114,Acute exacerbation of chronic asthmatic bronchitis
+7307941000006113,Seasonal asthma
+3402341000006114,Asthma without status asthmaticus
+3425401000006119,Wood pulp workers' lung
+3425351000006110,Wood-workers' asthma
+3425361000006112,Wood-workers' lung
+94731013,Wood asthma
+3425371000006117,Wood dust asthma
+3425391000006116,Wood dust pneumonitis
+3425381000006119,Saw dust asthma
+3425341000006113,Wood asthma
+95786019,Occupational asthma
+3435971000006119,Industrial asthma
+983771000006118,Work aggravated asthma
+3471011000006110,Weavers' cough
+104872017,Extrinsic asthma without status asthmaticus
+7584521000006119,Dermatophagoides pteronyssinus allergic asthma
+7584531000006116,Allergic asthma caused by Dermatophagoides pteronyssinus
+7584511000006110,Allergic asthma due to Dermatophagoides pteronyssinus
+7584541000006114,Allergic asthma due to Dermatophagoides farinae
+7584551000006111,Dermatophagoides farinae allergic asthma
+7584561000006113,Allergic asthma caused by Dermatophagoides farinae
+7617601000006114,Uncomplicated asthma
+7617611000006112,Exacerbation of mild persistent asthma
+7617621000006116,Exacerbation of moderate persistent asthma
+7617631000006118,Exacerbation of severe persistent asthma
+7618791000006110,Uncomplicated mild persistent asthma
+7618801000006111,Uncomplicated moderate persistent asthma
+7618811000006114,Uncomplicated severe persistent asthma
+7626521000006110,Acute severe exacerbation of severe persistent asthma
+7626531000006113,Acute severe exacerbation of moderate persistent asthma
+7626541000006115,Acute severe exacerbation of mild persistent asthma
+419211018,Acute exacerbation of asthma
+409865018,Asthma attack NOS
+7627241000006119,Acute exacerbation of asthma
+396119015,Asthma attack
+11903851000006115,Severe asthma attack
+7628191000006118,Acute severe exacerbation of asthma
+145961000006117,Acute severe exacerbation of asthma
+7628281000006112,Acute exacerbation of immunoglobulin E-mediated allergic asthma
+7628271000006114,Acute exacerbation of extrinsic asthma
+350151019,Acute exacerbation of allergic asthma
+350156012,Acute exacerbation of intrinsic asthma
+7628321000006118,Acute severe exacerbation of immunoglobin E-mediated allergic asthma
+7628311000006114,Acute severe exacerbation of extrinsic asthma
+7628301000006111,Acute severe exacerbation of allergic asthma
+7628331000006115,Acute severe exacerbation of intrinsic asthma
+7961281000006114,Acute severe asthma
+7961271000006111,Acute severe refractory exacerbation of asthma
+7961291000006112,Status asthmaticus
+396118011,Life threatening acute exacerbation of asthma
+3511374015,Moderate acute exacerbation of asthma
+3514926012,Allergic asthma with status asthmaticus
+3514925011,Acute severe exacerbation of asthma co-occurrent and due to allergic asthma
+3514928013,Uncomplicated allergic asthma
+3514930010,Uncomplicated non-allergic asthma
+3637387011,Exacerbation of allergic asthma
+3894091000006115,Cotton-dust asthma
+142162019,Byssinosis
+3894101000006114,Mill fever
+3894081000006118,Cotton workers' lung disease
+3948141000006117,Chronic allergic bronchitis
+4009591000006110,Chemical-induced asthma
+4020511000006119,Drug-induced asthma
+151338014,Life threatening acute exacerbation of allergic asthma
+21390015,Intrinsic asthma without status asthmaticus
+98546013,Life threatening acute exacerbation of intrinsic asthma
+2240591000000119,Chronic asthma with fixed airflow obstruction
+477291000006114,Allergic bronchitis NEC
+1948051000006112,Asthma-chronic obstructive pulmonary disease overlap syndrome

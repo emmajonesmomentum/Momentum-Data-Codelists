@@ -1,0 +1,7 @@
+ICD10Codes,Description
+J45,Asthma
+J45.0,Predominantly allergic asthma
+J45.1,Nonallergic asthma
+J45.8,Mixed asthma
+J45.9,"Asthma, unspecified"
+J46,Status asthmaticus

@@ -1,0 +1,616 @@
+MedCodeID,Description
+2663911000006113,Open fracture of C1-C4 level with incomplete spinal cord lesion
+2668241000006113,Open fracture of vertebral column with spinal cord injury
+4198091000006119,Open fracture of sacrum AND/OR coccyx with complete cauda equina lesion
+4353011000006118,Closed fracture of sacrum AND/OR coccyx with cauda equina injury
+4353021000006114,Open fracture of sacrum AND/OR coccyx with cauda equina injury
+325323015,Fracture of cervical spine
+4378851000006119,Fracture of cervical vertebra
+1220722015,Fracture of neck
+325324014,[X]Fracture of other parts of neck
+4378891000006113,Fracture of lumbar spine
+1220724019,Fracture of lumbar vertebra
+4378911000006110,Open fracture of cervical region with spinal cord injury
+194543011,Fracture of coccyx
+194542018,Fracture of sacrum
+4424181000006118,Closed reduction of spinal fracture
+4424171000006116,Closed reduction of fracture of vertebra
+4424191000006115,Closed reduction of fracture of vertebral body
+4424201000006117,Closed reduction of fracture of spinous process of vertebra
+4424211000006119,Closed reduction of fracture of transverse process of vertebra
+2709381000006112,Closed fracture of T7-T12 level with anterior cord syndrome
+2713271000006116,Closed fracture of T1-T6 level with incomplete spinal cord lesion
+2728791000006114,Reduction of fracture of vertebra
+2728781000006111,Reduction of fracture of spine
+2729621000006112,Closed fracture of T1-T6 level with anterior cord syndrome
+2749351000006114,Fracture of vertebral column without spinal cord injury
+2764931000006112,Open fracture of T1-T6 level with spinal cord injury
+402850015,Fracture of spine with spinal cord lesion
+2526081000006114,Fracture of vertebral column with spinal cord injury
+402849015,Fracture of vertebra with spinal cord lesion
+318599011,Closed fracture of spine with spinal cord lesion unspecified
+318600014,Open fracture of spine with spinal cord lesion unspecified
+318601013,Fracture of vertebral column with spinal cord injury
+276471011,Other specified decompression of fracture of spine
+276474015,Decompression of fracture of spine NOS
+276467013,Decompression of fracture of spine
+276468015,Complex decompression of fracture of spine
+276469011,Anterior decompression of fracture of spine
+43041000006111,Open reduction of fracture of spine and excision of facet of spine
+875111000006113,Halo skull traction
+276484019,Halo skull traction for fracture of spine
+12452471000006111,Primary collar stabilisation of spinal fracture
+4684951000006116,Primary collar stabilization of cervical spine fracture
+4684931000006111,Primary collar stabilisation of cervical spine fracture
+276488016,Primary collar stabilisation of cervical spine fracture
+276498010,Revision to bedrest stabilisation of spinal fracture
+4685031000006111,Revision to bedrest stabilization of spinal fracture
+210131000006113,Primary closed reduction cervical spine fracture and collar stabilisation
+4685151000006117,Primary closed reduction cervical spine fracture and collar stabilization
+12452461000006116,Primary closed reduction spinal fracture and collar stabilisation
+4685131000006112,Primary closed reduction cervical spine fracture and collar stabilisation
+4685171000006110,Primary closed reduction spinal fracture and bedrest stabilization
+210111000006119,Primary closed reduction spinal fracture and bedrest stabilisation
+210051000006117,Primary closed reduction spinal fracture and skull traction stabilisation
+4685191000006111,Primary closed reduction spinal fracture and skull traction stabilization
+4685211000006112,Primary closed reduction spinal fracture and cast stabilization
+210121000006110,Primary closed reduction spinal fracture and cast stabilisation
+210141000006115,Primary closed reduction spinal fracture and external fixation
+12451851000006113,Revision to closed reduction spinal fracture and collar stabilisation
+4685251000006113,Revision to closed reduction of cervical spine fracture and collar stabilization
+4685231000006118,Revision to closed reduction of cervical spine fracture and collar stabilisation
+171491000006118,Revision to closed reduction of cervical spine fracture and collar stabilisation
+171401000006113,Revision to closed reduction spinal fracture and bedrest stabilisation
+4685271000006115,Revision to closed reduction spinal fracture and bedrest stabilization
+171441000006110,Revision to closed reduction spinal fracture and skull traction stabilisation
+4685291000006119,Revision to closed reduction spinal fracture and skull traction stabilization
+171411000006111,Revision to closed reduction spinal fracture and cast stabilisation
+4685311000006115,Revision to closed reduction spinal fracture and cast stabilization
+171421000006115,Revision to closed reduction spinal fracture and external fixation
+205491000006111,Primary open reduction of cervical spine fracture and collar stabilisation
+4685351000006119,Primary open reduction of cervical spine fracture and collar stabilization
+12452431000006113,Primary open reduction spinal fracture and collar stabilisation
+4685331000006114,Primary open reduction of cervical spine fracture and collar stabilisation
+205471000006110,Primary open reduction spinal fracture and bedrest stabilisation
+4685371000006112,Primary open reduction spinal fracture and bedrest stabilization
+4685391000006113,Primary open reduction spinal fracture and skull traction stabilization
+205451000006117,Primary open reduction spinal fracture and skull traction stabilisation
+4685411000006113,Primary open reduction spinal fracture and cast stabilization
+205481000006113,Primary open reduction spinal fracture and cast stabilisation
+276543015,Primary open reduction spinal fracture and external fixation
+12451691000006118,Revision to open reduction spinal fracture and collar stabilisation
+159391000006112,Revision to open reduction of cervical spine fracture and collar stabilisation
+4685431000006119,Revision to open reduction of cervical spine fracture and collar stabilisation
+4685451000006114,Revision to open reduction of cervical spine fracture and collar stabilization
+4685471000006116,Revision to open reduction spinal fracture and bedrest stabilization
+159371000006111,Revision to open reduction spinal fracture and bedrest stabilisation
+159471000006115,Revision to open reduction spinal fracture and skull traction stabilisation
+4685491000006115,Revision to open reduction spinal fracture and skull traction stabilization
+159381000006114,Revision to open reduction spinal fracture and cast stabilisation
+4685511000006114,Revision to open reduction spinal fracture and cast stabilization
+159401000006114,Revision to open reduction spinal fracture and external fixation
+204961000006112,Primary open reduction spinal fracture and internal fixation with plate
+276566019,Fixation of fracture of spine using Harrington rod
+204981000006119,Primary open reduction spinal fracture and internal fixation with wire
+204971000006117,Primary open reduction spinal fracture and internal fixation with rod system
+204941000006113,Primary open reduction spinal fracture and internal fixation with segmental wire system
+204951000006110,Primary open reduction spinal fracture and internal fixation with internal fixator
+159441000006111,Revision to open reduction spinal fracture and internal fixation with wire
+159421000006116,Revision to open reduction spinal fracture and internal fixation with plate
+159431000006118,Revision to open reduction spinal fracture and internal fixation with rod system
+159361000006116,Revision to open reduction spinal fracture and internal fixation with segmental wire system
+159411000006112,Revision to open reduction spinal fracture and internal fixation with internal fixator
+2527751000006118,Open reduction of open sacral fracture
+2800931000006116,Closed fracture of T7-T12 level with incomplete spinal cord lesion
+2812621000006110,Open reduction of spinal fracture
+276481010,Open reduction of fracture of spine NEC
+4816081000006112,Stress fracture of vertebra
+311305016,Fatigue fracture of vertebra
+40881000006116,Osteoporosis with pathological fracture of lumbar vertebrae
+40891000006118,Osteoporosis with pathological fracture of thoracic vertebrae
+40871000006119,Osteoporosis with pathological fracture of cervical vertebrae
+2823831000006110,Open fracture of C5-C7 level with incomplete spinal cord lesion
+318344018,Fracture of neck and trunk
+318729017,Fracture of neck and trunk NOS
+318375010,"Closed fracture atlas, isolated arch or articular process"
+318376011,"Closed fracture atlas, comminuted"
+318377019,"Closed fracture axis, odontoid process"
+318378012,"Closed fracture axis, spondylolysis"
+318379016,"Closed fracture axis, spinous process"
+318380018,"Closed fracture axis, transverse process"
+318381019,"Closed fracture axis, posterior arch"
+318382014,"Closed fracture axis, tricolumnar"
+318383016,"Closed fracture cervical vertebra, burst"
+318384010,"Closed fracture cervical vertebra, wedge"
+318385011,"Closed fracture cervical vertebra, spondylolysis"
+318386012,"Closed fracture cervical vertebra, spinous process"
+318387015,"Closed fracture cervical vertebra, transverse process"
+318388013,"Closed fracture cervical vertebra, posterior arch"
+318389017,"Closed fracture cervical vertebra, tricolumnar"
+318390014,Multiple closed fractures of cervical vertebrae
+318418017,"Open fracture atlas, isolated arch or articular process"
+318419013,"Open fracture atlas, comminuted"
+318420019,"Open fracture axis, odontoid process"
+318421015,"Open fracture axis, spondylolysis"
+318422010,"Open fracture axis, spinous process"
+318423017,"Open fracture axis, transverse process"
+318424011,"Open fracture axis, posterior arch"
+318425012,"Open fracture axis, tricolumnar"
+318426013,"Open fracture cervical vertebra, burst"
+318427016,"Open fracture cervical vertebra, wedge"
+318428014,"Open fracture cervical vertebra, spondylolysis"
+318429018,"Open fracture cervical vertebra, spinous process"
+318430011,"Open fracture cervical vertebra, transverse process"
+318431010,"Open fracture cervical vertebra, posterior arch"
+318432015,"Open fracture cervical vertebra, tricolumnar"
+318433013,Multiple open fractures of cervical vertebrae
+318445016,Closed fracture thoracic vertebra not otherwise specified
+318443011,Other specified closed fracture thoracic vertebra
+895281000006117,#Thoracic spine-no cord lesion
+318435018,Closed fracture thoracic vertebra
+318436017,"Closed fracture thoracic vertebra, burst"
+318437014,"Closed fracture thoracic vertebra, wedge"
+318438016,"Closed fracture thoracic vertebra, spondylolysis"
+318439012,"Closed fracture thoracic vertebra, spinous process"
+318440014,"Closed fracture thoracic vertebra, transverse process"
+318441013,"Closed fracture thoracic vertebra, posterior arch"
+318442018,"Closed fracture thoracic vertebra, tricolumnar"
+318446015,Open fracture thoracic vertebra
+318447012,"Open fracture thoracic vertebra, burst"
+318448019,"Open fracture thoracic vertebra, wedge"
+318449010,"Open fracture thoracic vertebra, spondylolysis"
+318450010,"Open fracture thoracic vertebra, spinous process"
+318451014,"Open fracture thoracic vertebra, transverse process"
+318452019,"Open fracture thoracic vertebra, posterior arch"
+318453012,"Open fracture thoracic vertebra, tricolumnar"
+895291000006119,#Lumbar spine - no cord lesion
+318454018,Closed fracture lumbar vertebra
+318455017,"Closed fracture lumbar vertebra, burst"
+318456016,"Closed fracture lumbar vertebra, wedge"
+318457013,"Closed fracture lumbar vertebra, spondylolysis"
+318458015,"Closed fracture lumbar vertebra, spinous process"
+318459011,"Closed fracture lumbar vertebra, transverse process"
+318460018,"Closed fracture lumbar vertebra, posterior arch"
+318461019,"Closed fracture lumbar vertebra, tricolumnar"
+318462014,Open fracture lumbar vertebra
+318463016,"Open fracture lumbar vertebra, burst"
+318464010,"Open fracture lumbar vertebra, wedge"
+318465011,"Open fracture lumbar vertebra, spondylolysis"
+318466012,"Open fracture lumbar vertebra, spinous process"
+318467015,"Open fracture lumbar vertebra, transverse process"
+318468013,"Open fracture lumbar vertebra, posterior arch"
+318469017,"Open fracture lumbar vertebra, tricolumnar"
+895301000006118,#Sacrum/coccyx-no cord lesion
+318473019,Closed fracture sacrum
+318474013,Closed compression fracture sacrum
+318475014,Closed vertical fracture of sacrum
+318476010,Open fracture sacrum
+318477018,Open compression fracture sacrum
+318482013,Fracture of first cervical vertebra
+318483015,Fracture of second cervical vertebra
+318484014,Multiple fractures of cervical spine
+562751000006110,Closed fracture of cervical spine with cord lesion NOS
+318500017,Closed fracture of cervical spine with cord lesion
+895321000006111,#Cervical spine + cord lesion
+570671000006117,"Closed spinal fracture with anterior cervical cord lesion, C1-4"
+570771000006110,"Closed spinal fracture with posterior cervical cord lesion, C1-4"
+570751000006117,"Closed spinal fracture with complete cervical cord lesion, C5-7"
+570681000006119,"Closed spinal fracture with anterior cervical cord lesion, C5-7"
+570781000006113,"Closed spinal fracture with posterior cervical cord lesion, C5-7"
+44451000006118,"Open spinal fracture with complete cervical cord lesion, C1-4"
+43161000006114,"Open spinal fracture with posterior cervical cord lesion, C1-4"
+44461000006116,"Open spinal fracture with complete cervical cord lesion, C5-7"
+318524013,"Open spinal fracture with central cervical cord lesion, C5-7"
+43171000006119,"Open spinal fracture with posterior cervical cord lesion, C5-7"
+570861000006113,"Closed spinal fracture with complete thoracic cord lesion, T1-6"
+570851000006111,"Closed spinal fracture with anterior thoracic cord lesion, T1-6"
+570791000006111,"Closed spinal fracture with posterior thoracic cord lesion, T1-6"
+570761000006115,"Closed spinal fracture with complete thoracic cord lesion,T7-12"
+570691000006116,"Closed spinal fracture with anterior thoracic cord lesion,T7-12"
+570801000006112,"Closed spinal fracture with posterior thoracic cord lesion, T7-12"
+43141000006110,"Open spinal fracture with complete thoracic cord lesion, T1-6"
+44431000006113,"Open spinal fracture with anterior thoracic cord lesion, T1-6"
+43181000006116,"Open spinal fracture with posterior thoracic cord lesion, T1-6"
+43151000006112,"Open spinal fracture with complete thoracic cord lesion, T7-12"
+43191000006118,"Open spinal fracture with posterior thoracic cord lesion, T7-12"
+318558017,Closed spinal fracture with complete lumbar cord lesion
+318559013,Closed spinal fracture with anterior lumbar cord lesion
+318560015,Closed spinal fracture with central lumbar cord lesion
+318561016,Closed spinal fracture with posterior lumbar cord lesion
+318562011,Closed spinal fracture with cauda equina lesion
+318565013,Open spinal fracture with complete lumbar cord lesion
+318566014,Open spinal fracture with anterior lumbar cord lesion
+318567017,Open spinal fracture with central lumbar cord lesion
+318568010,Open spinal fracture with posterior lumbar cord lesion
+318569019,Open spinal fracture with cauda equina lesion
+318573016,Closed fracture of sacrum with complete cauda equina lesion
+318583017,Open fracture of sacrum with complete cauda equina lesion
+318725011,Multiple fractures of thoracic spine
+4841671000006118,Multiple fracture of thoracic vertebrae
+387541000006118,[X]Fract of other and unspec parts of lumbar spine & pelvis
+325247012,Fractures involving thorax with lower back and pelvis
+792411000006118,Fractures involving thorax with lower back and pelvis with limb(s)
+2849681000006111,Open fracture of C1-C4 level with anterior cord syndrome
+2866231000006111,Closed fracture of vertebral column with spinal cord injury
+359833013,Osteoporotic vertebral collapse
+455536018,Collapse of vertebra due to osteoporosis
+5460471000006116,Fracture dislocation of spinal vertebra
+5460461000006111,Fracture dislocation of spine
+5460481000006118,Fracture dislocation of cervical spine
+5460501000006111,Hangman fracture
+5460491000006115,Hangman's fracture
+5460511000006114,Fracture dislocation of thoracic spine
+5460521000006118,Fracture dislocation of lumbar spine
+5461811000006119,Jefferson fracture
+5461821000006110,Fracture arch of atlas
+318353013,Closed fracture of unspecified cervical vertebra
+895271000006115,#Cervical spine-no cord lesion
+402833017,Closed fracture of cervical spine
+318391013,Closed fracture of cervical spine not otherwise specified
+5509811000006110,Closed fracture of first cervical vertebra
+402834011,Closed fracture atlas
+402835012,Closed fracture axis
+5509831000006116,Closed fracture of second cervical vertebra
+402836013,Closed fracture of third cervical vertebra
+402837016,Closed fracture of fourth cervical vertebra
+402838014,Closed fracture of fifth cervical vertebra
+402839018,Closed fracture of sixth cervical vertebra
+402840016,Closed fracture of seventh cervical vertebra
+318434019,Open fracture of cervical spine not otherwise specified
+402841017,Open fracture of cervical spine
+318396015,Open fracture of unspecified cervical vertebra
+402842012,Open fracture atlas
+402844013,Open fracture of third cervical vertebra
+531631000006110,C3 vertebra open fracture without spinal cord lesion
+402845014,Open fracture of fourth cervical vertebra
+531651000006115,C4 vertebra open fracture without spinal cord lesion
+531671000006113,C5 vertebra open fracture without spinal cord lesion
+402846010,Open fracture of fifth cervical vertebra
+531691000006114,C6 vertebra open fracture without spinal cord lesion
+402847018,Open fracture of sixth cervical vertebra
+531711000006112,C7 vertebra open fracture without spinal cord lesion
+402848011,Open fracture of seventh cervical vertebra
+405143010,Pathological fracture of thoracic vertebra
+405144016,Pathological fracture of lumbar vertebra
+5560561000006119,Pathological fracture of vertebra
+570631000006115,"Cls spinal # with incomplete cervical cord lesion, C1-4 NOS"
+44371000006115,"Opn spinal # with incomplete cervical cord lesion, C1-4 NOS"
+5560671000006113,Fracture of cervical spine with cord lesion
+570641000006113,"Cls spinal # with incomplete cervical cord lesion, C5-7 NOS"
+44381000006117,"Opn spinal # with incomplete cervical cord lesion, C5-7 NOS"
+43211000006117,"Opn spinal fracture with unspec cervical cord lesion, C5-7"
+43201000006115,"Opn spinal fracture with unspec cervical cord lesion, C1-4"
+570651000006110,"Cls spinal # with incomplete thoracic cord lesion, T1-6 NOS"
+43231000006111,"Opn spinal fracture with unspec thoracic cord lesion, T7-12"
+570661000006112,"Cls spinal # with incomplete thoracid cord lesion, T7-12 NOS"
+570831000006116,"Cls spinal fracture with unspec thoracic cord lesion, T7-12"
+44401000006117,"Opn spinal # with incomplete thoracic cord lesion, T7-12 NOS"
+44391000006119,"Opn spinal # with incomplete thoracic cord lesion, T1-6 NOS"
+43221000006113,"Opn spinal fracture with unspec thoracic cord lesion, T1-6"
+5560681000006111,Fracture of thoracic spine with cord lesion
+570841000006114,"Cls spinal fracture with unspec thoracic cord lesion,T1-6"
+318557010,Closed spinal fracture with unspecified lumbar cord lesion
+51781000006118,Open spinal fracture with incomplete lumbar cord lesion NOS
+318564012,Open spinal fracture with unspecified lumbar cord lesion
+5560691000006114,Fracture of lumbar spine with cord lesion
+411019014,Internal fixation of fracture of spine
+2948421000006112,Open fracture of T7-T12 level with anterior cord syndrome
+5657681000006112,Fracture dislocation of thoracolumbar junction
+5657691000006110,Fracture dislocation of cervicothoracic junction
+5657701000006110,Fracture dislocation of lumbosacral junction
+5657711000006113,Fracture of odontoid process
+5657721000006117,Fracture of odontoid peg
+5657731000006119,Teardrop fracture of cervical vertebra
+5657741000006112,Wedge fracture of cervical vertebra
+5657751000006114,Collapse wedge fracture of cervical vertebra
+5657761000006111,Crush fracture of cervical vertebra
+5657771000006116,Burst fracture of cervical vertebra
+5657781000006118,Fracture of pedicle of cervical vertebra
+5657791000006115,Fracture of transverse process of cervical vertebra
+5657801000006119,Fracture of lamina of cervical vertebra
+5657811000006116,Fracture of spinous process of cervical vertebra
+5657821000006112,Two column fracture of cervical vertebra
+5657831000006110,Three column fracture of cervical vertebra
+5657841000006117,Teardrop fracture of thoracic vertebra
+5657861000006118,Collapse wedge fracture of thoracic vertebra
+5657851000006115,Wedge fracture of thoracic vertebra
+5657871000006113,Crush fracture of thoracic vertebra
+5657881000006111,Burst fracture of thoracic vertebra
+5657891000006114,Fracture of pedicle of thoracic vertebra
+5657911000006111,Fracture of lamina of thoracic vertebra
+5657921000006115,Fracture of spinous process of thoracic vertebra
+5657941000006110,Three column fracture of thoracic vertebra
+5657951000006112,Teardrop fracture of lumbar vertebra
+5657961000006114,Wedge fracture of lumbar vertebra
+5657971000006119,Collapse wedge fracture of lumbar vertebra
+5657981000006116,Crush fracture of lumbar vertebra
+5657991000006118,Burst fracture of lumbar vertebra
+5658001000006111,Fracture of pedicle of lumbar vertebra
+5658011000006114,Fracture of transverse process of lumbar vertebra
+5658021000006118,Fracture of lamina of lumbar vertebra
+5658031000006115,Fracture of spinous process of lumbar vertebra
+5658061000006112,Two column fracture of lumbar vertebra
+5658071000006117,Three column fracture of lumbar vertebra
+5964821000006114,Anterior wedge fracture of vertebra
+451463012,Pathological fracture of cervical vertebra
+3000361000006119,Closed fracture of T1-T6 level with posterior cord syndrome
+6006161000006113,Primary closed reduction of spinal fracture
+276510019,Primary closed reduction spinal fracture alone
+210061000006115,Primary cls reduct spinal fracture+oth external stabilisatn
+6006181000006115,Primary open reduction of spinal fracture
+276534012,Primary open reduction spinal fracture alone
+205441000006119,Primary opn reduc spinal fracture+other external stabilisatn
+276546011,Revision to open reduction spinal fracture alone
+6006191000006117,Revision open reduction of spinal fracture
+159451000006113,Rvsn open reduc spinal fracture+other external stabilisation
+455433012,Collapse of cervical vertebra due to osteoporosis
+455444016,Closed multiple fractures of thoracic spine
+455445015,Open multiple fracture of thoracic spine
+455486010,Open fractures involving head with neck
+562351000006114,Closed fracture involving thorax wth lower back and pelvis and limbs
+259481000006119,Open fracture involving thorax wth lower back and pelvis and limbs
+455534015,Collapse of lumbar vertebra due to osteoporosis
+455535019,Collapse of thoracic vertebra due to osteoporosis
+3003691000006114,Closed fracture of C5-C7 level with anterior cord syndrome
+6048931000006112,Burst fracture of vertebra
+6048941000006119,Wedge fracture of vertebra
+3013491000006114,Closed fracture of T1-T6 level with spinal cord injury
+3033451000006112,Open fracture of C1-C4 level with posterior cord syndrome
+2554051000006114,Open fracture of T7-T12 level with spinal cord injury
+3070201000006115,Open reduction of closed sacral fracture
+3070311000006114,Closed fracture of C5-C7 level with posterior cord syndrome
+3122641000006110,Open reduction of open coccygeal fracture
+1780420012,Vertebroplasty
+3162471000006111,Closed fracture of T7-T12 level with posterior cord syndrome
+3167951000006110,Closed fracture of sacrum AND/OR coccyx with complete cauda equina lesion
+318493010,Closed fracture of vertebral column
+2674037014,Balloon kyphoplasty of fracture of spine
+7062291000006110,Compression fracture of lumbar spine
+3192381000006119,Compression fracture of spine
+3192371000006117,Compression fracture of vertebral column
+7128931000006115,Compression fracture of cervical spine
+7129131000006113,Pseudoarthrosis of spine
+7132721000006115,Fluoroscopy guided kyphoplasty of lumbar spinal fracture
+7132731000006117,Kyphoplasty of fracture of lumbar spine using fluoroscopic guidance
+7132741000006110,Fluoroscopic guidance for kyphoplasty of lumbar spinal fracture
+7132941000006113,Percutaneous sacral vertebroplasty using fluoroscopic guidance
+7132951000006110,Fluoroscopic guidance for percutaneous sacral vertebroplasty
+7132931000006115,Fluoroscopy guided percutaneous sacral vertebroplasty
+11831321000006118,Percutaneous sacroplasty using fluoroscopic guidance
+7135521000006119,Fluoroscopic guidance for percutaneous cervical vertebroplasty
+7135511000006110,Percutaneous cervical vertebroplasty using fluoroscopic guidance
+7135501000006112,Fluoroscopy guided percutaneous cervical vertebroplasty
+7135741000006116,Fluoroscopy guided kyphoplasty of cervical spinal fracture
+7135751000006119,Kyphoplasty of fracture of cervical spine using fluoroscopic guidance
+7135761000006117,Fluoroscopic guidance for kyphoplasty of cervical spinal fracture
+7139191000006114,Vertebroplasty of lumbar spine using computed tomography guidance
+7139181000006111,Vertebroplasty of lumbar spine using computed tomography (CT) guidance
+7139171000006113,CT guided vertebroplasty of lumbar spine
+7140541000006117,Fluoroscopy guided percutaneous lumbar vertebroplasty
+7140561000006118,Fluoroscopic guidance for percutaneous lumbar vertebroplasty
+7140551000006115,Percutaneous lumbar vertebroplasty using fluoroscopic guidance
+7141861000006114,CT guided kyphoplasty of fracture of lumbar spine
+7141891000006118,CT guided kyphoplasty of lumbar spinal fracture
+7141881000006116,Kyphoplasty of fracture of lumbar spine using computed tomography guidance
+7141871000006119,Kyphoplasty of fracture of lumbar spine using computed tomography (CT) guidance
+7143391000006114,Kyphoplasty of fracture of cervical spine using computed tomography guidance
+7143381000006111,Kyphoplasty of fracture of cervical spine using computed tomography (CT) guidance
+7143401000006111,CT guided kyphoplasty of fracture of cervical spine
+7143371000006113,CT guided kyphoplasty of cervical spinal fracture
+7144791000006110,Fluoroscopy guided kyphoplasty of thoracic spinal fracture
+7144811000006114,Fluoroscopic guidance for kyphoplasty of thoracic spinal fracture
+7144801000006111,Kyphoplasty of fracture of thoracic spine using fluoroscopic guidance
+7148901000006114,Vertebroplasty using fluoroscopic guidance
+7148891000006110,Fluoroscopic vertebroplasty
+7150751000006110,Fluoroscopy guided kyphoplasty of spinal fracture
+7150771000006117,Fluoroscopic guidance for kyphoplasty of spinal fracture
+7150761000006112,Kyphoplasty of fracture of spine using fluoroscopic guidance
+7151701000006115,Vertebroplasty of sacral spine using computed tomography guidance
+7151691000006115,Vertebroplasty of sacral spine using computed tomography (CT) guidance
+7151681000006118,CT guided vertebroplasty of sacral spine
+7164091000006115,Vertebroplasty of cervical spine using computed tomography guidance
+7164081000006118,Vertebroplasty of cervical spine using computed tomography (CT) guidance
+7164071000006116,CT guided vertebroplasty of cervical spine
+7170071000006117,Kyphoplasty of fracture of thoracic spine using computed tomography (CT) guidance
+7170061000006112,CT guided kyphoplasty of thoracic spinal fracture
+7170081000006119,Kyphoplasty of fracture of thoracic spine using computed tomography guidance
+7170091000006116,CT guided kyphoplasty of fracture of thoracic spine
+7172581000006113,CT guided vertebroplasty of thoracic spine
+7172601000006115,Vertebroplasty of thoracic spine using computed tomography guidance
+7172591000006111,Vertebroplasty of thoracic spine using computed tomography (CT) guidance
+7176291000006114,Fluoroscopy guided percutaneous thoracic vertebroplasty
+7176311000006113,Fluoroscopic guidance for percutaneous thoracic vertebroplasty
+7176301000006110,Percutaneous thoracic vertebroplasty using fluoroscopic guidance
+3199291000006116,Open fracture of C5-C7 level with anterior cord syndrome
+7256531000006112,Stress fracture of sacrum
+3215821000006117,Closed fracture of thoracic region with spinal cord injury
+3215831000006119,Closed fracture of thoracic spine with spinal cord injury
+7312801000006116,Fracture of body of vertebra
+7360181000006119,Open fracture of lumbar spine with incomplete lesion of lumbar spinal cord
+570821000006119,Closed fracture of C5-C7 level with spinal cord injury
+7488091000006113,Two column classification system burst fracture of vertebra
+7488101000006119,Two column burst fracture of vertebra
+7488121000006112,Three column burst fracture of vertebra
+7488111000006116,Three column classification system burst fracture of vertebra
+7488141000006117,Chance flexion distraction fracture of vertebra
+7488151000006115,Chance fracture of vertebra
+3292171000006117,Open fracture of lumbar vertebra with spinal cord injury
+3301111000006110,Open fracture of T1-T6 level with anterior cord syndrome
+3305281000006114,Closed fracture of lumbar vertebra with spinal cord injury
+3316981000006110,Fracture of spinal vertebra
+312617013,Fracture of vertebral column
+3316971000006112,Spinal fracture
+3316991000006113,Fracture of vertebra
+3317001000006117,Fractured spine
+3316961000006117,Fracture of spine
+3324311000006119,Closed fracture of C1-C4 level with central cord syndrome
+3330741000006113,Open fracture of T7-T12 level with posterior cord syndrome
+3334641000006110,Closed fracture of C1-C4 level with posterior cord syndrome
+3347601000006116,Closed fracture of T1-T6 level with central cord syndrome
+3373521000006119,Closed fracture of C1-C4 level with anterior cord syndrome
+7495331000006116,Open reduction of fracture of bone of spine with internal fixation
+3497361000006114,Open fracture of C1-C4 level with central cord syndrome
+3537961000006111,Open fracture of T1-T6 level with central cord syndrome
+3542851000006115,Repair of vertebral fracture
+3546051000006112,Fracture of spinous process of vertebra
+135381000006113,Fracture of spine due to birth trauma
+3573451000006112,Open fracture of C5-C7 level with posterior cord syndrome
+3575911000006115,Closed fracture of C5-C7 level with incomplete spinal cord lesion
+7504191000006113,Compression fracture of thoracic spine
+7815851000006114,Fracture of posterior arch of atlas
+7815841000006112,Fracture of posterior arch of first cervical vertebra
+7815861000006111,Fracture of lateral mass of first cervical vertebra
+7815871000006116,Fracture of lateral mass of atlas
+7815881000006118,Type I fracture of odontoid process of axis
+7815891000006115,Type I fracture of odontoid peg
+7815901000006116,Type I fracture of dens
+7815931000006112,Type II fracture of dens
+7815921000006114,Type II fracture of odontoid peg
+7815911000006118,Type II fracture of odontoid process of axis
+7815941000006119,Type III fracture of odontoid process of axis
+7815951000006117,Type III fracture of dens
+7815961000006115,Type III fracture of odontoid peg
+7815971000006110,Fracture of third cervical vertebra
+7815981000006113,Fracture of fourth cervical vertebra
+7815991000006111,Fracture of fifth cervical vertebra
+7816001000006112,Fracture of sixth cervical vertebra
+7816011000006110,Fracture of seventh cervical vertebra
+7817161000006114,Fracture of third thoracic vertebra
+7817171000006119,Fracture of fourth thoracic vertebra
+7817191000006118,Fracture of sixth thoracic vertebra
+7817211000006117,Fracture of eighth thoracic vertebra
+7817221000006113,Fracture of ninth thoracic vertebra
+7817231000006111,Fracture of tenth thoracic vertebra
+7817241000006118,Fracture of eleventh thoracic vertebra
+7817251000006116,Fracture of twelfth thoracic vertebra
+7818521000006110,Fracture of first lumbar vertebra
+7818531000006113,Fracture of second lumbar vertebra
+7818541000006115,Fracture of L2 vertebra
+7818551000006118,Fracture of third lumbar vertebra
+7818561000006116,Fracture of L3 vertebra
+7818581000006114,Fracture of L4 vertebra
+7818571000006111,Fracture of fourth lumbar vertebra
+7818601000006116,Fracture of L5 vertebra
+7818591000006112,Fracture of fifth lumbar vertebra
+7834731000006117,Unstable burst fracture of first cervical vertebra
+12368941000006110,Unstable Jefferson fracture
+7840941000006119,Stable burst fracture of first cervical vertebra
+3679141000006111,Closed fracture of T7-T12 level with spinal cord injury
+3708761000006117,Open fracture of C5-C7 level with central cord syndrome
+3743361000006118,Open fracture of C1-C4 level with spinal cord injury
+318479015,Closed fracture of coccyx
+318480017,"Open fracture pelvis, coccyx"
+12053961000006111,Open fracture of coccyx
+3770291000006112,Open fracture of T7-T12 level with incomplete spinal cord lesion
+3771281000006118,Closed fracture of C5-C7 level with central cord syndrome
+3772141000006113,Open fracture of thoracic spine with spinal cord injury
+3817141000006119,Open fracture of C5-C7 level with spinal cord injury
+3824391000006110,Closed fracture of cervical region with spinal cord injury
+2630601000006119,Closed fracture of T7-T12 level with central cord syndrome
+318494016,Open fracture of vertebral column
+3860841000006110,Fracture of transverse process of vertebra
+2635191000006114,Closed fracture of C1-C4 level with incomplete cord lesion
+3886451000006114,Open fracture of T1-T6 level with posterior cord syndrome
+570811000006110,Closed fracture of C1-C4 level with spinal cord injury
+3936651000006111,Open fracture of T7-T12 level with central cord syndrome
+3988161000006114,Open reduction of closed coccygeal fracture
+2658771000006117,Fracture of neural arch
+276470012,Posterior decompression of fracture of spine
+875091000006116,Spinal bone fragment elevation
+276560013,Other reduction of fracture of spine NOS
+895311000006115,#Spine NOS - no cord lesion
+318495015,Fracture of spine without mention of spinal cord lesion NOS
+570741000006119,"Closed spinal fracture with complete cervical cord lesion, C1-4"
+570701000006116,"Closed spinal fracture with central cervical cord lesion , C1-4"
+570711000006118,"Closed spinal fracture with central cervical cord lesion, C5-7"
+318514017,Open fracture of cervical spine with spinal cord lesion
+44411000006119,"Open spinal fracture with anterior cervical cord lesion, C1-4"
+318518019,"Open spinal fracture with central cervical cord lesion, C1-4"
+44421000006110,"Open spinal fracture with anterior cervical cord lesion, C5-7"
+318527018,Open fracture of cervical spine with spinal cord lesion NOS
+318528011,Closed fracture of thoracic spine with spinal cord lesion
+895331000006114,#Thoracic spine + cord lesion
+570721000006114,"Closed spinal fracture with central thoracic cord lesion, T1-6"
+570731000006112,"Closed spinal fracture with central thoracic cord lesion, T7-12"
+563961000006116,Closed fracture of thoracic spine with cord lesion NOS
+318542015,Open fracture of thoracic spine with spinal cord lesion
+318546017,"Open spinal fracture with central thoracic cord lesion, T1-6"
+44441000006115,"Open spinal fracture with anterior thoracic cord lesion, T7-12"
+265391000006117,"Open spinal fracture with central thoracic cord lesion, T7-12"
+318555019,Open fracture of thoracic spine with spinal cord lesion NOS
+318556018,Closed fracture of lumbar spine with spinal cord lesion
+895341000006116,#Lumbar spine + cord lesion
+318563018,Open fracture of lumbar spine with spinal cord lesion
+895361000006117,#Spine NOS + cord lesion
+750591000006119,Late effect of fracture of spine and trunk without mention of cord lesion
+370001000000111,Vertebroplasty of fracture of spine
+375761000000118,Posterior decompression of fracture of spine NEC
+394586014,Other reduction of fracture of spine
+411017011,Other reduction of fracture of spine and stabilisation
+698931000006114,Manipulative reduction of fracture of spine
+276483013,Spinal extension traction for fracture of spine
+875101000006110,Spinal extension traction
+276485018,Spinal traction for fracture of spine NEC
+276487014,Primary bedrest stabilisation of spinal fracture
+276491016,Primary skull traction stabilisation of spinal fracture
+276492011,Primary cast stabilisation of spinal fracture
+276495013,Primary external fixation stabilisation of spinal fracture
+276496014,Primary other external stabilisation of spinal fracture
+276501010,Revision to collar stabilisation of cervical spine fracture
+276502015,Revision to skull traction stabilisation of spinal fracture
+276505018,Revision to cast stabilisation of spinal fracture
+166841000006113,Revision to external fixation stabilisation of spinal fracture
+276508016,Revision to other external stabilisation of spinal fracture
+276522016,Revision to closed reduction spinal fracture alone
+171431000006117,Revision cls reduc spinal fracture+other external stabilistn
+276559015,Other specified other reduction of fracture of spine
+761191000006114,Fixation of spinal fracture
+503551000006112,Barr skull traction for fracture of spine
+761201000006112,Fixation of fracture of spine and skull traction HFQ
+602751000006117,Crutchfield skull traction for fracture of spine
+204991000006116,Primary open reduc spinal fracture+other internal fix
+159461000006110,Rvsn open reduc spinal fracture+other internal fix
+1682801000000118,Removal of fracture fixation device from spine
+276582018,Other specified fixation of fracture of spine
+276583011,Fixation of fracture of spine NOS
+990941000006118,#Spine NOS - no cord lesion
+793681000006116,Fracture of transverse process of spine without spinal cord lesion
+402831015,Fracture of vertebra without spinal cord lesion
+402832010,Fracture of spine without mention of spinal cord injury
+391330014,Closed fracture of axis without spinal cord lesion
+391329016,Closed fracture of atlas without spinal cord injury
+531571000006114,Closed fracture of first cervical vertebra without spinal cord injury
+531601000006119,Closed fracture of second cervical vertebra without spinal cord injury
+531621000006112,Closed fracture of third cervical vertebra without spinal cord injury
+531641000006117,Closed fracture of fourth cervical vertebra without spinal cord injury
+531661000006118,Closed fracture of fifth cervical vertebra without spinal cord injury
+531681000006111,Closed fracture of sixth cervical vertebra without spinal cord injury
+531701000006114,Closed fracture of seventh cervical vertebra without spinal cord injury
+391337012,Open fracture of atlas without spinal cord lesion
+391340012,Open fracture of axis without spinal cord lesion
+531581000006112,Open fracture of first cervical vertebra without mention of spinal cord lesion
+402843019,Open fracture axis
+531611000006116,Open fracture of second cervical vertebra without mention of spinal cord lesion
+318478011,Open vertical fracture of sacrum
+318485010,Fracture of lumbar spine and pelvis
+318492017,Multiple fractures of lumbar spine and pelvis
+793671000006119,Fracture of transverse process of spine with spinal cord lesion
+318571019,Closed fracture of sacrum with spinal cord lesion
+895351000006119,#Sacrum/coccyx + cord lesion
+563691000006115,Closed fracture of sacrum with unspec spinal cord lesion
+318574010,Closed fracture of sacrum with other cauda equina injury
+318575011,Closed fracture of sacrum with other spinal cord injury
+318581015,Open fracture of sacrum with spinal cord lesion
+318582010,Open fracture of sacrum with unspecified spinal cord lesion
+318584011,Open fracture of sacrum with other cauda equina injury
+318585012,Open fracture of sacrum with other spinal cord injury
+318587016,Closed fracture of coccyx with spinal cord lesion
+562841000006118,Closed fracture of coccyx with unspec spinal cord lesion
+318589018,Closed fracture of coccyx with complete cauda equina lesion
+318590010,Closed fracture of coccyx with other cauda equina injury
+318591014,Closed fracture of coccyx with other spinal cord injury
+318593012,Open fracture of coccyx with spinal cord lesion
+318594018,Open fracture of coccyx with unspecified spinal cord lesion
+318595017,Open fracture of coccyx with complete cauda equina lesion
+318596016,Open fracture of coccyx with other cauda equina injury
+318597013,Open fracture of coccyx with other spinal cord injury

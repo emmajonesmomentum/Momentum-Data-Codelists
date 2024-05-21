@@ -1,0 +1,411 @@
+SNOMEDCTCodes,Description
+161505003,History of heart failure
+43736008,Rheumatic left ventricular failure
+83105008,Malignant hypertensive heart disease with congestive cardiac failure
+194779001,Hypertensive heart and renal disease with (congestive) heart failure (disorder)
+194781004,Hypertensive heart and renal disease with both (congestive) heart failure and renal failure
+49584005,Acute cor pulmonale (disorder)
+87837008,Chronic pulmonary heart disease (disorder)
+79955004,COR - Chronic cor pulmonale
+10633002,Acute congestive heart failure
+88805009,Chronic congestive heart failure (disorder)
+195111005,Decompensated cardiac failure
+195112003,Compensated cardiac failure (disorder)
+42343007,Congestive heart failure (disorder)
+128404006,Right heart failure
+367363000,Right heart failure
+92506005,Biventricular congestive heart failure
+195114002,Acute left ventricular failure
+85232009,LVF - Left ventricular failure
+40541001,Pulmonary edema - acute
+275514001,Impaired left ventricular function
+56675007,Acute heart failure
+84114007,Cardiac insufficiency
+309634009,H/O: Heart failure in last year
+395105005,Heart failure confirmed (situation)
+420816009,NYHA - New York Heart Association Classification
+420300004,New York Heart Association Classification - Class I (finding)
+421704003,New York Heart Association Classification - Class II
+420913000,New York Heart Association Classification - Class III (finding)
+416683003,Emergency hospital admission for heart failure (procedure)
+399020009,Congestive cardiomyopathy (disorder)
+233871002,Congestive obstructive cardiomyopathy
+426611007,Congestive heart failure due to valvular disease
+134401001,Left ventricular systolic dysfunction
+395704004,Left ventricular diastolic dysfunction
+195108009,Heart failure: [right] or [congestive] (disorder)
+195113008,(Left ventricular: [failure] or [impaired function]) or (cardiac asthma) or (acute pulmonary oedema) (disorder)
+360371003,Acute cardiogenic pulmonary edema
+206586007,Congenital cardiac failure
+233924009,Heart failure as a complication of care (disorder)
+269299003,Cardiac insufficiency as a complication of care
+213214001,[Cardiac insufficiency] or [heart failure] as a complication of care (disorder)
+276514007,Neonatal cardiac failure (disorder)
+277638005,Sepsis-associated left ventricular failure
+277639002,Sepsis-associated right ventricular failure (disorder)
+308118002,Cardiac failure therapy
+314206003,Refractory heart failure (disorder)
+407596008,Echocardiogram shows left ventricular systolic dysfunction (finding)
+407597004,Echocardiogram shows left ventricular diastolic dysfunction
+446221000,Heart failure with preserved ejection fraction
+416610007,Right ventricular diastolic dysfunction (disorder)
+3545003,Diastolic dysfunction (finding)
+429589006,Left ventricular cardiac dysfunction (disorder)
+416158002,Right ventricular systolic dysfunction
+703272007,Heart failure with reduced ejection fraction (disorder)
+266294009,(Chronic cor pulmonale) or (pulmonary heart disease NOS) (disorder)
+19242006,Pulmonary edema
+266308000,Congestive cardiac fail
+64715009,Hypertensive heart disease
+71892000,Cardiac asthma
+812001000000102,Heart failure self-management plan agreed (finding)
+195130005,Post cardiac operation functional disturbance (disorder)
+764851000000102,Worsening pulmonary oedema (finding)
+33622007,Spontaneous cardiomyopathy
+46939000,Congestive cardiomyopathy due to selenium deficiency
+77970009,Benign hypertensive heart disease without congestive heart failure
+81236001,Heart failure cell
+134378009,Congestive heart failure monitoring
+155594004,Acute chemical fume pulmonary oedema
+194849004,Ischaemic cardiomyopathy
+196119001,Pulmonary oedema NOS
+196148007,Acute pulmonary oedema unspecified
+196149004,Acute pulmonary oedema NOS
+111507009,Restrictive cardiomyopathy with endomyocardial fibrosis
+266301006,Hypertrophic obstructive cardiomyopathy
+266408001,Pulmonary oedema NOS
+11468004,Postoperative pulmonary oedema
+274096000,Pulmonary heart disease
+276637009,Haemorrhagic pulmonary oedema
+281170005,Arrhythmogenic right ventricular cardiomyopathy
+286952009,Pulmonary heart disease NOS
+286953004,Other pulmonary heart disease
+315608004,Cardiomyopathy in Duchenne muscular dystrophy
+319410000,Vasodilators in heart failure [no drugs here]
+123262009,Acute pulmonary oedema -RETIRED-
+123263004,Postoperative pulmonary oedema -RETIRED-
+359617009,Acute right-sided heart failure
+359620001,Acute right heart failure
+27097002,Familial amyloid cardiomyopathy
+366743000,New York Heart Association classification of heart failure symptoms
+366746008,New York Heart Association classification of heart failure symptoms
+366829001,Left ventricular systolic dysfunction
+366910008,Left ventricular systolic dysfunction
+45227007,Obstructive cardiomyopathy
+46847001,Chronic pulmonary oedema
+56941009,Restrictive cardiomyopathy secondary to haemochromatosis
+8209004,Dilated cardiomyopathy secondary to haemochromatosis
+134434004,New York Heart Assoc classification heart failure symptoms (assessment scale)
+138777006,H/O: heart failure
+138789008,H/O: Heart failure in last year
+142256001,Impaired left ventricular function
+10091002,High output heart failure (disorder)
+155323004,Pulmonary heart disease
+155324005,Acute pulmonary heart disease
+155325006,Acute cor pulmonale
+155327003,Chronic pulmonary heart disease
+155329000,(Chronic cor pulmonale) or (pulmonary heart disease NOS)
+155330005,Other pulmonary heart disease
+155351008,Cardiomyopathy (& [congest. obst.] or [hyper. obst.]) or endomyocardial fibrosis
+155353006,Cardiomyopathy NOS
+155374007,Heart failure
+155375008,(Congestive cardiac failure) or (dropsy) or (cardiac insufficiency) or (right heart failure) or (right ventricular failure)
+155376009,Left ventricular failure
+155377000,Heart failure NOS
+155620008,Lung: [pulmonary oedema NOS] or [congestion]
+161520009,H/O: Heart failure in last year
+165086001,Impaired left ventricular function
+10335000,Chronic right-sided heart failure (disorder)
+182826002,Cardiac failure therapy
+186812009,Chagas' disease cardiomyopathy
+193232009,Benign scapuloperoneal muscular dystrophy with cardiomyopathy
+193234005,Cardiomyopathy in Duchenne muscular dystrophy
+194753005,Rheumatic left ventricular failure
+194763002,Malignant hypertensive heart disease with congestive cardiac failure (disorder)
+194770002,Hypertensive: [cardiomegaly] or [heart disease NOS without congestive cardiac failure]
+194771003,Hypertensive heart disease NOS with congestive cardiac failure (disorder)
+194780003,Hypertensive heart and renal disease with renal failure (disorder)
+194880009,Acute pulmonary heart disease
+194881008,Acute cor pulmonale
+194884000,Acute pulmonary heart disease NOS (disorder)
+194885004,Chronic pulmonary heart disease
+194887007,Other chronic pulmonary heart disease (disorder)
+194889005,Other chronic pulmonary heart disease NOS (disorder)
+194890001,Chronic cor pulmonale (& [NOS])
+195015003,Restrictive cardiomyopathy with endomyocardial fibrosis
+195016002,(Becker's disease) or (obscure African cardiomyopathy)
+195018001,(Congestive obstructive) or (congestive cardiomyopathy)
+195019009,Familial cardiomyopathy
+195020003,Hypertrophic cardiomyopathy without obstruction (disorder)
+195021004,Primary dilated cardiomyopathy (disorder)
+195022006,Other primary cardiomyopathy NOS (disorder)
+195027000,Mucopolysaccharidosis cardiomyopathy (disorder)
+195028005,(Heart: [fatty infiltration] or [fatty degeneration]) or (nutritional and metabolic cardiomyopathy NOS)
+195029002,Cardiomyopathy in disease EC (disorder)
+195030007,Cardiomyopathy in Friedreich's ataxia (disorder)
+195031006,Cardiomyopathy in myotonic dystrophy (disorder)
+195032004,Dystrophic cardiomyopathy (disorder)
+195034003,"Cardiomyopathy in diseases EC, NOS (disorder)"
+195035002,Secondary cardiomyopathy: [dilated] or [NOS]
+195036001,Cardiomyopathy due to drugs and other external agents (disorder)
+195037005,Cardiomyopathy NOS (disorder)
+195109001,Acute congestive heart failure
+195110006,Chronic congestive heart failure
+195116000,Acute heart failure
+195117009,Heart: [weak] or [failure NOS]
+195132002,Post cardiac operation heart failure NOS (disorder)
+195548008,[X]Pulmonary heart disease and diseases of pulmonary circulation (disorder)
+195549000,[X]Other specified pulmonary heart diseases (disorder)
+195574002,[X]Other hypertrophic cardiomyopathy (disorder)
+195575001,[X]Other restrictive cardiomyopathy (disorder)
+195577009,[X]Cardiomyopathy in infectious and parasitic diseases classified elsewhere (disorder)
+195578004,[X]Cardiomyopathy in metabolic diseases classified elsewhere (disorder)
+195579007,[X]Cardiomyopathy in nutritional diseases classified elsewhere (disorder)
+195580005,[X]Cardiomyopathy in other diseases classified elsewhere (disorder)
+198868006,Cardiac failure following abortive pregnancy (disorder)
+199277001,Cardiomyopathy in the puerperium
+206594000,Neonatal cardiac failure
+213151004,Heart transplant failure and rejection (disorder)
+213152006,Heart-lung transplant failure and rejection (disorder)
+233704001,Acute cardiac pulmonary oedema [Ambiguous]
+233873004,Hypertrophic cardiomyopathy (disorder)
+233874005,Secondary dilated cardiomyopathy
+233875006,Post-myocarditic cardiomyopathy (disorder)
+233877003,Restrictive cardiomyopathy without endomyocardial fibrosis (disorder)
+233878008,Familial restrictive cardiomyopathy (disorder)
+233925005,Right ventricular failure [Ambiguous]
+11104006,Dilated cardiomyopathy secondary to Refsum's disease (disorder)
+240072005,Benign scapuloperoneal muscular dystrophy with cardiomyopathy (disorder)
+240077004,Severe scapuloperoneal muscular dystrophy with cardiomyopathy (disorder)
+111283005,Chronic left-sided heart failure (disorder)
+111285003,Dilated cardiomyopathy secondary to metabolic disorder (disorder)
+266229007,Hypertensive heart disease NOS without congestive cardiac failure (disorder)
+266233000,Chronic pulmonary heart disease NOS (disorder)
+266242007,Obscure African cardiomyopathy (disorder)
+266243002,Nutritional and metabolic cardiomyopathy NOS (disorder)
+266244008,Secondary cardiomyopathy NOS (disorder)
+266248006,Heart failure NOS (disorder)
+313389004,No cardiac failure (finding)
+12563008,Dilated cardiomyopathy secondary to radiation (disorder)
+15471000,Primary hypertrophic cardiomyopathy (disorder) [Ambiguous]
+15544002,Restrictive cardiomyopathy secondary to infiltrations (disorder)
+16253001,Dilated cardiomyopathy secondary to peripartum heart disease (disorder)
+1954004,Dilated cardiomyopathy secondary to toxic reaction (disorder)
+20072003,Idiopathic cardiomyopathy (disorder)
+2024009,Dilated cardiomyopathy secondary to metazoal myocarditis (disorder)
+20529002,Secondary dilated cardiomyopathy (disorder)
+21430002,Dilated cardiomyopathy secondary to rheumatoid arthritis (disorder)
+2180001,Dilated cardiomyopathy secondary to connective tissue disorder (disorder)
+24584003,Restrictive cardiomyopathy secondary to malignancy (disorder)
+25544003,Low output heart failure (disorder)
+2816000,Dilated cardiomyopathy secondary to myotonic dystrophy (disorder)
+28869005,Dilated cardiomyopathy secondary to muscular dystrophy (disorder)
+29201009,Dilated cardiomyopathy secondary to sensitivity (disorder)
+30293000,Obscure cardiomyopathy of Africa
+30496006,Dilated cardiomyopathy secondary to viral myocarditis (disorder)
+30884007,Restrictive cardiomyopathy secondary to familial storage disease (disorder)
+33006007,Restrictive cardiomyopathy secondary to endocardial fibroelastosis (disorder)
+33258008,Primary eosinophilic endomyocardial restrictive cardiomyopathy (disorder)
+34342000,Dilated cardiomyopathy secondary to deficiency (disorder)
+35719004,Dilated cardiomyopathy secondary to scleroderma (disorder)
+35728003,Familial cardiomyopathy (disorder)
+36315003,Malignant hypertensive heart disease without congestive heart failure (disorder)
+364006,Acute left-sided heart failure (disorder)
+36471000,Dilated cardiomyopathy secondary to systemic lupus erythematosus (disorder)
+39041004,Restrictive cardiomyopathy secondary to sarcoidosis (disorder)
+39693003,Dilated cardiomyopathy secondary to granulomas (disorder)
+40532006,Dilated cardiomyopathy secondary to protozoal myocarditis (disorder)
+41964001,Hypertrophic cardiomyopathy secondary to neuromuscular disorder (disorder)
+42099002,Primary endomyocardial fibrosis restrictive cardiomyopathy (disorder)
+44313006,Right heart failure secondary to left heart failure (disorder)
+44630002,Dilated cardiomyopathy secondary to fungal myocarditis (disorder)
+46113002,Hypertensive heart failure (disorder)
+46696008,Dilated cardiomyopathy secondary to dermatomyositis (disorder)
+48447003,Chronic heart failure (disorder)
+50270004,Dilated cardiomyopathy secondary to Friedreich's ataxia (disorder)
+50275009,Cobalt cardiomyopathy (disorder)
+5053004,Cardiac insufficiency due to prosthesis (disorder)
+5148006,Hypertensive heart disease with congestive heart failure (disorder)
+52029003,Primary familial dilated cardiomyopathy (disorder)
+53043001,Primary idiopathic dilated cardiomyopathy (disorder)
+53322007,Hypertrophic cardiomyopathy secondary to Friedreich's ataxia (disorder)
+53703001,Primary eosinophilic endomyocardial cardiomyopathy (disorder)
+5375005,Chronic left-sided congestive heart failure (disorder)
+54830008,Dilated cardiomyopathy secondary to bacterial myocarditis (disorder)
+55565007,Cardiac failure after obstetrical surgery AND/OR other procedure including delivery (disorder)
+58629009,Dilated cardiomyopathy secondary to amyloidosis (disorder)
+58911001,Dilated cardiomyopathy secondary to glycogen storage disease (disorder)
+6022005,Dilated cardiomyopathy secondary to sarcoidosis (disorder)
+60514000,Dilated cardiomyopathy secondary to familial storage disease (disorder)
+60856006,Cardiac insufficiency following cardiac surgery (disorder)
+60899001,Hypertensive heart disease without congestive heart failure (disorder)
+61783007,Acute right-sided heart failure (disorder) [Ambiguous]
+62377009,Postpartum cardiomyopathy (disorder)
+63183009,Primary idiopathic hypertrophic cardiomyopathy (disorder)
+64041007,Primary idiopathic restrictive cardiomyopathy (disorder)
+64615000,Restrictive cardiomyopathy secondary to glycogen storage disease (disorder)
+64749001,Dilated cardiomyopathy secondary to infiltrations (disorder)
+66989003,Chronic right-sided congestive heart failure (disorder)
+67189007,Acute pulmonary heart disease (disorder)
+68602002,Primary endomyocardial fibrosis cardiomyopathy (disorder)
+69051005,Repair of pulmonary heart valve with prosthesis in total repair of tetralogy of Fallot (procedure)
+69609002,Nonobstructive cardiomyopathy (disorder)
+72972005,Dilated cardiomyopathy secondary to drug (disorder)
+74249003,Dilated cardiomyopathy secondary to malignancy (disorder)
+74368002,Congestive cardiomyopathy (disorder)
+74960003,Acute left-sided congestive heart failure (disorder)
+76931005,Restrictive cardiomyopathy secondary to granulomas (disorder)
+77737007,Benign hypertensive heart disease with congestive heart failure (disorder)
+79152002,Dilated cardiomyopathy secondary to neuromuscular disorder (disorder)
+79754008,Restrictive cardiomyopathy secondary to amyloidosis (disorder)
+80479009,Acute right-sided congestive heart failure (disorder)
+82523003,Congestive rheumatic heart failure (disorder)
+83291003,Cor pulmonale (disorder)
+83521008,Dilated cardiomyopathy secondary to alcohol (disorder)
+83978005,Primary familial hypertrophic cardiomyopathy (disorder)
+84725008,Restrictive cardiomyopathy secondary to mucopolysaccharidosis (disorder)
+84733009,Dilated cardiomyopathy secondary to nutritive deficiency (disorder)
+85898001,Cardiomyopathy (disorder)
+86194008,Dilated cardiomyopathy secondary to infection (disorder)
+86995005,Dilated cardiomyopathy secondary to mucopolysaccharidosis (disorder)
+89461002,Primary cardiomyopathy (disorder)
+89600009,Secondary cardiomyopathy (disorder)
+89819002,Cardiac insufficiency during AND/OR resulting from a procedure (disorder)
+90202001,Dilated cardiomyopathy secondary to electrolyte deficiency (disorder)
+90727007,Pleural effusion due to congestive heart failure (disorder)
+90828009,Primary restrictive cardiomyopathy (disorder)
+91529004,Rheumatic heart valve failure (disorder)
+91604001,Dilated cardiomyopathy secondary to polyarteritis nodosa (disorder)
+93558006,Hypertrophic cardiomyopathy secondary to hyperthyroidism (disorder)
+389995008,Congestive cardiomyopathy
+389996009,Restrictive cardiomyopathy
+389997000,Familial cardiomyopathy
+389998005,Hypertrophic cardiomyopathy
+389999002,Hypertrophic obstructive cardiomyopathy
+392748002,Heart failure confirmed
+393703008,Heart failure confirmed
+395650008,Left ventricular diastolic dysfunction
+123264005,Restrictive cardiomyopathy with endomyocardial fibrosis
+398754006,Obscure cardiomyopathy of Africa
+407605008,New York Heart Association classification - class I (assessment scale)
+407606009,New York Heart Association classification - class II (assessment scale)
+407607000,New York Heart Association classification - class III (assessment scale)
+407608005,New York Heart Association classification - class IV (assessment scale)
+406428006,Moderator band cardiomyopathy
+413994008,Dilated cardiomyopathy associated with connective tissue disorder (disorder)
+413995009,Dilated cardiomyopathy due to taurine deficiency (disorder)
+415295002,Restrictive cardiomyopathy (disorder)
+415509000,Secondary restrictive cardiomyopathy (disorder)
+417359009,Seen by community heart failure nurse (finding)
+416573008,Left ventricular dysfunction monitoring verbal invite (finding)
+416717003,Seen in heart failure clinic (finding)
+417146007,Referral to heart failure nurse (procedure)
+418304008,Diastolic heart failure (disorder)
+417996009,Systolic heart failure (disorder)
+421518007,New York Heart Classification finding
+424404003,Decompensated chronic heart failure
+426263006,Congestive heart failure due to left ventricular systolic dysfunction (disorder)
+426856002,Ischemic congestive cardiomyopathy (disorder)
+426012001,Right heart failure due to pulmonary hypertension (disorder)
+426300009,Tachycardia-induced cardiomyopathy (disorder)
+430396006,Chronic left ventricular systolic dysfunction
+441481004,Chronic systolic heart failure
+442304009,Combined systolic and diastolic dysfunction (finding)
+443253003,Acute on chronic systolic heart failure (disorder)
+443254009,Acute systolic heart failure (disorder)
+443343001,Acute diastolic heart failure (disorder)
+443344007,Acute on chronic diastolic heart failure (disorder)
+445336009,Hypertrophic cardiomyopathy associated with another disorder (disorder)
+447934002,Right ventricular myocardial noncompaction cardiomyopathy (disorder)
+447935001,Left ventricular myocardial noncompaction cardiomyopathy (disorder)
+111000119104,Nonischemic congestive cardiomyopathy
+96311000119109,Exacerbation of congestive heart failure
+120851000119104,Systolic heart failure stage D
+120861000119102,Systolic heart failure stage C
+120891000119109,Diastolic heart failure stage C
+120881000119106,Diastolic heart failure stage D
+67431000119105,Congestive heart failure stage D
+67441000119101,Congestive heart failure stage C
+471841009,Inflammatory cardiomyopathy (disorder)
+471846004,Cardiomyopathy due to neuromuscular disorder
+471858004,Valvular cardiomyopathy (disorder)
+471870000,Pacing induced cardiomyopathy (disorder)
+471875005,Ventricular myocardial noncompaction cardiomyopathy (disorder)
+471880001,Heart failure due to end stage congenital heart disease
+471885006,Hypertrophic cardiomyopathy with genetic marker (disorder)
+471890009,Dilated cardiomyopathy with genetic marker
+472100003,Ischemic dilated cardiomyopathy due to coronary artery disease (disorder)
+472316006,Hypertrophic mitochondrial cardiomyopathy (disorder)
+472315005,Mitochondrial cardiomyopathy (disorder)
+472317002,Histiocytoid mitochondrial cardiomyopathy (disorder)
+472784000,Right ventricular dysfunction due to disorder of left ventricle
+473365008,Right ventricular cardiac dysfunction
+609507007,Induced termination of pregnancy complicated by cardiac failure
+609556008,Systolic heart failure stage A
+120871000119108,Systolic heart failure stage B
+609555007,Diastolic heart failure stage A
+120901000119108,Diastolic heart failure stage B
+697926000,Pulmonary hypertension due to diastolic systemic ventricular dysfunction (disorder)
+697925001,Pulmonary hypertension due to systolic systemic ventricular dysfunction
+153931000119109,Acute combined systolic and diastolic heart failure
+101281000119107,Congestive heart failure due to cardiomyopathy
+698296002,Acute exacerbation of chronic congestive heart failure
+698592004,Asymptomatic left ventricular systolic dysfunction (disorder)
+698594003,Symptomatic congestive heart failure (disorder)
+153951000119103,Acute on chronic combined systolic and diastolic heart failure
+23341000119109,Congestive heart failure with right heart failure
+153941000119100,Chronic combined systolic and diastolic heart failure
+699668009,Secondary nonischemic congestive cardiomyopathy
+72481000119103,Congestive heart failure as early postoperative complication
+15781000119107,Hypertensive heart AND chronic kidney disease with congestive heart failure
+700065003,Primary hypertrophic cardiomyopathy (disorder)
+204981000119101,Cardiomyopathy due to viral infection
+702424003,Dilated cardiomyopathy 3B (disorder)
+702343002,Early onset myopathy with fatal cardiomyopathy (disorder)
+253528005,Arrhythmogenic right ventricular cardiomyopathy
+703276005,Heart failure with reduced ejection fraction due to heart valve disease (disorder)
+703275009,Heart failure with reduced ejection fraction due to cardiomyopathy (disorder)
+703273002,Heart failure with reduced ejection fraction due to coronary artery disease
+703259006,Mitral valve regurgitation due to cardiomyopathy (disorder)
+703274008,Heart failure with reduced ejection fraction due to myocarditis
+690491000119104,History of cardiomyopathy
+711412004,Dilated cardiomyopathy with ataxia syndrome
+1086051000119107,Cardiomyopathy due to diphtheria infection
+713523008,Cardiomyopathy co-occurrent with human immunodeficiency virus infection
+715655000,Transthyretin related familial amyloid cardiomyopathy
+715865008,Familial isolated arrhythmogenic right ventricular cardiomyopathy
+15629741000119102,Systolic heart failure stage C due to ischaemic cardiomyopathy
+719451006,Dilated cardiomyopathy with hypergonadotropic hypogonadism syndrome (disorder)
+719839000,Tubular renal disease with cardiomyopathy syndrome
+720609003,Cardiomyopathy with cataract and hip spine disease syndrome (disorder)
+720610008,Cardiomyopathy and renal anomaly syndrome
+15629641000119107,Systolic heart failure stage B due to ischemic cardiomyopathy (disorder)
+15629591000119103,Congestive heart failure stage B due to ischemic cardiomyopathy
+15629541000119106,Congestive heart failure stage C due to Ischemic cardiomyopathy (disorder)
+108701000119102,Cardiomyopathy due to hypertension
+721014007,Cardiac conduction disease with dilated cardiomyopathy and brachydactyly syndrome
+717812000,"Congenital cataract, hypertrophic cardiomyopathy, mitochondrial myopathy syndrome (disorder)"
+717821004,Glycogenosis with severe cardiomyopathy due to glycogenin deficiency
+717840005,Congestive heart failure stage B (disorder)
+722919003,Neonatal cardiac failure due to decreased left ventricular output
+723993005,Sensorineural deafness with dilated cardiomyopathy syndrome (disorder)
+725416005,Cardiomyopathy co-occurrent and due to cirrhosis of liver (disorder)
+762994006,New York Heart Association Classification class (observable entity)
+762998009,Assessment using New York Heart Association Classification
+16228931000119102,Cardiomyopathy caused by drug (disorder)
+766883006,Familial dilated cardiomyopathy with conduction defect due to lamin A/C mutation
+771509001,Hypertrophic cardiomyopathy and renal tubular disease due to mitochondrial DNA mutation
+771513008,Infantile hypertrophic cardiomyopathy due to mitochondrial ribosomal protein L44 deficiency (disorder)
+788878000,Cardiomyopathy due to diabetes mellitus (disorder)
+788950000,Heart failure with mid range ejection fraction
+789037005,Rheumatic cardiomyopathy (disorder)
+16838951000119100,Acute on chronic right-sided congestive heart failure
+860586000,Pulmonary heart valve bioprosthesis
+860839005,Cardiomyopathy due to storage disease
+860837007,Cardiomyopathy due to connective tissue disease (disorder)
+119731000146105,Cardiomyopathy due to disease caused by SARS-CoV-2
+871617000,Low output heart failure due to and following Fontan operation (disorder)
+871638006,Hypertrophic cardiomyopathy due to glycogen storage disease
+871639003,Dilated cardiomyopathy due to mitochondrial disease (disorder)
+871646007,Infiltrative cardiomyopathy
+871649000,Hypertrophic cardiomyopathy due to lysosomal disease

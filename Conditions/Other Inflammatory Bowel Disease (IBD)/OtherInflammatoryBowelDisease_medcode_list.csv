@@ -1,0 +1,161 @@
+MedCodeID,Description
+4421231000006111,Inflammatory disorder of digestive tract
+2713501000006112,Chronic ulcerative ileocolitis
+572041000006116,Noninfectious colitis
+2722891000006117,Non-infective colitis
+303051014,Non-infective colitis NOS
+2806491000006113,CC - Collagenous colitis
+32563019,Collagenous colitis
+302946010,Regional ileocolitis
+303005013,Radiation enterocolitis
+303024011,Allergic enterocolitis
+303034019,Dietetic enterocolitis
+37319017,Allergic enteritis
+5077311000006117,Haemorrhagic enteritis
+5077321000006113,Hemorrhagic enteritis
+5084481000006118,Drug-induced enteritis
+5084501000006111,Acute radiation enteritis
+353407019,Indeterminate colitis
+5085121000006113,Drug-induced colitis
+5085131000006111,Non-steroidal anti-inflammatory drug-induced colitis
+353418019,Microscopic colitis
+5085171000006114,Acute radiation colitis
+5085181000006112,Chronic radiation colitis
+5085191000006110,Behcet's colitis
+5085201000006113,Behcet colitis
+5085241000006110,Acute radiation proctitis
+5088631000006114,Acute haemorrhagic enterocolitis
+5088641000006116,Acute hemorrhagic enterocolitis
+2881591000006116,Pyogranulomatous enteritis
+5146671000006110,Neutropaenic enterocolitis
+41137017,Inflammatory bowel disease
+2891431000006118,IBD - Inflammatory bowel disease
+5346611000006114,Inflammatory fibroid polyposis of intestine
+5346621000006118,Devon disease
+2914321000006119,Allergic sigmoiditis
+396363015,Allergic gastroenteritis and colitis
+2929731000006110,Fibrinous enteritis
+47765019,Toxic megacolon
+2958351000006113,Acute megacolon
+2958341000006111,Toxic dilatation of colon
+2968281000006118,Eosinophilic colitis
+5903741000006112,Inflammation of large intestine
+50729018,Allergic colitis
+51411016,Dietetic enteritis
+886281000006114,Noninfective enteritis/colitis
+585591000006118,Non-infective enteritis and colitis
+400051000006118,[X]Noninfective enteritis and colitis
+6028781000006114,Inflammatory cloacogenic polyp
+52549017,Lymphocytic colitis
+3006581000006119,Lymphocytic-plasmacytic colitis
+3016971000006111,Necrotic enteritis
+3020291000006111,Allergic ileitis
+3045581000006119,Acute ischaemic enteritis
+3045591000006116,Acute ischemic enteritis
+6204931000006117,Idiopathic diffuse ulcerative nongranulomatous enteritis
+6204941000006110,Idiopathic colitis
+6204981000006116,Idiopathic chronic inflammatory bowel disease
+6324511000006115,Chronic proctocolitis
+6324521000006111,"Chronic proctocolitis, patchy"
+6324531000006114,"Chronic proctocolitis, confluent"
+6342161000006118,Enterotyphlitis
+6383601000006112,Distal colitis
+303325015,Proctitis
+3139291000006112,Pigbel
+3139281000006114,Enteritis necroticans
+3139301000006113,Enteritis necroticans due to Clostridium perfringens
+6591311000006116,Antibiotic enterocolitis
+6591321000006112,Janbon's syndrome
+6591341000006117,Antibiotic-induced colitis
+6591331000006110,Antibiotic-associated colitis
+2532959018,Exacerbation of non-infective colitis
+6981551000006117,Noninfectious gastroenteritis associated with acquired immunodeficiency syndrome
+6981541000006119,Noninfectious gastroenteritis associated with AIDS
+696071000006114,Mucous colitis and/or proctitis
+3204511000006110,"Enterocolitis, inflammation involving both small intestine and colon"
+72962011,Enterocolitis
+3204521000006119,Inflammation of small intestine and colon
+3300451000006112,Dietetic sigmoiditis
+303050010,Noninfectious ileitis
+3331231000006116,Disuse colitis
+3331221000006119,Diversion colitis
+3350551000006117,Ileitis
+3351311000006117,Chronic ulcerative rectosigmoiditis
+3351321000006113,Chronic ulcerative proctosigmoiditis
+3351341000006118,Ulcerative colitis confined to rectum and sigmoid colon
+496332018,Ulcerative rectosigmoiditis
+3351351000006116,Ulcerative proctosigmoiditis
+3365611000006115,Noninfectious sigmoiditis
+3386111000006115,Chronic colitis
+3406491000006111,Colitis due to radiation
+1231527011,Radiation colitis
+3406521000006113,Colitis caused by radiation
+3406511000006117,Radiation induced colitis
+2601661000006118,Chronic inflammatory small bowel disease
+3544511000006113,Colon inflammation
+106758018,Colitis
+3550911000006113,Enteritis
+3550901000006110,Enteritis of small intestine
+3550921000006117,"Enteritis, inflammatory disorder of small intestine"
+3550931000006119,Inflammation of small intestine
+2611971000006116,Lymphocytic-plasmacytic enteritis
+396361018,Noninfectious enteritis
+7741781000006115,Adult necrotising enterocolitis
+7741791000006117,Adult necrotizing enterocolitis
+7763671000006115,Eosinophilic duodenitis
+3669731000006114,"Granulomatous enteritis, non-Crohn's disease"
+3669741000006116,"Granulomatous enteritis, non-Crohn disease"
+7808561000006119,Cutaneous photosensitivity and lethal colitis syndrome
+7821281000006113,Inflammatory polyps co-occurrent and due to inflammatory bowel disease
+7833001000006112,Toxic enteritis of small intestine caused by substance
+7833021000006119,Drug-induced toxic enteritis of small intestine
+7833011000006110,Toxic enteritis of small intestine caused by drug
+120502010,Dietetic colitis
+3687061000006110,Chemically-induced colitis
+3687051000006113,Chemical colitis
+3690951000006114,Chronic ischemic enteritis
+502379012,Chronic ischaemic enteritis
+7954641000006113,IgE mediated allergic enteritis of small intestine
+7954651000006110,Eosinophilic enteritis
+3515301017,Chronic non-infectious enteritis of uncertain aetiology
+3515300016,Chronic non-infectious enteritis of uncertain etiology
+3697651000006117,Ischaemic enteritis
+3697661000006115,Ischemic enteritis
+3527130016,Allergic enteritis of small intestine
+3527133019,Dietetic enteritis of small intestine
+3527405010,FPIES - Food-protein induced enterocolitis syndrome
+3527402013,Allergic enterocolitis caused by food protein
+3527403015,Food-protein induced enterocolitis syndrome
+3527407019,Food protein-induced colitis in infant
+3527406011,Allergic colitis caused by food protein in infant
+3700191000006110,Radiation induced enteritis
+1233666019,Radiation enteritis
+3700201000006113,Enteritis caused by radiation
+3700171000006114,Enteritis due to radiation
+8258361000006117,NEC - necrotising enterocolitis
+8258351000006119,Necrotising enterocolitis
+3822451000006116,Haemorrhagic colitis
+3822461000006119,Hemorrhagic colitis
+302959019,Other idiopathic proctocolitis
+302961011,Other idiopathic proctocolitis NOS
+302962016,Idiopathic proctocolitis NOS
+494676019,Chronic ischaemic enterocolitis
+483467010,Chronic ischaemic colitis
+302997019,Chronic intestinal vascular insufficiency NOS
+303009019,Toxic enteritis
+303010012,Toxic enterocolitis
+303052019,Sigmoiditis
+221051000000112,Non-infective diarrhoea
+22302019,Pseudopolyposis of colon
+22303012,Inflammatory polyps of colon
+299711000000117,Ischemic colitis
+42550011,Gastroenteritis
+886311000006111,Non-infective GIT inflam. NOS
+198411000006113,Pseudomembranous colitis
+70682016,Toxic colitis
+198421000006117,Pseudomembranous colitis
+198441000000117,Ileal pouchitis
+1816421000006112,Left sided ulcerative colitis
+353856013,Chronic diarrhoea
+396366011,Other non-infective gastroenteritis and colitis NOS
+303049010,Non-infective jejunitis NOS

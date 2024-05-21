@@ -1,0 +1,148 @@
+SNOMEDCTCodes,Description,Grade
+239791005,"seropositive rheumatoid arthritis, unspecified",1
+239792003,seronegative rheumatoid arthritis,1
+308143008,seropositive errosive rheumatoid arthritis,1
+69896004,rheumatoid arthritis,1
+909191000006103,[rfc] rheumatoid arthritis,1
+75822003,Acute polyarticular juvenile rheumatoid arthritis (disorder),1
+1961000,Chronic polyarticular juvenile rheumatoid arthritis (disorder),1
+410795001,Juvenile rheumatoid arthritis (disorder),1
+201799006,Monarticular juvenile rheumatoid arthritis (disorder),1
+74391003,Pauciarticular juvenile rheumatoid arthritis (disorder),1
+239795001,Rheumatoid arthritis with multisystem involvement (disorder),1
+735600005,Rheumatoid arthritis without erosion (disorder),1
+15691241000119101,Seronegative rheumatoid arthritis of bilateral knees (disorder),2
+15691321000119101,Seronegative rheumatoid arthritis of bilateral wrists (disorder),2
+1569132100011910,Seronegative rheumatoid arthritis of bilateral wrists (disorder),2
+15691321000119100,Seronegative rheumatoid arthritis of bilateral wrists (disorder),2
+319081000119109,Seronegative rheumatoid arthritis of multiple sites (disorder),2
+16606721000119107,Seropositive rheumatoid arthritis in remission (disorder),2
+16050071000119108,Seropositive rheumatoid arthritis of bilateral feet (disorder),2
+16050071000119100,Seropositive rheumatoid arthritis of bilateral feet (disorder),2
+15691881000119107,Seropositive rheumatoid arthritis of bilateral knees (disorder),2
+318861000119101,Seropositive rheumatoid arthritis of left hand (disorder),2
+11055151000119108,Seropositive rheumatoid arthritis of multiple joints (disorder),2
+318931000119100,Seropositive rheumatoid arthritis of right hand (disorder),2
+201796004,Systemic onset juvenile chronic arthritis (disorder),1
+201764007,rheumatoid arthritis of cervical spine,2
+201766009,rheumatoid arthritis of shoulder,2
+201767000,rheumatoid arthritis of sternoclavicular joint,2
+201768005,rheumatoid arthritis of acromioclavicular joint,2
+201769002,rheumatoid arthritis of elbow,2
+201770001,rheumatoid arthritis of distal radio-ulnar joint,2
+201771002,rheumatoid arthritis of wrist,2
+201772009,rheum. arth. - hand joint,2
+201773004,rheumatoid arthritis of pip joint of finger,2
+201774005,rheumatoid arthritis of dip joint of finger,2
+201775006,rheumatoid arthritis of hip,2
+201777003,rheumatoid arthritis of knee,2
+201778008,rheumatoid arthritis of tibio-fibular joint,2
+201779000,rheumatoid arthritis of ankle,2
+201780002,rheumatoid arthritis of subtalar joint,2
+201781003,rheumatoid arthritis of talonavicular joint,2
+201783000,rheumatoid arthritis of 1st mtp joint,2
+201784006,rheumatoid arthritis of lesser mtp joint,2
+201785007,rheumatoid arthritis of ip joint of toe,2
+201791009,flare of rheumatoid arthritis,2
+287006005,rheumatoid arthritis - multiple joint,2
+429192004,rheumatoid arthritis of other tarsal joint,2
+9631008,other rheumatoid arthritis of spine,2
+15744441000119101,Deformity of bilateral hands due to rheumatoid arthritis (disorder),2
+96531000119109,Deformity of hand due to rheumatoid arthritis (disorder),2
+1073891000119106,Deformity of left foot co-occurrent and due to rheumatoid arthritis (disorder),2
+1073871000119105,Deformity of left hand co-occurrent and due to rheumatoid arthritis (disorder),2
+1073881000119108,Deformity of right foot co-occurrent and due to rheumatoid arthritis (disorder),2
+1073861000119104,Deformity of right hand co-occurrent and due to rheumatoid arthritis (disorder),2
+287008006,Rheumatoid arthritis of ankle and/or foot (disorder),2
+15686281000119101,Rheumatoid arthritis of bilateral feet (disorder),2
+15687321000119109,Rheumatoid arthritis of bilateral hands (disorder),2
+15687201000119107,Rheumatoid arthritis of bilateral knees (disorder),2
+287007001,Rheumatoid arthritis of hand joint (disorder),2
+781206002,Rheumatoid arthritis of joint of spine (disorder),2
+1073701000119107,Rheumatoid arthritis of left foot (disorder),2
+1073701000119100,Rheumatoid arthritis of left foot (disorder),2
+1073711000119105,Rheumatoid arthritis of left hand (disorder),2
+1073711000119100,Rheumatoid arthritis of left hand (disorder),2
+1073721000119100,Rheumatoid arthritis of left hip (disorder),2
+1073721000119103,Rheumatoid arthritis of left hip (disorder),2
+1073731000119100,Rheumatoid arthritis of left knee (disorder),2
+1073741000119109,Rheumatoid arthritis of left shoulder (disorder),2
+1073751000119106,Rheumatoid arthritis of left wrist (disorder),2
+1073781000119104,Rheumatoid arthritis of right foot (disorder),2
+1073791000119101,Rheumatoid arthritis of right hand (disorder),2
+1073791000119100,Rheumatoid arthritis of right hand (disorder),2
+1073801000119100,Rheumatoid arthritis of right hip (disorder),2
+1073811000119102,Rheumatoid arthritis of right knee (disorder),2
+1073821000119109,Rheumatoid arthritis of right shoulder (disorder),2
+1073831000119107,Rheumatoid arthritis of right wrist (disorder),2
+201776007,Rheumatoid arthritis of sacroiliac joint (disorder),2
+427770001,Rheumatoid arthritis of temporomandibular joint (disorder),2
+10713006,fibrosing alveolitis associated with rheumatoid arthritis,3
+193180002,polyneuropathy in rheumatoid arthritis,3
+193250002,myopathy due to rheumatoid arthritis,3
+195136004,rheumatoid myocarditis,3
+239793008,rheumatoid arthropathy + visceral/systemic involvement nos,3
+28880005,rheumatoid carditis,3
+33719002,rheumatoid nodule,3
+398640008,caplan's syndrome,3
+398726004,rheumatoid lung disease,3
+400054000,rheumatoid vasculitis,3
+57160007,felty's syndrome,3
+416666007,Anterior uveitis in juvenile idiopathic arthritis (disorder),3
+402431009,Cutaneous atrophy due to rheumatoid arthritis (disorder),3
+21430002,Dilated cardiomyopathy secondary to rheumatoid arthritis (disorder),3
+735599007,Erosion of joint surface co-occurrent and due to rheumatoid arthritis (disorder),3
+52661003,Extra-articular rheumatoid process (disorder),3
+7607008,Pericarditis co-occurrent with extraarticular rheumatoid arthritis (disorder),3
+319841000119107,Rheumatoid lung disease with rheumatoid arthritis (disorder),3
+836472001,Spindling of fingers of bilateral hands due to rheumatoid arthritis (disorder),3
+86219005,Uveitis-rheumatoid arthritis syndrome (disorder),3
+1048311000000106,rheumatoid arthritis impact of disease questionnaire,4
+1085601000000101,disease activity score in rheumatoid arthritis,4
+161567008,h/o: rheumatoid arthritis,4
+1875561000006103,rheumatoid arthritis monitoring invitation,4
+1875571000006105,rheumatoid arthritis monitoring telephone invitation,4
+1875581000006108,rheumatoid arthritis monitoring verbal invitation,4
+1875591000006106,rheumatoid arthritis monitoring invitation first letter,4
+1875601000006103,rheumatoid arthritis monitoring invitation second letter,4
+1875611000006100,rheumatoid arthritis monitoring invitation third letter,4
+1932121000006100,3d study - problems with rheumatoid arthritis management,4
+231041000000107,delivery of rehabilitation for rheumatoid arthritis,4
+275902004,rheumatoid arthrit. monitoring,4
+441870009,disease activity score using 28 joint count,4
+805941000000105,exception reporting: rheumatoid arthritis quality indicators,4
+805961000000106,except rheumatoid arthritis quality indicator: pt unsuitable,4
+805981000000102,except rheumatoid arthritis qual indicator: informed dissent,4
+84017003,rheumatoid bursitis,4
+847261000000104,rheumatoid arthritis annual review,4
+882321000000105,rheumatoid arthritis monitoring invitation,4
+882401000000106,rheumatoid arthritis monitoring invitation first letter,4
+882421000000102,rheumatoid arthritis monitoring invitation second letter,4
+882441000000109,rheumatoid arthritis monitoring invitation third letter,4
+882461000000105,rheumatoid arthritis monitoring verbal invitation,4
+882481000000101,rheumatoid arthritis monitoring telephone invitation,4
+444009006,Assessment of rheumatoid arthritis (procedure),4
+493231000000104,Assessment of rheumatoid arthritis using disease activity score - original (regime/therapy),4
+493241000000108,Assessment of rheumatoid arthritis using disease activity score using 28 joint count (regime/therapy),4
+493251000000106,Assessment of rheumatoid arthritis using disease activity score using C-reactive protein (regime/therapy),4
+494441000000105,Rheumatoid arthritis work instability scale (assessment scale),4
+1083081000000100,Rheumatoid arthritis monitoring invitation email (procedure),4
+446043004,Rheumatoid arthritis work instability scale score (observable entity),4
+443349002,Disease activity score in rheumatoid arthritis (assessment scale),4
+1048281000000108,Rheumatoid Arthritis Impact of Disease questionnaire (assessment scale),4
+443539004,Disease activity score in rheumatoid arthritis using C-reactive protein (assessment scale),4
+764529000,Salford Rheumatoid Arthritis Foot Evaluation Instrument (assessment scale),4
+1048301000000109,Assessment using Rheumatoid Arthritis Impact of Disease questionnaire (procedure),4
+1066991000000109,Rheumatoid arthritis monitoring invitation by short message service text messaging (procedure),4
+1067001000000103,Rheumatoid arthritis monitoring short message service text message first invitation (procedure),4
+1067021000000107,Rheumatoid arthritis monitoring short message service text message third invitation (procedure)',4
+1067011000000101,Rheumatoid arthritis monitoring short message service text message second invitation (procedure),4
+764894008,Salford Rheumatoid Arthritis Foot Evaluation Instrument Part A: Fixed Scale - Footwear total score (observable entity),4
+764895009,Salford Rheumatoid Arthritis Foot Evaluation Instrument Part A: Fixed Scale - Disability total score (observable entity),4
+764901007,Salford Rheumatoid Arthritis Foot Evaluation Instrument Part A: Fixed Scale - Impairment total score (observable entity),4
+764896005,Salford Rheumatoid Arthritis Foot Evaluation Instrument Part B: Patient Preference Scale - Personal feelings domain total score (observable entity),4
+764897001,Salford Rheumatoid Arthritis Foot Evaluation Instrument Part B: Patient Preference Scale - Impact on career domain total score (observable entity),4
+764905003,Salford Rheumatoid Arthritis Foot Evaluation Instrument Part B: Patient Preference Scale - Personal adaptation domain total score (observable entity),4
+764900008,Salford Rheumatoid Arthritis Foot Evaluation Instrument Part B: Patient Preference Scale - Visual impact domain total score (observable entity),4
+764898006,Salford Rheumatoid Arthritis Foot Evaluation Instrument Part B: Patient Preference Scale - Effect on family life domain total score (observable entity),4
+764899003,Salford Rheumatoid Arthritis Foot Evaluation Instrument Part B: Patient Preference Scale - External factors that affect foot symptoms domain total score (observable entity),4

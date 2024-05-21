@@ -1,0 +1,13 @@
+ICD10Codes,Description
+E10,Type 1 diabetes mellitus
+E10.0,With coma
+E10.1,With ketoacidosis
+E10.2,With renal complications
+E10.3,With ophthalmic complications
+E10.4,With neurological complications
+E10.5,With peripheral circulatory complications
+E10.6,With other specified complications
+E10.7,With multiple complications
+E10.8,With unspecified complications
+E10.9,Without complications
+O24.0,Pre-existing type 1 diabetes mellitus

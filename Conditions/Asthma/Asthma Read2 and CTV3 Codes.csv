@@ -1,0 +1,52 @@
+V2Codes,Description
+173A.,Exercise-induced asthma
+H3120,Chronic asthmatic bronchitis
+H33..,Asthma
+H330.,(Hay fever with asthma) or (extrinsic asthma without status asthmaticus)
+H3300,Extrinsic asthma without status asthmaticus
+H3301,Extrinsic asthma with: [asthma attack] or [status asthmaticus]
+H330z,Extrinsic asthma NOS
+H331.,Intrinsic asthma
+H3310,Intrinsic asthma without status asthmaticus
+H3311,Intrinsic asthma with: [asthma attack] or [status asthmaticus]
+H331z,Intrinsic asthma NOS
+H332.,Mixed asthma
+H334.,Brittle asthma
+H335.,Chronic asthma with fixed airflow obstruction
+H33z.,Asthma unspecified
+H33z0,(Severe asthma attack) or (status asthmaticus NOS)
+H33z1,Asthma attack
+H33z2,Late-onset asthma
+H33zz,Asthma NOS
+H3B..,Asthma-chronic obstructive pulmonary disease overlap syndrome
+Ua1AX,Brittle asthma
+X101t,Childhood asthma
+X101u,Late onset asthma
+X101x,Allergic asthma
+X101y,Extrinsic asthma with asthma attack
+X101z,Allergic asthma NEC
+X1020,Hay fever with asthma
+X1021,Allergic non-atopic asthma
+X1022,Intrinsic asthma with asthma attack
+X1024,Aspirin-sensitive asthma with nasal polyps
+X102D,Status asthmaticus
+Xa0lZ,Asthmatic bronchitis
+Xa9zf,Acute asthma
+Xaa7B,Chronic asthma with fixed airflow obstruction
+Xac33,Asthma-chronic obstructive pulmonary disease overlap syndrome
+Xafdj,Acute severe exacerbation of asthma
+Xafdy,Moderate acute exacerbation of asthma
+Xafdz,Life threatening acute exacerbation of asthma
+XaLPE,Nocturnal asthma
+XE0YQ,Allergic atopic asthma
+XE0YR,Extrinsic asthma without status asthmaticus
+XE0YS,Extrinsic asthma with status asthmaticus
+XE0YT,Non-allergic asthma
+XE0YU,Intrinsic asthma with status asthmaticus
+XE0YV,Status asthmaticus NOS
+XE0YW,Asthma attack
+XE0YX,Asthma NOS
+XE0ZP,Extrinsic asthma - atopy (& pollen)
+XE0ZR,Asthma: [intrinsic] or [late onset]
+XE0ZT,Asthma: [NOS] or [attack]
+XM0s2,Asthma attack NOS
