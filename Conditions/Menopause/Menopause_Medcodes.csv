@@ -1,0 +1,142 @@
+MedCodeID,Description
+4093871000006112,Abnormal presence of endometrial cells in specimen from a menopausal woman
+4355521000006115,Menopausal syndrome
+8048821000006110,Perimenopausal state
+8048831000006113,Perimenopausal
+4543141000006119,'Change of life'
+4543121000006114,Menopause
+4543131000006112,The change
+4543151000006117,Menopausal state
+4543161000006115,"Menopause, function"
+264954016,Menopause initial assessment
+264955015,Menopause follow-up assessment
+264958018,Menopause: bone density check
+4638871000006115,Hormonal replacement therapy (HRT): unopposed oestrogen
+264965014,HRT: unopposed oestrogen
+4638891000006119,Hormonal replacement therapy: unopposed estrogen
+4638881000006117,Hormonal replacement therapy (HRT): unopposed estrogen
+4638861000006110,HRT: unopposed estrogen
+4638931000006111,Hormonal replacement therapy (HRT): combined oestrogen/progestogen
+829001000006113,HRT: combined oestrogen/progestogen
+4638921000006113,Hormonal replacement therapy (HRT): combined estrogen/progestogen
+4638941000006118,Hormonal replacement therapy: combined estrogen/progestogen
+4638911000006117,HRT: combined estrogen/progestogen
+4638951000006116,Menopause dietary education
+264968011,Menopause: dietary advice
+264969015,Menopause sexual education
+4638991000006110,Menopause sexual advice
+12487781000006113,Menopause: sexual advice
+4638971000006114,Menopause sexual education
+706121000006115,Female climacteric state
+4792641000006112,Female climacteric
+887541000006115,Climateric symptoms
+4792661000006111,"Female climacteric state, function"
+4792651000006114,Perimenopause
+4792691000006115,Hot flush
+4792721000006113,Menopausal hot flashes
+305090010,Menopausal flushing
+828351000006118,Menopausal hot flushes
+2475621015,Hot flushes
+4792701000006115,Hot flashes
+305092019,Menopausal sleeplessness
+305093012,Menopausal headache
+305094018,Menopausal concentration lack
+2818571000006114,Delayed menopause
+4806611000006112,Haxthausen's syndrome
+4806601000006114,Hyperkeratosis palmoplantaris climacterica
+559061000006114,Climacteric keratoderma
+4806591000006118,Haxthausen's disease
+4806581000006116,Keratoderma climactericum
+2837571000006119,PAU - Postmenopausal atrophic urethritis
+2837561000006114,Postmenopausal urethritis
+2837551000006112,Menopausal urethral atrophy
+216391000006112,Post menopausal urethritis
+2837541000006110,Postmenopausal urethral atrophy
+216381000006114,Postmenopausal atrophic urethritis
+2846821000006118,Menopausal symptom
+5103621000006110,Normal menopause
+5103781000006115,Menopause ovarian failure
+5192601000006113,Menopause monitoring status
+264973017,Menopause monitoring NOS
+401545018,Menopause monitoring
+5585851000006113,Menopause finding
+5585861000006110,Menopause observation
+5608231000006119,Post-hysterectomy menopause
+5608241000006112,Post-radiation menopause
+251993014,Menopause
+5753441000006119,Menopause present
+5915021000006116,During menopause
+5968171000006114,After menopause
+5968181000006112,Postmenopausal time period
+5990621000006119,Temporal periods relating to menopause
+457065017,Advice about the menopause
+706231000006111,Menopause education
+3005361000006113,Artificial menopause
+3005341000006114,Postartificial menopausal syndrome
+484851015,Artificial menopause state
+3021391000006113,Type I osteoporosis
+3021381000006110,Menopausal osteoporosis
+3021401000006110,Type 1 osteoporosis
+6348221000006117,Postsurgical menopause
+6348231000006119,Surgical menopause
+587831000000117,Early menopause
+214501000006117,Premature menopause
+6384531000006117,Early menopause
+1485017016,Hormone replacement therapy bleed pattern - normal
+1485018014,Hormone replacement therapy bleed pattern - abnormal
+1485019018,Hormone replacement therapy bleed pattern - not relevant
+1485020012,Hormone replacement therapy bleed pattern - no bleeding
+6670211000006117,Dermatosis of menopause
+6680391000006111,Postmenopausal flushing
+6683211000006115,Postmenopausal pruritus
+6709981000006114,Symptom severity: perimenopause
+6709971000006111,Symptom severity level: perimenopause
+2474450014,Menopausal profile
+2534105016,Postmenopausal postcoital bleeding
+7008191000006119,Difficulty managing menopause
+7072871000006118,Climacteric flushing
+7081291000006115,History of normal menopause
+7081301000006119,History of natural age related menopause
+7101291000006110,Climacteric arthritis of spine
+7222731000006117,Counselling for menopause
+7222741000006110,Counseling for menopause
+7423751000006117,Static magnetic menopause-relief plate
+3619151000006119,Menopausal problem
+3514994015,Postmenopausal osteopenia
+3514996018,Osteopenia following menopause
+3744311000006118,Postmenopausal
+127040019,Postmenopausal state
+3748141000006114,PMB - Postmenopausal bleeding
+127423017,Postmenopausal bleeding
+3748151000006111,Bleeding after menopause
+310101013,Climacteric arthritis of the lower leg
+310095012,Climacteric arthritis of unspecified site
+129260010,Menopausal arthritis
+310098014,Climacteric arthritis of the forearm
+310105016,Climacteric arthritis NOS
+310103011,Climacteric arthritis of other specified site
+129259017,Climacteric arthritis
+264956019,Menopause symptoms present
+264957011,Luteinising hormone and follicle stimulating hormone checked
+990471000006117,Climateric symptoms
+305095017,Menopausal symptoms NOS
+305097013,Other menopausal and postmenopausal states
+305262018,Perimenopausal disorder
+811301000006115,H/O: postmenopausal bleeding
+397164010,Hormone replacement therapy
+264959014,HRT contraindicated
+264960016,HRT started
+1485021011,Years on hormone replacement therapy
+398811011,Secondary ovarian failure
+397100015,Menopausal and postmenopausal disorders
+221331000000115,Postmenopausal disorders
+146604018,Premenopausal menorrhagia
+887531000006113,Perimenopausal menorrhagia
+146606016,Climacteric menorrhagia
+87265016,Postmenopausal atrophic vaginitis
+148051000006114,Senile (atrophic) vaginitis
+2159950019,Perimenopausal atrophic vaginitis
+1629301000006115,Perimenopausal menorrhagia
+305098015,Menopausal and postmenopausal disorder NOS
+887551000006118,Meno/postmenopausal dis. NOS
+54058015,Postmenopausal osteoporosis

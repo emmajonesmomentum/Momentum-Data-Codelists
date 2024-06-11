@@ -1,0 +1,17 @@
+ICD10Codes,Description
+S32.0,Fracture of lumbar vertebra
+S32.1,Fracture of sacrum
+S32.7,Multiple fractures of lumbar spine and pelvis
+M48.4,Fatigue fracture of vertebra
+M48.5,"Collapsed vertebra, not elsewhere classified"
+S22.0,Fracture of thoracic vertebra
+S22.1,Multiple fractures of thoracic spine
+M49.5,Collapsed vertebra in diseases classified elsewhere
+S12,Fracture of neck
+S12.0,Fracture of first cervical vertebra
+S12.1,Fracture of second cervical vertebra
+S12.2,Fracture of other specified cervical vertebra
+S12.7,Multiple fractures of cervical spine
+S12.9,"Fracture of neck, part unspecified"
+T02.1,Fractures involving thorax with lower back and pelvis
+T08,"Fracture of spine, level unspecified"

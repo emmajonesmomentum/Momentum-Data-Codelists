@@ -1,0 +1,313 @@
+SNOMEDCTCodes,Description
+88039007,Transplant of lung
+174425003,Orthotopic liver transplant
+174426002,Heterotopic liver transplant
+174427006,Replacement of previous liver transplant
+18027006,Transplantation of liver
+174692003,Whole organ pancreatic transplant
+174693008,Transplantation of tail of pancreas
+128531006,Transplantation of islet cells
+62438007,Transplantation of pancreas
+174802006,Allotransplant of heart and lung
+232973007,Allotransplant of heart
+174808005,Xenotransplant of heart
+174809002,Heterotopic allotransplant of heart
+32413006,Transplantation of heart
+70536003,Transplant of kidney
+175901007,Live donor renal transplant
+175902000,Cadaver renal allotransplant
+183023001,Transplant immunosuppression
+197747000,Renal tubulo-interstitial disorders in transplant rejection
+236570004,Renal transplant rejection
+269295009,Transplanted organ failure
+213147001,(Transplanted organ failure) or (deteriorating renal function after renal transplant)
+213148006,Transplant rejection
+213150003,Kidney transplant failure and rejection
+213151004,Heart transplant failure and rejection
+213152006,Heart-lung transplant failure and rejection
+213153001,Liver transplant failure and rejection
+161663000,H/O: tissue/organ recipient
+161665007,H/O: kidney recipient
+161666008,H/O: heart recipient
+161672008,H/O: lung recipient
+737297006,Transplanted liver present
+397554006,Limbal stem cell transplantation (procedure)
+232658009,DLTx - Double lung transplant
+232657004,Single lung transplant
+425616008,Transplantation of ileum (procedure)
+426356008,Orthotopic transplantation of whole liver (procedure)
+235458006,Exploration of liver transplant
+32477003,Heart-lung transplant with recipient cardiectomy-pneumonectomy
+711411006,Allotransplantation of kidney from beating heart cadaver (procedure)
+711413009,Allotransplantation of kidney from non-beating heart cadaver
+236138007,Xenograft renal transplant
+711446003,Transplantation of kidney regime (regime/therapy)
+428645009,Examination of recipient after kidney transplant (procedure)
+408477008,Transplantation surgery (qualifier value)
+236582008,Acute-on-chronic rejection of renal transplant
+236575009,Acute rejection of renal transplant - grade I
+236576005,Acute rejection of renal transplant - grade II
+236577001,Acute rejection of renal transplant - grade III
+236574008,Acute rejection of renal transplant
+236578006,Chronic rejection of renal transplant
+277010001,Unexplained episode of renal transplant dysfunction
+441751006,Transplantation of intestine
+737294004,Transplant present
+161671001,H/O: liver recipient
+174691005,Transplantation of pancreas and duodenum
+174694002,Renewal of transplanted pancreatic tissue
+174699007,Excision of transplanted pancreas
+174803001,Revision of transplantation of heart and lung
+232659001,Double lung transplant as a block
+232660006,BSSLTx - Bilateral sequential single lung transplant
+233844002,Accelerated coronary artery disease in transplanted heart
+233932001,Cardiac transplant disorder
+233933006,Cardiac transplant rejection
+233934000,Cardiac transplant failure
+235910007,Liver transplant disorder
+235911006,Liver transplant rejection
+235912004,Liver transplant failure
+429451003,Disorder related to renal transplantation (disorder)
+236569000,Primary non-function of renal transplant
+236571000,Hyperacute rejection of renal transplant
+236572007,Accelerated rejection of renal transplant
+236573002,Very mild acute rejection of renal transplant
+236579003,Mild chronic transplant nephropathy
+236580000,Chronic rejection of renal transplant - grade II
+236581001,Severe chronic transplant nephropathy
+236583003,Failed renal transplant
+236584009,Perfusion injury of renal transplant
+236585005,De novo transplant disease
+236587002,Transplant glomerulopathy
+236588007,Transplant glomerulopathy - early form
+236589004,Transplant glomerulopathy - late form
+236610003,Escape of urine from transplanted ureter
+236614007,Perirenal and periureteric post-transplant lymphocele
+263903005,Transplant
+44165003,Complication of transplanted lung
+277011002,Pre-existing disease in renal transplant
+277451006,Part organ pancreatic transplant
+303408002,Entire transplanted ureter
+427928003,Disorder related to lung transplantation (disorder)
+312603000,Lung transplant rejection
+408471009,Cardiothoracic transplantation (qualifier value)
+429332008,Transplantation of single lobe of lung (procedure)
+426463009,Allotransplantation of ileum (procedure)
+805261000000101,Bronchiolitis obliterans syndrome after lung transplantation (disorder)
+843691000000100,Urological complication of rel transplant (disorder)
+847791000000101,Rupture of artery of transplanted kidney (disorder)
+847811000000100,Rupture of vein of transplanted kidney (disorder)
+852981000000100,Aneurysm of vein of transplanted kidney (disorder)
+853021000000108,Aneurysm of artery of transplanted kidney (disorder)
+864271000000105,Thrombosis of artery of transplanted kidney (disorder)
+864311000000105,Thrombosis of vein of transplanted kidney (disorder)
+896561000000109,Transplantation of stomach (procedure)
+896581000000100,Allotransplantation of stomach (procedure)
+3860006,Transplanted liver
+7447008,Immunosuppressive therapy for transplant
+8773000,Transplantation of large intestine
+8835008,Anesthesia for heart/lung transplant
+10047002,Transplanted lung
+13160009,Complication of transplanted intestines
+20525008,Complication of transplanted organ
+21843009,Transplanted endocrine pancreas
+23137002,"Anesthesia for renal transplant, recipient"
+24486003,Transplant
+27280000,Liver transplant with recipient hepatectomy
+28009009,Liver transplant without recipient hepatectomy
+28372008,"Delayed allogeneic transplantation, cadaver donor"
+33167004,Complication of transplanted liver
+35006009,Graft failure due to recurrent recipient disease
+47058000,Heart transplant with recipient cardiectomy
+48994000,Renal homotransplantation with unilateral recipient nephrectomy
+50053001,"Delayed allogeneic transplantation, living donor"
+52213001,Renal homotransplantation excluding donor and recipient nephrectomy
+56283009,Transplantation of small intestine
+58797008,Complication of transplanted kidney
+67562009,Heterotransplant of pancreas
+70948008,Transplanted kidney
+71947008,Homotransplant of pancreas
+76077004,Total pancreatectomy with transplantation
+81510007,Transplanted heart
+87084007,Anesthesia for heart transplant
+90518008,Transplanted intestine
+90651007,"Anesthesia for liver transplant, recipient"
+91621005,Total gastrectomy with repair by intestinal transplant
+138929003,H/O: kidney recipient
+138930008,H/O: heart recipient
+138934004,H/O: cornea recipient
+138935003,H/O: liver recipient
+138936002,H/O: lung recipient
+148866006,Corneal transplant
+149133003,Lung transplant
+149204008,Heart transplant
+149473000,Liver transplant
+149522005,Pancreatic transplant
+149585005,Kidney replacement
+149586006,Renal transplant
+149588007,Kidney replacement NOS
+157792003,Transplanted organ rejection
+161670000,H/O: cornea recipient
+173168004,Transplantation of lung NOS
+174428001,Other specified transplantation of liver
+174429009,Transplantation of liver NOS
+174695001,Other specified transplantation of pancreas
+174696000,Transplantation of pancreas NOS
+174804007,Other specified transplantation of heart and lung
+174805008,Transplantation of heart and lung NOS
+174806009,Other transplantation of heart
+174807000,Allotransplantation of heart NEC
+174811006,Revision of transplantation of heart NEC
+174812004,Other specified other transplantation of heart
+174813009,Other transplantation of heart NOS
+175903005,Other specified transplantation of kidney
+175904004,Transplantation of kidney NOS
+175948009,Exploration of renal transplant
+10481004,Structure of transplanted cornea
+187543000,Entire transplanted lung
+195591003,Entire transplanted heart
+198519003,Renal tubulo-interstitial disorders in transplant rejection
+213744004,([X]Failure and rejection of other transplanted organ and tissue) or ([X]corneal graft rejection)
+217023005,"Transplantation of heart as the cause of abnormal reaction of patient, or of later complication, without mention of misadventure at the time of operation"
+217024004,"Transplantation of kidney as the cause of abnormal reaction of patient, or of later complication, without mention of misadventure at the time of operation"
+217025003,"Transplantation of liver as the cause of abnormal reaction of patient, or of later complication, without mention of misadventure at the time of operation"
+217026002,"Transplantation of whole organ as the cause of abnormal reaction of patient, or of later complication, without mention of misadventure at the time of operation, NOS"
+223292004,"[X]Surgical operation with transplant of whole organ as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure"
+232971009,Heart and heart-lung transplant
+232974001,Orthotopic allotransplant of heart
+233634002,Post-lung transplantation bronchiectasis
+236436003,End stage renal failure with renal transplant
+236568008,Renal transplant disorder
+241249008,Renal transplant arteriogram
+241250008,Renal transplant venogram
+241251007,Renal transplant venous sampling
+241472007,US scan of transplant liver
+241474008,US scan of transplant pancreas
+241484009,US scan of transplant kidney
+248032000,Entire transplanted endocrine pancreas
+266376000,Entire transplanted intestine
+267150004,H/O: organ recipient
+269311003,[X]Failure and rejection of other transplanted organ and tissue
+272508003,Entire transplanted liver
+277450007,Whole organ pancreatic transplant
+281112005,Transplant kidney
+287270005,Corneal transplant
+288004005,Kidney replacement
+288006007,Kidney replacement NOS
+308683001,Heart transplant biopsy
+312602005,Lung transplant disorder
+313039003,Solid organ transplant
+316054003,[V]Kidney transplanted
+316055002,[V]Heart transplanted
+316059008,[V]Cornea transplanted
+316060003,[V]Lung transplanted
+316061004,[V]Liver transplanted
+316350002,[V]Heart and lungs transplant status
+79126008,Anaesthesia for corneal transplant
+368824002,Transplanted cornea
+173167009,Other specified transplantation of lung (procedure)
+217022000,"Surgical operation with transplant of whole organ as the cause of abnormal reaction of patient, or of later complication, without mention of misadventure at the time of operation (disorder)"
+235464004,Heterotopic liver transplant
+41357006,"Delayed isogeneic transplantation, cadaver donor (procedure)"
+60656008,Corneal transplant (procedure)
+76741002,Complication of transplanted heart (disorder)
+79369007,Complication of transplanted pancreas (disorder)
+316062006,[V]Intestine transplanted
+420106004,Fluoroscopic venography of renal transplant (procedure)
+419139005,Fluoroscopic angiography of renal transplant (procedure)
+419224002,Fluoroscopic angioplasty of renal transplant (procedure)
+428575007,Hypertension secondary to kidney transplant
+427927008,Disorder related to cardiac transplantation
+429257001,Disorder of transplanted heart
+431186002,Accelerated rejection of cardiac transplant (disorder)
+432908002,Chronic rejection of liver transplant (disorder)
+434270001,Chronic rejection of intestine transplant (disorder)
+432958009,Chronic rejection of lung transplant (disorder)
+432772009,Hyperacute rejection of liver transplant (disorder)
+434202008,Hyperacute rejection of pancreas transplant (disorder)
+432777003,Accelerated rejection of liver transplant (disorder)
+431505005,Rejection of intestine transplant (disorder)
+431506006,Rejection of pancreas transplant (disorder)
+433600001,Hyperacute rejection of intestine transplant (disorder)
+433802006,Fluoroscopic angiography of transplanted renal artery using contrast with insertion of stent (procedure)
+434238001,Acute rejection of intestine transplant (disorder)
+432843002,Acute rejection of cardiac transplant (disorder)
+431222008,Acute rejection of liver transplant (disorder)
+431223003,Acute rejection of lung transplant (disorder)
+433804007,Accelerated rejection of intestine transplant (disorder)
+433809002,Accelerated rejection of pancreas transplant (disorder)
+431896008,Chronic rejection of cardiac transplant (disorder)
+431988002,Doppler ultrasonography of transplanted kidney (procedure)
+432773004,Hyperacute rejection of cardiac transplant (disorder)
+431507002,Accelerated rejection of lung transplant (disorder)
+433592008,Acute rejection of pancreas transplant (disorder)
+434271002,Chronic rejection of pancreas transplant (disorder)
+432774005,Hyperacute rejection of lung transplant (disorder)
+433688005,Percutaneous thrombolysis of transplanted renal artery using fluoroscopic guidance
+430403008,Percutaneous transluminal angioplasty of transplanted renal artery using fluoroscopic guidance
+440512006,Biopsy of transplanted kidney using ultrasound guidance (procedure)
+440449002,Magnetic resonance angiography of transplanted kidney (procedure)
+438661003,Specimen from transplanted kidney obtained by biopsy (specimen)
+440472000,Specimen from transplanted lung obtained by excision (specimen)
+438543000,Specimen from transplanted liver obtained by biopsy (specimen)
+438454007,Specimen from transplanted lung obtained by biopsy (specimen)
+438804005,Tissue specimen from transplanted kidney
+441754003,Percutaneous transhepatic transplantation of pancreatic islet cell using fluoroscopic guidance
+443578000,Radionuclide imaging of transplanted kidney
+444855007,Arteriosclerosis of coronary artery bypass graft of transplanted heart
+447981001,Allotransplantation of islets of Langerhans
+448196000,Fluoroscopic venography of transplanted pancreas using contrast
+450816007,Revision of transplantation of heart
+6661000119101,Coronary arteriosclerosis in native artery of transplanted heart
+471851005,Disorder of myocardium associated with rejection of cardiac transplant (disorder)
+473195006,Normal renal function of transplanted kidney
+609301009,Percutaneous thrombolysis of vein of transplanted pancreas using fluoroscopic guidance
+698362007,History of transplantation of pancreas
+698367001,History of intestinal transplant
+702690005,Doppler ultrasound of transplant liver (procedure)
+702776000,Heart transplant recipient
+702775001,Lung transplant recipient
+702773008,Cornea transplant recipient
+702777009,Liver transplant recipient
+703048006,Post-renal transplant vesicoureteric reflux
+707148007,Recurrent post-transplant renal disease (disorder)
+293711000119108,History of islet cell transplant
+96601000119101,Aftercare for liver transplant done
+711417005,Doppler ultrasonography of blood vessel of organ transplant
+713825007,Renal artery stenosis of transplanted kidney (disorder)
+713824006,Structure of renal artery of transplanted kidney (body structure)
+714153000,Chronic kidney disease stage 5 with transplant (disorder)
+716805003,Heart-lung transplant recipient (finding)
+718031007,Retrograde insertion of ureteric stent into ureter of transplanted kidney using fluoroscopic guidance (procedure)
+718030008,Antegrade insertion of ureteric stent into ureter of transplanted kidney using fluoroscopic guidance (procedure)
+718078008,Doppler ultrasonography of transplanted liver (procedure)
+6471000179103,Transplantation of kidney and pancreas (procedure)
+6591000179103,Laparoscopic biopsy of transplanted pancreas (procedure)
+6501000179109,Laparoscopic biopsy of transplanted kidney (procedure)
+719352000,Kidney transplant recipient (finding)
+6571000179102,Percutaneous needle biopsy of transplanted pancreas (procedure)
+719423002,Structure of transplanted pancreas (body structure)
+719820005,Structure of transplanted pancreatic islets (body structure)
+719821009,Entire transplanted pancreas (body structure)
+719822002,Entire transplanted pancreatic islets (body structure)
+726555002,Percutaneous venoplasty of transplanted hepatic vein using fluoroscopic guidance (procedure)
+731627000,Entire renal artery of transplanted kidney (body structure)
+737295003,Transplanted kidney present
+737296002,Transplanted lung present
+739024006,Transplanted heart present (finding)
+739025007,Transplanted heart-lung present (finding)
+762618008,Bronchiolitis obliterans syndrome due to and after lung transplantation (disorder)
+764643003,Fluoroscopy guided removal of nephrostomy tube from transplanted kidney
+765478004,Allotransplantation of left kidney
+765479007,Allotransplantation of right kidney
+782655004,Laparoscopic transplant of kidney using robotic assistance
+784266000,History of heart-lung transplant recipient
+16058871000119104,Transplant failure of cornea of left eye (disorder)
+16058711000119104,Transplant failure of cornea of right eye
+785828003,Structure of transplanted cornea of left eye
+785829006,Structure of transplanted cornea of right eye
+785830001,Transplant of cornea of right eye (procedure)
+785831002,Transplant of cornea of left eye (procedure)
+16058831000119102,Transplant rejection of cornea of right eye
+16058671000119103,Transplant rejection of cornea of left eye
+792842004,Coronary arteriosclerosis in artery of transplanted heart

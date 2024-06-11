@@ -1,0 +1,131 @@
+V2Codes,Description
+ZV42.,[V] Transplanted organ
+ZV420,[V] Kidney transplanted
+ZV421,[V] Heart transplanted
+ZV422,[V] Heart valve transplanted
+ZV423,[V] Skin transplanted
+ZV424,[V] Bone transplanted
+ZV425,[V] Cornea transplanted
+ZV426,[V] Lung transplanted
+ZV427,[V] Liver transplanted
+ZV42y,[V] Other specified transplanted organ or tissue
+ZV42z,[V] Unspecified transplanted organ or tissue
+SP08.,Transplanted organ complication
+SP080,Transplanted organ failure
+SP081,Transplanted organ rejection
+SP082,Bone marrow transplant rejection
+SP083,Kidney transplant failure and rejection
+SP084,Heart transplant failure and rejection
+SP085,Heart-lung transplant failure and rejection
+SP086,Liver transplant failure and rejection
+SP087,Acute graft versus host disease
+SP088,Chronic graft versus host disease
+SP089,Complication of transplanted lung
+SP08A,Post-transplant lymphoproliferative disorder
+SP08B,Post-tranplant bronchiolitis obliterans syndrome
+SP08C,Accelerated rejection of renal transplant
+SP08D,Acute-on-chronic rejection of renal transplant
+SP08E,Acute rejection of renal transplant - grade I
+SP08F,Acute rejection of renal transplant - grade II
+SP08G,Acute rejection of renal transplant - grade III
+SP08H,Acute rejection of renal transplant
+SP08J,Chronic  rejection of renal transplant
+SP08K,Chronic  rejection of renal transplant - grade I
+SP08L,Chronic  rejection of renal transplant - grade II
+SP08M,Chronic  rejection of renal transplant - grade III
+SP08N,Unexplained episode of renal transplant dysfunction
+SP08P,Stenosis of vein of transplanted kidney
+SP08Q,Aneurysm of artery of transplanted kidney
+SP08R,Renal transplant rejection
+SP08S,Aneurysm of vein of transplanted kidney
+SP08T,Urological complication of renal transplnt
+SP08V,Very mild acute rejection of renal transplant
+SP08W,Vascular complication of renal transplant
+SP08X,Rupture of artery of transplanted kidney
+SP08Y,Rupture of vein of transplanted kidney
+SP08Z,Thrombosis of artery of transplanted kidney
+SP08a,Thrombosis of vein of transplanted kidney
+SP08c,De novo transplant disease
+SP08z,Transplanted organ complication NOS
+TB00.,"Organ transplant with complication, without blame"
+TB000,"Heart transplant with complication, without blame"
+TB001,"Kidney transplant with complication, without blame"
+TB002,"Liver transplant with complication, without blame"
+TB00z,"Organ transplant with complication, without blame NOS"
+U630.,[Xsurg op trnsp wh org abn react pt/lat comp no misadv time
+7K1Q.,Bone marrow transplant
+7K1Q1,Allograft of bone marrow NEC
+7K1Q2,Transfusion of stem cells
+7K1Q3,Allograft of bone marrow from sibling donor
+7K1Q4,Allograft of bone marrow from matched unrelated donor
+7K1Q5,Allograft of bone marrow from haploidentical donor
+7K1Q6,Allograft of bone marrow from unmatched unrelated donor
+7K1Qy,Other specified graft of bone marrow
+7K1Qz,Graft of bone marrow NOS
+9b8K.,Transplantation surgery
+7450.,Transplantation of lung
+74500,Double lung transplant
+74501,Single lung transplant
+74502,Single lobe lung transplant
+7450y,Other specified transplant of lung
+7450z,Transplantation of lung NOS
+7800.,Orthototic transplantation of liver
+78000,Heterotopic transplantation of liver
+78001,Replacement of previous liver transplant
+78002,Transplantation of liver cells
+78003,Orthototic transplant of whole liver
+78004,Orthototic transplantation of liver NEC
+7800y,Other specified transplantation of liver
+7800z,Transplatation of liver NOS
+SP,Transplant complications
+764C.,Transplantation of ileum
+764C0,Allotransplantation of ileum
+764Cy,Other specified transplantation of ileum
+764Cz,Transplantation of ileum NOS
+7B00.,Transplantation of kidney
+78000,Autotransplant of kidney
+78001,Transplantation of kidney from live donor
+78002,Transplantation of kidney from cadaver
+78003,"Allotransplantation of kidney from cadaver, heart-beating"
+78004,"Allotransplantation of kidney from cadaver, heart non-beating"
+78005,Allotransplantation of kidnet from cadaver NEC
+78006,Xenograft renal transplant
+7800y,Other specified transplantation of kidney
+7800z,Transplantation of kidney NOS
+78420,Transplantation of spleen
+761N.,Transplantation of stomach
+761N0,Allotransplatation of stomach
+761Ny,Other specified transplantation of stomach
+761Nz,Unspecified transplantation of stomach
+7830.,Transplantation of pancreas
+78300,Transplantation of pancreas and duodenum
+78301,Transplantation of whole pancreas
+78302,Transplantation of tail of pancreas
+78303,Transplantation of islet of Langerhans
+78304,Renewal of transplanted pancreatic tissue
+7830y,Other specified transplantation of pancreas
+7830z,Transplantation of pancreas NOS
+8C31.,Transplant immunosuppression
+7901.,Other transplantation of heart
+79010,Allotransplantation of heart NEC
+79011,Xenotransplantation of heart
+79012,Implantation of prosthetic heart
+79013,Piggyback transplantation of heart
+79014,Revision of implantation of prosthetic heart
+79015,Revision of transplantation of heart NEC
+7901y,Other specified other transplantation of heart
+7901z,Other transplantation of heart NOS
+72436,Transplantation of conjunctiva
+9b8B2,Cardiothoracic transplantation
+7B063,Exploration of renal transplant
+9b930,Bone and marrow transplant
+7900.,Transplantation of heart and lung
+79000,Allotransplantation of heart and lung
+79001,Revision of transplantation of heart and lung
+7900y,Other specified transplantation of heart and lung
+7900z,Transplantation of heart and lung NOS
+72458,Transplant of corneal limbal cells
+ZV596,[V] Heart and lungs transplant status
+ZL147,Allogenic peripheral blood stem cell transplant
+7B0F3,"Post transplantation of kidney examination, recipient"
+K0B5.,Renal tubulo-interstitial disorders in transplant recipients

@@ -1,0 +1,178 @@
+CTV3Codes,Description
+ZV42.,[V] Transplanted organ
+ZV420,[V] Kidney transplanted
+ZV421,[V] Heart transplanted
+ZV422,[V] Heart valve transplanted
+ZV423,[V] Skin transplanted
+ZV424,[V] Bone transplanted
+ZV425,[V] Cornea transplanted
+ZV426,[V] Lung transplanted
+ZV427,[V] Liver transplanted
+ZV42y,[V] Other specified transplanted organ or tissue
+ZV42z,[V] Unspecified transplanted organ or tissue
+XaE9z,Solid organ transplant
+Xaat5,Transplantation of stomach
+Xaat6,Allotransplantation of stomach
+7B00.,Renal transplant
+XaE9T,Donor renal transplant
+7B001,Live donor renal transplant
+7B002,Cadaveric renal transplant
+XaM1o,"Allotransplantation of kidney from cadaver, heart-beating"
+Xam1p,"Allotransplantation of kidney from cadaver, heart non-beating"
+XaMKM,Allotransplantation of kidnet from cadaver NEC
+X30D2,Xenograft renal transplant
+7B00y,Other specified transplantation of kidney
+7B00z,Transplantation of kidney NOS
+7800.,Liver transplant
+XaLde,Transplantation of liver cells
+78000,Orthotopic liver transplant
+XaLdf,Orthotopic transplant of whole liver
+XaMMe,Orthotopic transplant of liver NEC
+78001,Heterotopic liver transplant
+78002,Replacement of previous liver transplant
+7800y,Other specified transplantation of liver
+7800z,Transplantation of liver NOS
+7830.,Pancreatic transplant
+78301,whole organ pancreas transplant
+Xa0Pz,Part organ pancreas transplant
+78302,Transplantation of tail of pancreas
+78303,Islet cell transplant
+78300,Transplantation of pancreas and duodenum
+78304,Renewal of transplanted pancreatic tissue
+7830y,Other specified transplantation of pancreas
+7830z,Transplantation of pancreas NOS
+78420,Spleen transplant
+7450.,Lung transplant
+XaLcH,Single lobe lung transplant
+X00s1,Single lung transplant
+X00s2,Double lung transplant
+X00s3,Double lung transplant as block
+X00s4,Bilateral sequential single lung transplant
+7450y,Other specified transplantation of lung
+7450z,Transplantation of lung NOS
+7900.,Heart and heart-lung transplant
+X00y1,Heart and lung transplant
+79000,Allotransplant of heart and lung
+79001,Revision of transplantation of heart and lung
+7900y,Other specified transplantation of heart and lung
+7900z,Transplantation of heart and lung NOS
+X00y3,Heart transplant
+X00y4,Allotransplant of heart
+X00y5,Orthotopic allotransplant of heart
+79013,Heterotropic allotransplant of heart
+79010,Allotransplantation of heart NOS
+79011,Xerotransplant of heart
+79015,Revision of transplantation of heart
+7901.,Other transplantation of heart
+7901y,Other specified other transplantation of heart
+7901z,Other transplantation of heart NOS
+XE1p5,Transplantation of organ failure
+SP081,Transplanted organ rejection
+SP08.,Transplanted organ complication
+XSC3p,Complication of transplanted lung
+SP08z,Transplanted organ complication NOS
+ZVu6c,[X] Other transplanted organ and tissue status
+TB00.,"Organ transplant with complication, without blame"
+TB000,"Heart transplant with complication, without blame"
+TB001,"Kidney transplant with complication, without blame"
+TB002,"Liver transplant with complication, without blame"
+TB00z,"Organ transplant with complication, without blame NOS"
+ZVu6d,"[X] Transplanted organ and tissue status, unspecified"
+XaBik,Organ or tissue harvesting and transplantation procedures
+X70Eu,Transplant procedure
+XaMwn,Transplantation of stem cells
+XaMuC,Allogenic peripheral blood stem cell transplant
+XaMuB,Syngeneic peripheral blood stem cell transplant
+X00k6,Transplantation of tissue into nervous system
+X00K7,Transplantation of tissue into brain
+X00k8,Transplantation of tissue into spinal cord
+X602K,Bone transplant
+X602M,Allograft bone transplant
+7K1Q.,Bone marrow transplant
+X20Bd,Syngeneic bone marrow transplant
+Xa8Ry,Allogenic bone marrow transplant
+X20Be,T cell depleted allogenic bone marrow graft
+X20Bf,Imperfect T cell depleted allogenic bone marrow graft
+X20Bg,Allogenic related bone marrow transplant
+XaM85,Allograft of bone marrow from haploidentical donor
+XaM83,Allograft of bone marrow from sibling donor
+X200Bh,Allogenic unrelated bone marrow transplant
+XaPt6,Allograft of bone marrow from unmatched unrelated donor
+XaM84,Allograft of bone marrow from matched unrelated donor
+7K1Q1,Allograft of bone marrow NEC
+X20Bi,Haemopoetic stem cell transplant
+Xa0fK,Peripheral blood stem cell graft
+7K1Qy,Other spcified graft of bone marrow
+7K1Qz,Graft of bone marrow NOS
+Xa3wp,Injection of bone marrow blood cells
+XE1pM,[X] Failure and rejection of other transplanted organ and tissue
+U630.,[Xsurg op trnsp wh org abn react pt/lat comp no misadv time
+Xa3kf,Corneal transplant
+XM0BI,Transplant disorder
+X30MN,Renal transplant disorder
+XaZYx,Vascular complication of renal transplant
+Xaa2Q,Thrombosis of vein of transplanted kidney
+Xaa20,Thrombosis of artery of transplanted kidney
+XaZI0,Aneurysm of artery of transplanted kidney
+XaZkw,Aneurysm of vein of transplanted kidney
+XaZe7,Stenosis of vein of transplanted kidney
+XaZe3,Rupture of vein of transplanted kidney
+XaZe2,Rupture of artery of transplanted kidney
+XaZWa,Urological complication of renal transplant
+X30MO,Primary non-function of renal transplant
+X30MP,Renal transplant rejection
+X30MQ,Hyperacute rejction of renal transplant
+X30MR,Accelerated rejection of renal transplant
+X30MS,Very mild acute rejection of renal transplant
+X30MT,Acute rejection of renal transplant
+X30MU,Acute rejection of renal transplant - grade I
+X30MV,Acute rejection of renal transplant - grade II
+X30MW,Acute rejection of renal transplant - grade III
+X30MX,Chronic  rejection of renal transplant
+X30MY,Chronic  rejection of renal transplant - grade I
+X30MZ,Chronic  rejection of renal transplant - grade II
+X30Ma,Chronic  rejection of renal transplant - grade III
+X30Mb,Acute on chronic rejectionof renal transplant
+SP083,Kidney transplant failure and rejection
+X30Mc,Failed renal transplant
+X30Md,Perfusion injury of renal transplant
+X30Me,De Novo transplant disease
+X30Mg,Transplant glomerulonephropathy
+X30Mh,Transplant glomerulonephropathy - early form
+X30Mi,Transplant glomerulonephropathy - late form
+X30Mj,CMV induced glomerulonephritis
+Xa0HK,Unexplained episode of renal transplant dysfunction
+Xa0HL,Pre-existing disease in renal transplant
+X30NN,Perirenal and periureteric post transplant lymphocele
+X307x,Liver transplant disorder
+X307y,Liver transplant rejection
+X307z,Liver transplant failure and rejection
+X20Fz,Bone marrow transplant disorder
+X20G0,Bone marrow transplant rejection
+X20G1,Bone marrow transplant failure
+X20G3,Disease relapse in transplant marrow
+X202u,Cardiac transplant disorder
+X202v,Cardiac transplant rejecton
+X202w,Cardiac transplant failure
+SP084,Heart transplant failure and rejection
+SP085,Accelerated coronary artery disease in transplanted heart
+XaDya,Heart lung transplant failure and rejection
+XaDya,Lung transplant disorder
+XaYR1,Bronchiolitis obliterans syndrome after lung transplant
+XaDyb,Lung transplant rejection
+X78FE,Post transplant neoplasia
+X78FF,Post transplant lymphoproliferative disorder
+X20lr,Graft versus host disease
+XaKK4,Acute graft versus host disease
+XaKKM,Chronic graft versus host disease
+78001,Auxillary liver transplant
+8C31.,Transplant immunosuppression
+XaL52,Transplantation of conjunctiva
+7B063,Exploration of renal transplant
+X20Zz,Exploration of liver transplant
+XaL4r,Transplant of corneal limbal cells
+X20Bc,Marrow treated bone marrow transplant
+ZV596,[V] Heart and lung transplant status
+X40GW,Transplantation of parathyroid tissue
+XaB9S,Exploration of parathyroid transplant
+SP086,Liver transplant failure and rejection

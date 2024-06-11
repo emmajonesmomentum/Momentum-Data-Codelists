@@ -1,0 +1,29 @@
+V2Codes,Description
+M16..,Psoriasis and similar disorders
+M161.,Other psoriasis
+M1610,Psoriasis unspecified
+M1611,Psoriasis annularis
+M1612,Psoriasis circinata
+M1613,Psoriasis diffusa
+M1614,Psoriasis discoidea
+M1615,Psoriasis geographica
+M1616,Guttate psoriasis
+M1617,Psoriasis gyrata
+M1618,Psoriasis inveterata
+M1619,Psoriasis ostracea
+M161A,Psoriasis palmaris
+M161B,Psoriasis plantaris
+M161C,Psoriasis punctata
+M161D,Pustular psoriasis
+M161E,Psoriasis universalis
+M161F,Psoriasis vulgaris
+M161G,Acrodermatitis continua
+M161H,Erythrodermic psoriasis
+M161J,Flexural psoriasis
+M161z,Psoriasis NOS
+M166.,Palmoplantar pustular psoriasis
+M16y.,Other psoriasis and similar disorders
+M16y0,Scalp psoriasis
+M16z.,Psoriasis and similar disorders NOS
+Myu30,[X]Other psoriasis
+N0452,Juvenile arthritis in psoriasis
