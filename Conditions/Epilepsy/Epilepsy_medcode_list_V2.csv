@@ -1,0 +1,585 @@
+MedCodeID,Description
+8031611000006111,Epilepsy in pregnancy
+8031601000006113,Epilepsy in mother complicating pregnancy
+9323961000006117,Epilepsy in mother complicating childbirth
+9323971000006112,Epilepsy in childbirth
+8454701000006114,Emergency hospital admission to paediatric epilepsy service
+154851000000115,Epilepsy impairs education
+155701000000114,Epilepsy society member
+4164911000006118,"Epilepsy, mental deterioration and yellow teeth"
+4164931000006112,Kohlschutter syndrome
+4164891000006115,Kohlschutter's syndrome
+4164921000006114,Amelocerebrohypohidrotic syndrome
+4164901000006116,"Epilepsy, dementia and amelogenesis imperfecta"
+4196381000006118,Extratemporal epilepsy
+8037291000006111,Intractable simple partial epilepsy
+4411891000006117,Seizure disorder
+8043371000006110,Seizure disorder as sequela of stroke
+2721471000006114,Convulsive status epilepticus
+23819016,Grand mal status
+8000341000006117,Partial frontal lobe epilepsy
+2746121000006114,Benign focal epilepsy of childhood
+251644018,H/O: epilepsy
+4540141000006110,History of epilepsy
+264630011,Initial epilepsy assessment
+264634019,Epilepsy associated problems
+264637014,Epilepsy drug side effect
+12485141000006112,Epilepsy drug side effects
+4636071000006111,Epilepsy drug side effect
+264638016,Epilepsy treatment changed
+8053261000006111,Atypical absence epilepsy
+297060016,Myoclonic encephalopathy
+4769481000006114,Generalized non-convulsive epilepsy
+10791000006116,Other specified generalised nonconvulsive epilepsy
+2550890017,Generalised non-convulsive epilepsy
+4769501000006116,Generalised nonconvulsive epilepsy
+800721000006115,Generalised nonconvulsive epilepsy NOS
+4769491000006112,Generalized nonconvulsive epilepsy
+297266016,Epileptic seizures - atonic
+297267013,Epileptic seizures - akinetic
+4769541000006119,Benign myoclonic epilepsy in infancy
+297281010,Neonatal myoclonic epilepsy
+253231000006116,Otohara syndrome
+297282015,Epileptic seizures - clonic
+297284019,Epileptic seizures - tonic
+297295013,Partial epilepsy with impairment of consciousness
+297303012,Partial epilepsy with impairment of consciousness NOS
+4769611000006117,TLE - Temporal lobe epilepsy
+4769621000006113,Psychomotor seizure
+297296014,Temporal lobe epilepsy
+297300010,Psychosensory epilepsy
+4769641000006118,Mesiobasal limbic epilepsy
+743461000006119,Limbic system epilepsy
+297311019,Somatosensory epilepsy
+297312014,Partial epilepsy with autonomic symptoms
+297313016,Visceral reflex epilepsy
+297325018,Cursive (running) epilepsy
+4769771000006116,Cursive epilepsy
+4769781000006118,Running epilepsy
+4769801000006119,Localization-related(focal)(partial)idiopathic epilepsy and epileptic syndromes with seizures of localized onset
+736371000006112,Localization-related(focal)(partial)idiopathic epilepsy and epileptic syndromes with seizures of localised onset
+2811081000006110,Generalized epilepsy
+223811000000118,Generalised epilepsy
+8056521000006114,Epilepsy care education
+301541000000116,Simple partial epileptic seizure
+8007861000006111,Partial occipital lobe epilepsy
+307861000000113,Epilepsy monitoring call first letter
+307881000000116,Epilepsy monitoring call second letter
+307901000000118,Epilepsy monitoring call third letter
+8008951000006118,Partial parietal lobe epilepsy
+2534041000006111,Visceral epilepsy
+5004721000006111,Rasmussen encephalitis
+344986017,Rasmussen syndrome
+245361000006118,Partial epilepsy without impairment of consciousness OS
+245341000006117,Localisation-related epilepsy
+5007071000006118,Local epilepsy
+345225017,Focal epilepsy
+245351000006115,Partial epilepsy
+5007091000006117,Localization-related epilepsy
+5007101000006111,Benign frontal epilepsy of childhood
+5007111000006114,Benign psychomotor epilepsy of childhood
+5007121000006118,Benign atypical partial epilepsy in childhood
+5007161000006112,BCEOP - Benign childhood epilepsy with occipital paroxysms
+5007141000006113,Childhood epilepsy with occipital paroxysms
+5007151000006110,Benign occipital epilepsy of childhood
+5007171000006117,Benign occipital epilepsy of childhood - early onset variant
+632721000000111,Panayiotopoulos syndrome
+5007191000006116,Benign occipital epilepsy of childhood - late onset variant
+5007201000006118,Primary inherited reading epilepsy
+5007211000006115,Localisation-related symptomatic epilepsy
+5007221000006111,Localization-related symptomatic epilepsy
+5007231000006114,Amygdalo-hippocampal epilepsy
+5007241000006116,Rhinencephalic epilepsy
+5007251000006119,Lateral temporal epilepsy
+5007261000006117,Frontal lobe epilepsy
+5007271000006112,Supplementary motor epilepsy
+5007281000006110,Cingulate epilepsy
+5007291000006113,Anterior frontopolar epilepsy
+5007301000006114,Orbitofrontal epilepsy
+5007311000006112,Dorsolateral epilepsy
+5007321000006116,Opercular epilepsy
+5007331000006118,Non-progressive Kozhevnikow syndrome
+5007351000006113,Parietal lobe epilepsy
+5007361000006110,Occipital lobe epilepsy
+5007381000006117,Progressive variant Kozhevnikow syndrome
+5007371000006115,Chronic progressive epilepsia partialis continua of childhood
+5007391000006119,Localisation-related symptomatic epilepsy with specific precipitant
+5007401000006117,Localization-related symptomatic epilepsy with specific precipitant
+5007421000006110,Hemiconvulsion-hemiplegia-epilepsy syndrome
+5007431000006113,H-H-E syndrome
+5007411000006119,Hemiplegia-hemiconvulsion-epilepsy syndrome
+5007441000006115,Localisation-related cryptogenic epilepsy
+5007451000006118,Localization-related cryptogenic epilepsy
+5007481000006114,Benign neonatal epilepsy
+5007501000006116,Benign familial infantile convulsions
+5007471000006111,Benign neonatal familial convulsions
+5007491000006112,BFNC - Benign familial neonatal convulsions
+5007511000006118,Benign non-familial neonatal convulsions
+5007521000006114,Myoclonic epilepsy of early childhood
+345275015,Juvenile absence epilepsy
+5007541000006119,Epilepsy with grand mal seizures on awakening
+5007551000006117,Cryptogenic generalised epilepsy
+5007561000006115,Cryptogenic generalized epilepsy
+5007571000006110,Cryptogenic West syndrome
+5007581000006113,Symptomatic West syndrome
+345281011,Lennox-Gastaut syndrome
+5007601000006115,Cryptogenic Lennox-Gastaut syndrome
+5007611000006117,Symptomatic Lennox-Gastaut syndrome
+5007631000006111,Epilepsy with myoclonic and astatic seizures
+5007651000006116,Doose syndrome
+5007641000006118,Myoclonic atonic seizure
+5007621000006113,Myoclonic astatic epilepsy
+5007661000006119,Myoclonic absence epilepsy
+5007671000006114,Epilepsy with myoclonic absences
+223781000000116,Unverricht - Lundborg disease
+5007701000006110,Baltic myoclonus epilepsy
+72751000006116,Unverricht - Lundborg disease
+5007681000006112,Unverricht-Lundborg syndrome
+5007691000006110,Unverricht-Lundborg disease
+5007721000006117,Lafora body disease
+345293019,Lafora disease
+5007751000006114,MERRF - Myoclonic epilepsy - ragged red fibers
+5007761000006111,Myoclonic epilepsy - ragged red fibers
+5007741000006112,MERRF - Myoclonic epilepsy - ragged red fibres
+5007731000006119,Myoclonic epilepsy - ragged red fibres
+5007771000006116,Cryptogenic myoclonic epilepsy
+5007781000006118,Idiopathic myoclonic epilepsy
+345302015,Ohtahara syndrome
+931711000006118,Early infantile epileptic encephalopathy with suppression bursts
+5007811000006116,Symptomatic myoclonic epilepsy
+5007881000006111,Epilepsy undetermined whether focal or generalized
+5007871000006113,Epilepsy undetermined whether focal or generalised
+345311015,Severe myoclonic epilepsy in infancy
+11778041000006119,Dravet Syndrome
+2193821000000118,Dravet syndrome
+5007931000006117,Acquired aphasia with epilepsy
+12221091000006111,Aphasia co-occurrent with epilepsy
+5007921000006115,Landau-Kleffner syndrome
+362161000006110,Acquired epileptic aphasia
+5007951000006112,Electrical status epilepticus of slow-wave sleep
+5007961000006114,ESSS - Epilepsy with continuous spike wave during slow-wave sleep
+5007941000006110,Epilepsy with continuous spike wave during slow-wave sleep
+5007971000006119,Secondary reading epilepsy
+345318014,Drug-induced epilepsy
+5007991000006118,Narcotic withdrawal epilepsy
+5008011000006114,Catamenial epilepsy
+345321011,Menstrual epilepsy
+5008041000006113,Sleep related epilepsy
+1173961000000112,Night seizure
+5008051000006110,Night seizure
+5008031000006115,Sleep-related epilepsy
+5008061000006112,Sleep seizure
+345323014,Nocturnal epilepsy
+5008081000006119,Photomyoclonus
+5008071000006117,Eyelid myoclonus with absences
+5008091000006116,Writing epilepsy
+5008101000006110,Eating epilepsy
+5008111000006113,Toothbrushing epilepsy
+5008121000006117,Decision-making epilepsy
+5008131000006119,Aquagenic epilepsy
+5008141000006112,Bathing epilepsy
+5008151000006114,Immersion-related epilepsy
+299345017,"[X]Status epilepticus, unspecified"
+125721000006111,"Status epilepticus, unspecified"
+23820010,Status epilepticus
+299337010,[X]Other status epilepticus
+5008201000006117,Non-convulsive status epilepticus with 3/s spike wave
+5008191000006115,Non-convulsive status epilepticus with three per second spike wave
+5008221000006110,Non-convulsive status epilepticus without 3/s spike wave
+5008211000006119,Non-convulsive status epilepticus without three per second spike wave
+5008231000006113,Non-convulsive simple partial status epilepticus
+5008251000006118,Psychomotor status
+345345010,Complex partial status epilepticus
+356099014,"Photomyoclonus, diabetes mellitus, deafness, nephropathy and cerebral dysfunction"
+356100018,Herrmann syndrome
+2502371000006116,Motor simple partial status
+2502351000006114,Epilepsia partialis continua
+297321010,Kojevnikov's epilepsy
+2502381000006118,Kojewnikov's epilepsy
+2502401000006118,Kojevnikov epilepsy
+2502391000006115,Focal status epilepticus
+5192381000006111,Epilepsy monitoring status
+406781000000119,Epilepsy monitoring telephone invite
+8079791000006114,Epilepsy monitoring telephone invitation
+399395015,Progressive myoclonic epilepsy
+5501231000006118,Jacksonian epilepsy
+5501221000006116,Motor cortex epilepsy
+5614171000006119,Localization-related idiopathic epilepsy
+5614161000006114,Localisation-related idiopathic epilepsy
+5632701000006113,Familial neonatal seizures
+11926151000006111,Infantile spasms
+46970012,Hypsarrhythmia
+46972016,Lightning spasms
+2950431000006110,Blitz-Nick-salaam attacks
+2950411000006116,West's syndrome
+2950421000006112,Krampfe salaam attacks
+2950441000006117,Salaam attack
+883061000006119,Infantile spasms -hysarrythmia
+297320011,Infantile spasms
+46968015,West syndrome
+2950391000006116,Salaam attacks
+46971011,Salaam attacks
+46969011,Infantile spasms
+8089571000006111,Status epilepticus due to complex partial epileptic seizure
+8089591000006112,Status epilepticus due to intractable complex partial seizures
+8089581000006114,Status epilepticus due to refractory complex partial seizures
+8089601000006116,Status epilepticus due to generalised idiopathic epilepsy
+8089611000006118,Status epilepticus due to generalized idiopathic epilepsy
+8089641000006119,Status epilepticus due to intractable idiopathic generalized epilepsy
+8089661000006115,Status epilepticus due to refractory idiopathic generalised epilepsy
+8089651000006117,Status epilepticus due to refractory idiopathic generalized epilepsy
+8089631000006112,Status epilepticus due to intractable idiopathic generalised epilepsy
+8089671000006110,Status epilepticus due to refractory epilepsy
+8089681000006113,Status epilepticus due to intractable epilepsy
+3510617017,Intractable idiopathic partial epilepsy
+8089691000006111,Status epilepticus due to refractory simple partial epilepsy
+8089701000006111,Status epilepticus due to intractable simple partial epilepsy
+8089721000006118,Infantile spasms co-occurrent with status epilepticus
+8089731000006115,Infantile spasms with status epilepticus
+8089751000006110,Refractory infantile spasms with status epilepticus
+8089741000006113,Refractory infantile spasms co-occurrent with status epilepticus
+8089791000006116,Status epilepticus in benign Rolandic epilepsy
+8089801000006115,Rolandic seizures with status epilepticus
+450602015,Motor epilepsy
+450603013,"Jacksonian, focal or motor epilepsy"
+6028631000006116,Epileptic convulsion
+6028641000006114,Epileptic fit
+6028621000006119,Epileptic attack
+453344019,Epileptic seizure
+459233015,Epilepsy control good
+459234014,Epilepsy control poor
+7976341000006110,Refractory generalised convulsive epilepsy
+7976351000006112,Refractory generalized convulsive epilepsy
+472411018,Grand mal epilepsy
+472410017,Tonic-clonic epilepsy
+103531000006110,Tonic-clonic epilepsy
+477355017,Psychomotor epilepsy
+478024019,Alcohol-induced epilepsy
+3093161000006113,Idiopathic generalized epilepsy
+3093181000006115,Primary generalized epilepsy
+3093171000006118,Primary generalised epilepsy
+3093151000006111,Idiopathic generalised epilepsy
+3101911000006116,Myoclonic seizures
+486701019,Myoclonic seizure
+3116601000006117,Benign neonatal convulsions
+3116611000006119,Benign neonatal seizures
+3130661000006113,Visual epilepsy
+3139271000006111,Chronic progressive epilepsia partialis continua
+1780225016,Trigger factor for seizure
+1780375016,Epilepsy care arrangement
+2159218018,1 to 12 seizures a year
+2159219014,2 to 4 seizures a month
+2159220015,1 to 7 seizures a week
+2159221016,Daily seizures
+2159222011,Many seizures a day
+2159223018,Emergency epilepsy treatment since last appointment
+2159227017,Epilepsy confirmed
+3157311000006117,Retropulsion absence
+3157301000006115,Retropulsion petit mal
+2474650018,Stress-induced epilepsy
+2533403014,No epilepsy drug side effects
+2548491016,Epilepsy monitoring verbal invite
+6908751000006116,Epilepsy monitoring call
+6991141000006114,"Epilepsy, not intractable"
+6991131000006116,"Epilepsy, not refractory"
+6994791000006118,Intractable localisation-related epilepsy
+6994781000006116,Intractable localization-related epilepsy
+6994761000006114,Refractory localisation-related epilepsy
+6994771000006119,Refractory localization-related epilepsy
+6997461000006110,Intractable epilepsia partialis continua
+6997451000006113,Refractory epilepsia partialis continua
+7037641000006112,Intractable occipital lobe epilepsy
+7037631000006119,Refractory occipital lobe epilepsy
+7040921000006113,Refractory frontal lobe epilepsy
+7040931000006111,Intractable frontal lobe epilepsy
+7042911000006116,Intractable parietal lobe epilepsy
+7042901000006119,Refractory parietal lobe epilepsy
+2692343011,Seen in epilepsy clinic
+3199231000006115,EEG abnormality with seizure
+3199241000006113,Electroencephalogram abnormality with seizure
+7204971000006115,Anoxic epileptic seizure
+7220531000006114,Epilepsy assessment
+7253521000006119,Refractory generalised nonconvulsive epilepsy
+7253531000006116,Refractory generalized nonconvulsive epilepsy
+7264951000006112,Epilepsy characterised by intractable complex partial seizures
+7264961000006114,Epilepsy characterized by intractable complex partial seizures
+7265381000006118,Nonconvulsive status epilepticus
+7302741000006112,Epileptic seizure witnessed by provider of history other than subject
+251269010,Witnessed epileptic seizure
+7306831000006111,Intractable epilepsy
+7306821000006113,Refractory epilepsy
+8017491000006115,Primary generalised absence epilepsy
+8017501000006111,Primary generalized absence epilepsy
+3305831000006114,Centrencephalic epilepsy
+495804010,Pykno-epilepsy
+3323871000006116,Petit-mal epilepsy
+3323891000006115,Childhood - juvenile - absence epilepsy
+3323881000006118,Pyknolepsy
+3323851000006114,Childhood absence epilepsy
+883041000006118,Petit mal epilepsy
+230321000006117,Petit mal (minor) epilepsy
+647301000006112,Epileptic absences
+8191681000006117,Petit-mal epilepsy
+1175991000000119,Contraceptive advice for patients with epilepsy
+1176031000000114,Pre-conception advice for patients with epilepsy
+1176071000000111,Pregnancy advice for patients with epilepsy
+1741271000006111,Contraceptive advice for patients with epilepsy not indicated
+1176241000000114,Pregnancy advice for patients with epilepsy not indicated
+1176301000000117,Contraceptive advice for patients with epilepsy declined
+1176341000000119,Pre-conception advice for patients with epilepsy declined
+3441171000006118,Epileptic aura
+2598881000006112,Impulsive petit mal of Janz
+2598901000006114,Myoclonic epilepsy of adolescence
+2598871000006114,JME - Juvenile myoclonic epilepsy
+11300012,Juvenile myoclonic epilepsy
+2598891000006110,Impulsive petit-mal epilepsy
+2598851000006116,Janz syndrome
+2598861000006119,Juvenile myoclonic epilepsy of Janz
+297289012,Other specified generalised convulsive epilepsy
+297290015,Generalised convulsive epilepsy NOS
+500033015,Generalised convulsive epilepsy
+3558781000006118,Generalized convulsive epilepsy
+3618461000006115,Vertiginous epilepsy
+3618451000006117,Epileptic vertigo
+7503361000006117,Autosomal dominant nocturnal frontal lobe epilepsy
+7503371000006112,ADNFLE - Autosomal dominant nocturnal frontal lobe epilepsy
+7512461000006116,Generalized non-convulsive absence epilepsy
+7512451000006118,Generalised non-convulsive absence epilepsy
+7512471000006111,Refractory juvenile myoclonic epilepsy
+7512481000006114,Intractable juvenile myoclonic epilepsy
+7512501000006116,Intractable myoclonic epilepsy
+7512491000006112,Refractory myoclonic epilepsy
+7512511000006118,Postoperative status epilepticus
+7512521000006114,Post infectious grand mal epilepsy
+7512581000006113,Post-cerebrovascular accident epilepsy
+7525771000006118,Generalised epilepsy with febrile seizures plus
+7525781000006115,Generalized epilepsy with febrile seizures plus
+7558051000006118,Progressive myoclonus epilepsy with ataxia
+7558061000006116,PRICKLE1-related progressive myoclonic epilepsy with ataxia
+7558071000006111,Progressive myoclonic epilepsy 1B
+12602012,Petit-mal status
+2612121000006112,Non-convulsive status epilepticus with impaired consciousness
+2612161000006118,Status pyknolepticus
+2612141000006117,Epilepsia minoris continua
+2612101000006119,Petit mal status
+2612171000006113,Spike wave stupor
+2612111000006116,Epileptic absence status
+2612131000006110,Prolonged epileptic twilight state
+7576981000006111,Spinal muscular atrophy with progressive myoclonic epilepsy
+7576991000006114,Jankovic-Rivera syndrome
+7577001000006118,Hereditary myoclonus with progressive distal muscular atrophy
+7577051000006119,Progressive epilepsy with mental retardation
+12359581000006111,Progressive epilepsy-intellectual disability syndrome Finnish type
+7577041000006116,Neuronal ceroid lipofuscinosis 8
+7577061000006117,Northern epilepsy
+7663091000006116,Intractable idiopathic generalized epilepsy
+7663081000006119,Refractory idiopathic generalized epilepsy
+7663071000006117,Intractable idiopathic generalised epilepsy
+7663061000006112,Refractory idiopathic generalised epilepsy
+8214791000006114,Epilepsy screening invitation
+138671000000116,Epilepsy screening administration
+7733761000006113,ICCA syndrome
+7733781000006115,Paroxysmal kinesigenic dyskinesia and infantile convulsion
+7733771000006118,Infantile convulsion and choreoathetosis syndrome
+7735041000006110,Generalized epilepsy and paroxysmal dyskinesia syndrome
+7735031000006117,Generalised epilepsy and paroxysmal dyskinesia syndrome
+138681000000119,Epilepsy screening first invitation
+7745101000006111,Jeavons syndrome
+7750911000006117,Female restricted epilepsy with intellectual disability syndrome
+139161000000110,Excepted from epilepsy quality indicators - informed dissent
+931251000006112,Excepted from epilepsy quality indicators - patient unsuitable
+7758101000006119,X-linked epilepsy with learning disability and behavior disorder syndrome
+7758091000006113,X-linked epilepsy with learning disability and behaviour disorder syndrome
+7758141000006117,BAFME - Benign adult familial myoclonic epilepsy
+7758151000006115,Autosomal dominant cortical myoclonus and epilepsy
+7758161000006118,Benign adult familial myoclonus epilepsy
+7758131000006110,Benign adult familial myoclonic epilepsy
+139021000000118,Exception reporting - epilepsy quality indicators
+3668341000006114,Secondary generalized epilepsy
+3668351000006111,Secondary generalised epilepsy
+3668321000006119,Symptomatic generalised epilepsy
+3668331000006116,Symptomatic generalized epilepsy
+7786671000006113,Sudden unexpected death in epilepsy
+2589101000000111,SUDEP - sudden unexpected death in epilepsy
+7804861000006110,"Atherosclerosis, deafness, diabetes, epilepsy, nephropathy syndrome"
+7804871000006115,Feigenbaum Bergeron Richardson syndrome
+7811811000006111,"DEND (developmental delay, epilepsy, neonatal diabetes) syndrome"
+7811801000006113,"Developmental delay, epilepsy, neonatal diabetes syndrome"
+7811791000006112,DEND syndrome
+7830761000006119,Coeliac disease with epilepsy and cerebral calcification syndrome
+7830771000006114,Celiac disease with epilepsy and cerebral calcification syndrome
+7840671000006115,Epileptic encephalopathy
+7846651000006111,"Severe intellectual disability, epilepsy, anal anomaly, distal phalangeal hypoplasia syndrome"
+7853981000006117,Infant epilepsy with migrant focal crisis
+7857701000006117,Epilepsy due to infectious disease of central nervous system
+7858061000006115,Pyridoxal 5-phosphate dependent epilepsy
+7858071000006110,Pyridoxal phosphate-responsive seizures
+7861281000006116,Epilepsy due to perinatal stroke
+7861291000006118,Epilepsy due to perinatal anoxic-ischaemic brain injury
+7861301000006117,Epilepsy due to perinatal anoxic-ischemic brain injury
+7861311000006119,Epilepsy due to perinatal hypoxic ischemic encephalopathy
+7861321000006110,Epilepsy due to perinatal hypoxic ischaemic encephalopathy
+7861341000006115,Epilepsy due to stroke
+7861331000006113,Epilepsy due to cerebrovascular accident
+7861361000006116,Epilepsy due to intracranial tumour
+7861381000006114,Epilepsy due to intracranial neoplasm
+7861371000006111,Epilepsy due to intracranial tumor
+7863611000006110,Epilepsy co-occurrent and due to degenerative brain disorder
+7863621000006119,Epilepsy with degenerative brain disorder
+7863641000006114,Epilepsy with mesial temporal sclerosis
+7863631000006116,Epilepsy co-occurrent and due to mesial temporal sclerosis
+7863651000006111,Epilepsy due to immune disorder
+7863661000006113,Epilepsy co-occurrent and due to demyelinating disorder
+7863671000006118,Epilepsy with demyelinating disorder
+7863701000006117,Epilepsy with dementia
+7863691000006117,Epileptic dementia
+7863681000006115,Epilepsy co-occurrent and due to dementia
+7866201000006117,"X-linked spasticity, intellectual disability, epilepsy syndrome"
+7868531000006112,Febrile infection related epilepsy syndrome
+7868561000006115,FIRES - fever-induced refractory epileptic encephalopathy in school-aged children
+7868541000006119,Acute encephalitis with refractory repetitive partial seizures
+7868551000006117,DESC (devastating epileptic encephalopathy in school-aged children) syndrome
+7881791000006114,Mitochondrial aspartate-glutamate carrier 1 deficiency
+7881781000006111,Epileptic encephalopathy with global cerebral demyelination
+7952751000006114,Battaglia Neri syndrome
+7952741000006112,"Epilepsy, microcephaly, skeletal dysplasia syndrome"
+7952761000006111,Epilepsy telangiectasia syndrome
+7953271000006117,Early-onset Lafora body disease
+7955181000006111,Epilepsy of infancy with migrating focal seizures
+7959671000006118,"Autism spectrum disorder, epilepsy, arthrogryposis syndrome"
+7959681000006115,SLC35A3-CDG - solute carrier family 35 member A3 congenital disorder of glycosylation
+3506708010,Pyridoxine-dependent epilepsy
+3506710012,Vitamin B6-dependent seizures
+3506709019,Antiquitin deficiency
+12003051000006116,Progressive myoclonus epilepsy with dystonia
+12003041000006118,Progressive myoclonic epilepsy with dystonia
+12006401000006116,Hot water reflex epilepsy
+12007981000006117,Thinking seizures
+12007971000006115,Thinking epilepsy
+12008101000006111,Startle epilepsy
+12010351000006112,Micturition induced epilepsy
+12010361000006114,Micturition induced seizure
+12010621000006112,Orgasm induced epilepsy
+12010631000006110,Orgasm induced seizure
+12016651000006117,Myoclonus nephropathy syndrome
+12016621000006114,Action myoclonus renal failure syndrome
+12016641000006119,Progressive myoclonic epilepsy type 4
+12016631000006112,AMRF - action myoclonus renal failure
+12017651000006119,Familial focal epilepsy with variable foci
+12017661000006117,FFEVF - familial focal epilepsy with variable foci
+12017671000006112,Familial partial epilepsy with variable foci
+12026171000006114,"Rolandic epilepsy, speech dyspraxia syndrome"
+12027471000006118,SCN8A (sodium voltage-gated channel alpha subunit 8) related epilepsy with encephalopathy
+12027491000006117,Sodium voltage-gated channel alpha subunit 8-related epilepsy with encephalopathy
+12027451000006111,SCN8A-related epilepsy with encephalopathy
+12027461000006113,SCN8A encephalopathy
+12027481000006115,Early infantile epileptic encephalopathy 13
+12028411000006111,Audiogenic seizures
+12028401000006113,Audiogenic epilepsy
+12039121000006116,Acute encephalopathy with biphasic seizures and late reduced diffusion
+12039131000006118,Acute infantile encephalopathy predominantly affecting frontal lobe
+12048461000006111,Perioral myoclonia with absences
+12048471000006116,POMA - perioral myoclonia with absences
+12053881000006113,Recurrent benign focal seizures of childhood
+12073661000006118,PURA-related neurodevelopmental disorder
+12073641000006117,PURA syndrome
+12073671000006113,PURA (purine rich element binding protein A) syndrome
+12073681000006111,"PURA-related severe neonatal hypotonia, seizure, encephalopathy syndrome"
+12073651000006115,Purine rich element binding protein A syndrome
+12075181000006117,"Severe neonatal hypotonia, seizures, encephalopathy syndrome due to 5q31.3 microdeletion"
+12075171000006115,5q31.3 microdeletion syndrome
+12076991000006114,STXBP1 encephalopathy with epilepsy
+12077031000006114,Early infantile epileptic encephalopathy 4
+12077021000006111,Syntaxin binding protein 1 encephalopathy with epilepsy
+12077011000006115,STXBP1 (syntaxin binding protein 1) epileptic encephalopathy
+12077041000006116,STXBP1-related epileptic encephalopathy
+12077001000006118,STXBP1-related early-onset encephalopathy
+3796891000006117,Reflex epilepsy
+3796901000006118,Sensory-induced epilepsy
+3796911000006115,Epilepsy associated with specific stimuli
+148591000006114,Sensory induced epilepsy
+8259581000006110,Referral for epilepsy review
+2112801000000117,Referral to epilepsy clinic
+1855761000006113,Epilepsy monitoring in secondary care
+8260981000006117,Under care of epilepsy specialist nurse
+8024701000006119,Epileptic dementia with behavioral disturbance
+8024691000006119,Epileptic dementia with behavioural disturbance
+7989351000006110,Atonic epilepsy
+8279421000006114,Provision of written information about epilepsy
+8024961000006115,Complex partial seizure of parietal lobe
+8024971000006110,Partial epileptic seizure of parietal lobe with impairment of consciousness
+8024981000006113,Complex partial seizure of frontal lobe
+8025001000006116,Partial epileptic seizure of frontal lobe with impairment of consciousness
+8024991000006111,Complex partial epileptic seizure of frontal lobe
+8025021000006114,Complex partial epileptic seizure of occipital lobe
+8025031000006112,Partial epileptic seizure of occipital lobe with impairment of consciousness
+8025011000006118,Complex partial seizure of occipital lobe
+8025071000006110,Intractable partial temporal lobe epilepsy with impairment of consciousness
+8025101000006117,Intractable partial parietal lobe epilepsy with impairment of consciousness
+8025091000006111,Intractable complex partial parietal lobe epilepsy
+8025111000006119,Intractable partial frontal lobe epilepsy with impairment of consciousness
+8025121000006110,Intractable partial occipital lobe epilepsy with impairment of consciousness
+178739011,Epilepsy
+3878481000006113,Epileptic disorder
+399408014,Epilepsy NOS
+297330019,Other forms of epilepsy NOS
+299334015,[X]Other generalized epilepsy and epileptic syndromes
+3878501000006115,EP - Epilepsy
+297324019,Other forms of epilepsy
+3878491000006111,Epileptic
+299336018,[X]Other epilepsy
+8289731000006113,Epilepsy annual review
+8289831000006117,Epilepsy care management
+8289851000006112,Self management of epilepsy
+137801000000112,Epilepsy limits activities
+8312341000006115,Meets criteria for referral to paediatric neurology epilepsy specialist
+8312361000006116,Meets criteria for referral to CESS (Children's Epilepsy Surgery Service)
+8312351000006118,Meets criteria for referral to Children's Epilepsy Surgery Service
+141981000000118,Epilepsy restricts employment
+141991000000116,Epilepsy prevents employment
+142041000000115,Epilepsy does not limit activities
+8029441000006110,DNA (did not attend) epilepsy clinic
+166001000000113,Did not attend epilepsy clinic
+4052941000006113,Photic epilepsy
+4052921000006118,Photogenic epilepsy
+4052971000006117,Pure photosensitive epilepsy
+4052931000006115,Television epilepsy
+512000013,Photosensitive epilepsy
+4052951000006110,Epilepsy only in relation to photic stimulation
+2444841000000117,Paediatric epilepsy care plan
+2466801000000118,At risk of sudden unexpected death in epilepsy
+7967261000006112,Single epileptic seizure
+264629018,Epilepsy monitoring
+264639012,Epilepsy treatment started
+264640014,Epilepsy treatment stopped
+264645016,Epilepsy monitoring NOS
+297283013,Epileptic seizures - myoclonic
+297314010,Visual reflex epilepsy
+297315011,Unilateral epilepsy
+894621000006115,Perinatal convulsion
+1235241011,Seizures in newborn
+1235242016,Fits in newborn
+594701000006119,Convulsions in the newborn
+897431000006113,Post traumatic epilepsy
+2478828012,Traumatic epilepsy
+264635018,Fit frequency
+1780267013,Epilepsy medication review
+1176381000000110,Pregnancy advice for patients with epilepsy declined
+1741281000006114,Pre-conception advice for patients with epilepsy not indicated
+425631000006118,[X]Schizophrenia-like psychosis in epilepsy
+418191000006113,[X]Paranoid organic state
+403961000006113,Organic delusional disorder
+387771000006115,[X]Frontal lobe syndrome
+404031000006118,[X]Organic pseudopsychopathic personality
+395281000006115,[X]Lobotomy syndrome
+395221000006119,[X]Limbic epilepsy personality
+404021000006116,Organic personality disorder
+423121000006110,[X]Postleucotomy syndrome
+199568011,Grand mal seizure
+297302019,Epileptic automatism
+2159274014,Complex partial epileptic seizure
+932141000006111,Partial complex seizure
+485041012,Post-ictal state
+368296019,Generalised seizure
+148427014,Gelastic epilepsy
+73622018,Benign Rolandic epilepsy

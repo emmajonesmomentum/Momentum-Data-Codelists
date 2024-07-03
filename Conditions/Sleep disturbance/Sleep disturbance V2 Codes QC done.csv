@@ -1,0 +1,67 @@
+V2Codes,Description
+R005.,[D]Sleep disturbances
+R0050,"[D]Sleep disturbance, unspecified"
+R0051,[D]Insomnia with sleep apnoea
+R0052,[D]Insomnia NOS
+R0053,[D]Hypersomnia with sleep apnoea
+R0054,[D]Hypersomnia NOS
+R0055,[D]Sleep rhythm inversion
+R0056,[D]Sleep rhythm irregular
+R0057,[D]Sleep-wake rhythm non-24-hour cycle
+R0058,[D]Sleep dysfunction with sleep stage disturbance
+R0059,[D]Sleep dysfunction with arousal disturbance
+R005z,[D]Sleep dysfunction NOS
+Fy0..,Sleep disorders
+Fy00.,Disorders of initiating and maintaining sleep
+Fy01.,Disorders of excessive somnolence
+Fy02.,Disorders of the sleep-wake schedule
+Fy03.,Sleep apnoea
+Fy04.,Sleep-related respiratory failure
+Fy05.,Nocturnal sleep-related eating disorder
+Fy06.,Kleine-Levin syndrome
+E274.,Non-organic sleep disorders
+E2740,Unspecified non-organic sleep disorder
+E2741,Transient insomnia
+E2742,Persistent insomnia
+E2743,Transient hypersomnia
+E2744,Persistent hypersomnia
+E2745,Jet lag syndrome
+E2746,Shifting sleep-work schedule
+E2747,Somnambulism - sleep walking
+E2748,Night terrors
+E2749,Nightmares
+E274A,Sleep drunkenness
+E274B,Repeated rapid eye movement sleep interruptions
+E274C,Other sleep stage or arousal dysfunction
+E274D,Repetitive intrusions of sleep
+E274E,Short-sleeper
+E274F,Inversion of sleep rhythm
+E274y,Other non-organic sleep disorder
+E274z,Non-organic sleep disorder NOS
+Eu51.,[X]Nonorganic sleep disorders
+Eu510,[X]Nonorganic insomnia
+Eu511,[X]Nonorganic hypersomnia
+Eu512,[X]Nonorganic disorder of the sleep-wake schedule
+Eu513,[X]Sleepwalking
+Eu514,[X]Sleep terrors
+Eu515,[X]Nightmares
+Eu51y,[X]Other nonorganic sleep disorders
+Eu51z,"[X]Nonorganic sleep disorder, unspecified"
+9Ngt.,On melatonin for sleep disorder
+663N.,Asthma disturbing sleep
+663N0,Asthma causing night waking
+663N1,Asthma disturbs sleep weekly
+663N2,Asthma disturbs sleep frequently
+66Yg.,Chronic obstructive pulmonary disease disturbs sleep
+1B1Q.,Poor sleep pattern
+1BX0.,Delayed onset of sleep
+1B1X.,Excessive sleep
+1BX3.,Early morning waking
+1BX9.,Light sleep
+9Nk0.,Seen in sleep clinic
+8HTn.,Referral to sleep clinic
+K5A21,Menopausal sleeplessness
+Q318.,Primary sleep apnoea of newborn
+8G9B.,Sleep hygeine behaviour education
+1B1B.,C/O - insomnia
+38D1.,Insomnia severity index

@@ -1,0 +1,66 @@
+CTV3Codes,Description
+X606N,Knee replacement
+XaBFJ,Prosthetic arthroplasty of knee
+X606O,Prosthetic total arthroplasty of the knee
+XaPtO,Hybrid prosthetic replacement of knee joint using cement
+XaPtT,Conversion from previous hybrid prosthetic replacement of knee joint using cement
+XaPtS,Attention to hybrid prosthetic replacement of knee joint using cement
+XaPtR,Revision of hybrid prosthetic replacement of knee joint using cement
+XaPtQ,Conversion to hybrid prosthetic replacement of knee joint using cement
+XaPtP,Primary hybrid prosthetic replacement of knee joint using cement
+XaPtU,Other specified hybrid prosthetic replacement of knee joint using cement
+XaPtV,Hybrid prosthetic replacement of knee joint using cement NOS
+XE08w,Total prosthetic replacement of knee joint using cement
+7K300,Primary cemented total knee replacement
+7K301,Conversion to cemented total knee replacement
+7K302,Revision cemented total knee replacement
+7K30y,Other specified total prosthetic replacement of knee joint using cement
+7K30z,Total prosthetic replacement of knee joint using cement NOS
+XE08y,Total prosthetic replacement of knee joint not using cement
+7K310,Primary uncemented total knee replacement
+7K311,Conversion to uncemented total knee replacement
+7K312,Revision uncemented total knee replacement
+7K31y,Other specified total prosthetic replacement of knee joint not using cement
+7K31z,Total prosthetic replacement of knee joint not using cement NOS
+XE090,Other total prosthetic replacement of knee joint
+7K32y,Other specified other total prosthetic replacement of knee joint
+7K32z,Other total prosthetic replacement of knee joint NOS
+XE091,Primary hybrid total knee replacement NEC
+XE092,Conversion to hybrid total knee replacement NEC
+X606P,Prosthetic unicompartmental arthroplasty of the knee
+X606Q,Prosthetic medial unicompartmental arthroplasty of the knee
+X606R,Prosthetic lateral unicompartment arthroplasty of the knee
+7K37.,Cemented unicompartmental knee replacement
+7K370,Primary cemented unicompartmental knee replacement
+7K371,Conversion to cemented unicompartmental knee replacement
+7K372,Revision cemented unicompartmental knee replacement
+7K39.,Hybrid unicompartmental knee replacement
+7K390,Primary hybrid unicompartmental knee replacement
+7K391,Conversion to hybrid unicompartmental knee replacement
+7K392,Revision hybrid unicompartmental knee replacement
+7K38.,Uncemented unicompartmental knee replacement
+7K380,Primary uncemented unicompartmental knee replacement
+7K381,Conversion to uncemented unicompartmental knee replacement
+7K382,Revision uncemented unicompartmental knee replacement
+XaOPm,Unicompartmental knee replacement NOS
+XaBFK,Arthroplasty of knee using cement
+XaBFM,Arthroplasty of knee without cement
+Xa1Qa,Revision of knee arthroplasty
+XaM98,Revision of one component of total prosthetic replacement of knee joint not using cement
+XaM94,Revision of one component of total prosthetic replacement of knee joint using cement
+7K37x,Conversion from cemented unicompartmental knee replacement
+7K38x,Conversion from uncemented unicompartmental knee replacement
+7K39x,Conversion from hybrid unicompartmental knee replacement
+XE08x,Conversion from cemented total knee replacement
+XE08z,Conversion from uncemented total knee replacement
+XE093,Revision of hybrid total knee replacement NEC
+XE094,Attention to total knee replacement NEC
+XaBtF,Attention to hybrid total knee replacement NEC
+XE095,Conversion from hybrid total knee replacement NEC
+XaM99,Revision of one component of total prosthetic replacement of knee joint NEC
+XaXN6,H/O knee replacement
+Xa1lB,Loosening of total knee replacement
+Xa1lC,Loosening of femoral component of total knee replacement
+Xa1lD,Loosening of tibial component of total knee replacement
+Xa1lA,Loosening of unicondylar knee replacement
+XaPtA,Arthrolysis of total prosthetic replacement of knee joint

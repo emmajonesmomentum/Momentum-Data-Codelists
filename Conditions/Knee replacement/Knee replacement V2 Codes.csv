@@ -1,0 +1,44 @@
+V2Codes,Description
+14N32,H/O knee replacement
+7K31.,Total prosthetic replacement of knee joint not using cement
+7K310,Primary uncemented total knee replacement
+7K311,Conversion to uncemented total knee replacement
+7K312,Revision uncemented total knee replacement
+7K313,Revision of one component of total prosthetic replacement of knee joint not using cement
+7K31x,Conversion from uncemented total knee replacement
+7K31y,Other specified total prosthetic replacement of knee joint not using cement
+7K31z,Total prosthetic replacement of knee joint not using cement NOS
+7K30.,Total prosthetic replacement of knee joint using cement
+7K301,Conversion to cemented total knee replacement
+7K302,Revision cemented total knee replacement
+7K303,Revision of one component of total prosthetic replacement of knee joint using cement
+7K30x,Conversion from cemented total knee replacement
+7K30y,Other specified total prosthetic replacement of knee joint using cement
+7K30z,Total prosthetic replacement of knee joint using cement NOS
+7K32.,Other total prosthetic replacement of knee joint
+7K320,Primary total knee replacement NEC
+7K321,Conversion to total knee replacement NEC
+7K322,Revision of total knee replacement NEC
+7K323,Revision of one component of total prosthetic replacement of knee joint NEC
+7K324,Attention to total knee replacement NEC
+7K325,Arthrolysis of total prosthetic replacement of knee joint
+7K326,Prosthetic arthroplasty of the patellofemoral joint
+7K32x,Conversion from total knee replacement NEC
+7K32y,Other specified other total prosthetic replacement of knee joint
+7K32z,Other total prosthetic replacement of knee joint NOS
+7K37.,Cemented unicompartmental knee replacement
+7K370,Primary cemented unicompartmental knee replacement
+7K371,Conversion to cemented unicompartmental knee replacement
+7K372,Revision cemented unicompartmental knee replacement
+7K37x,Conversion from cemented unicompartmental knee replacement
+7K38.,Uncemented unicompartmental knee replacement
+7K380,Primary uncemented unicompartmental knee replacement
+7K381,Conversion to uncemented unicompartmental knee replacement
+7K382,Revision uncemented unicompartmental knee replacement
+7K38x,Conversion from uncemented unicompartmental knee replacement
+7K39.,Hybrid unicompartmental knee replacement
+7K390,Primary hybrid unicompartmental knee replacement
+7K391,Conversion to hybrid unicompartmental knee replacement
+7K392,Revision hybrid unicompartmental knee replacement
+7K39x,Conversion from hybrid unicompartmental knee replacement
+7K3A.,Unicompartmental knee replacement NOS

@@ -1,0 +1,184 @@
+V2Codes,Description
+F25..,Epilepsy
+F250.,Generalised nonconvulsive epilepsy
+F2500,Petit mal (minor) epilepsy
+F2501,Pykno-epilepsy
+F2502,Epileptic seizures - atonic
+F2503,Epileptic seizures - akinetic
+F2504,Juvenile absence epilepsy
+F2505,Lennox-Gastaut syndrome
+F250y,Other specified generalised nonconvulsive epilepsy
+F250z,Generalised nonconvulsive epilepsy NOS
+F251.,Generalised convulsive epilepsy
+F2512,Epileptic seizures - clonic
+F2513,Epileptic seizures - myoclonic
+F2514,Epileptic seizures - tonic
+F2515,Tonic-clonic epilepsy
+F2516,Grand mal seizure
+F251y,Other specified generalised convulsive epilepsy
+F251z,Generalised convulsive epilepsy NOS
+F253.,Grand mal status
+F254.,Partial epilepsy with impairment of consciousness
+F2540,Temporal lobe epilepsy
+F2541,Psychomotor epilepsy
+F2542,Psychosensory epilepsy
+F2544,Epileptic automatism
+F2545,Complex partial epileptic seizure
+F254z,Partial epilepsy with impairment of consciousness NOS
+F255.,Partial epilepsy without mention of impairment of consciousness
+F2550,"Jacksonian, focal or motor epilepsy"
+F2552,Somatosensory epilepsy
+F2553,Visceral reflex epilepsy
+F2554,Visual reflex epilepsy
+F2555,Unilateral epilepsy
+F2556,Simple partial epileptic seizure
+F255y,Other specified partial epilepsy without mention of impairment of consciousness
+F255z,Partial epilepsy without mention of impairment of consciousness NOS
+F2560,Hypsarrhythmia
+F2561,Salaam attacks
+F256z,Infantile spasms NOS
+F257.,Kojevnikov's epilepsy
+F258.,Post-ictal state
+F259.,Early infantile epileptic encephalopathy with suppression bursts
+F25A.,Juvenile myoclonic epilepsy
+F25B.,Alcohol-induced epilepsy
+F25C.,Drug-induced epilepsy
+F25D.,Menstrual epilepsy
+F25E.,Stress-induced epilepsy
+F25F.,Photosensitive epilepsy
+F25G.,Severe myoclonic epilepsy in infancy
+F25H.,Generalised seizure
+F25X.,"Status epilepticus, unspecified"
+F25y.,Other forms of epilepsy
+F25y0,Cursive (running) epilepsy
+F25y1,Gelastic epilepsy
+F25y2,Localization-related(focal)(partial)idiopathic epilepsy and epileptic syndromes with seizures of localised onset
+F25y3,Complex partial status epilepticus
+F25y4,Benign Rolandic epilepsy
+F25y5,Panayiotopoulos syndrome
+F25yz,Other forms of epilepsy NOS
+F25z.,Epilepsy NOS
+1O30.,Epilepsy confirmed
+SC200,Traumatic epilepsy
+667K.,Epilepsy limits activities
+8BIF.,Epilepsy medication review
+F1321,Progressive myoclonic epilepsy
+Eu060,[X]Limbic epilepsy personality
+667L.,Epilepsy does not limit activities
+67AF.,Pregnancy advice for patients with epilepsy
+Eu052,[X]Schizophrenia-like psychosis in epilepsy
+6110.,Contraceptive advice for patients with epilepsy
+67IJ0,Pre-conception advice for patients with epilepsy
+667W.,Emergency epilepsy treatment since last appointment
+8IAi.,Pregnancy advice for patients with epilepsy declined
+Eu803,[X]Acquired aphasia with epilepsy [Landau - Kleffner]
+8IAg.,Contraceptive advice for patients with epilepsy declined
+8IAh.,Pre-conception advice for patients with epilepsy declined
+8IB4.,Pregnancy advice for patients with epilepsy not indicated
+8IB2.,Contraceptive advice for patients with epilepsy not indicated
+8IB3.,Pre-conception advice for patients with epilepsy not indicated
+X005m,Localisation related epilepsy
+Xa0IJ,Localisation related idiopathic epilepsy
+X005p,Benign frontal epilepsy of childhood
+X005q,Benign psychomotor epilepsy of childhood
+X005r,Benign atypical partial epilepsy of childhood
+X005s,Epilepsy with recurrent unilateral seizures in children
+X005t,Childhood epilepsy with occipital paroxsyms
+X005u,Benign occipital epilepsy of childhood - early onset variant
+X005v,Benign occipital epilepsy of childhood - late onset variant
+X005w,Primary inherited reading epilepsy
+X005x,Localisation related symptomtic epilepsy
+X0060,Lateral Temporal Epilepsy
+X0061,Frontal lobe epilepsy
+X0062,Supplementary motor epilepsy
+X0064,Anterior frontopolar epilepsy
+X0065,Orbitofrontal epilepsy
+X0066,Dorsolateral epilepsy
+X0067,Opercular epilepsy
+XE15Z,Motor cortex epilepsy
+X0068,Non-progressive Kozhenikow syndrome
+X0069,Parietal lobe epilepsy
+X006A,Occipital lobe epilepsy
+F2543,Mesiobasal limbic epilepsy
+X005z,Rhinoencephalic epilepsy
+X0063,Cingulate epilepsy
+X005y,Amygdalo-hippocampal epilepsy
+X001S,Rasmussen syndrome
+X006C,Chr progressive epilespia partialis continua of childhood
+X006D,Localisation related symptomatic epilepsy with spec precipitant
+X006E,Hemiplegia hemiconvulsion epilepsy syndrome
+X006F,Localisation related cryptogenic epilepsy
+XaB4E,Motor epilepsy
+F2510,Generalised epilepsy
+X006G,Primary generalised epilepsy
+XaRGS,Childhood absence epilepsy
+X006H,Benign neonatal familial convulsions
+F2511,Benign myoclonic epilepsy in infancy
+X006J,Myoclonic epilepsy of early childhood
+X006M,Epilepsy with grand-mal seizures on awakening
+X006N,Cryptogenic generalised epilepsy
+F256.,West syndrome
+X006O,Cryptogenic west syndrome
+X006P,Symptomatic west syndrome
+X006T,Myoclonic astatic epilepsy
+X006Y,Myoclonic epilepsy - red ragged fibres
+X006Z,Cryptogenic myoclonic epilepsy
+X006a,Idiopathic myoclonic epilepsy
+X006c,Symptomatic generalised epilepsy
+X006d,Early myoclonic encephalopathy
+X006e,Early infant epileptic encephalopathy with suppression bursts
+X006f,Symptomatic myoclonic epilepsy
+F1322,Myoclonic encephalopathy
+X006I,Epilepsy undetermined whether focal or generalised
+X006p,Epilepsy with continuous spike wave during slow wave sleep
+X006q,Reading epilepsy
+X006s,Secondary reading epilepsy
+F2551,Epilepsy associated with specific stimuli
+X0073,Musicogenic epilepsy
+X0074,Tactile epilepsy
+X0075,Eating epilepsy
+X0076,Tapping epilepsy
+X0077,Toothbrushing epilepsy
+X0078,Decision-making epilepsy
+X0079,Aquagenic epilepsy
+X007A,Self induced non photosensitivie epilepsy
+X007B,Status epilepticus
+XE15Y,Convulsive status epilepticus
+F252.,Non-convulsive status epilepticus with impaired consciousness
+X007C,Non-convulsive status epilepticus with 3/sec spike wave
+X007D,Non-convulsive status epilepticus without 3/sec spike wave
+X007E,Non-convulsive simple partial status epilepticus
+X007F,Motor simple partial status
+Fyu52,[X] Other status epilepticus
+Fyu59,[X]Status epilepticus unspecified
+Fyu51,[X]Other epilepsy
+XaC34,Fit (in known epileptic) NOS
+XaElj,Epileptic seizure
+1473.,H/O: Epilepsy
+d04..,Lorazepam (epilepsy)
+XaFji,Epilepsy control poor
+X006x,Sleep related epilepsy
+667Z.,Epilepsy monitoring NOS
+XaJOo,Epilepsy screen invite 3
+XaMFq,Epilepsy monitoring telephone invite
+XaLMo,Epilepsy monitoring call first letter
+XaLMp,Epilepsy monitoring call second letter
+XaLMq,Epilepsy monitoring call third letter
+XaKby,Epilepsy monitoring verbal invite
+XaJ0m,Epilepsy screen invite 1
+XaJ0n,Epilepsy screen invite 2
+Xalu1,Epilepsy care arrangement
+6678.,Epilepsy treatment changed
+6679.,Epilepsy treatment started
+667A.,Epilepsy treated stopped
+X74WP,Epilepsy monitoring status
+6674.,Epilepsy associated problems
+6675.,Fit frequency
+XaJjh.,Epilepsy control good
+XaJth,No epilepsy drug side effects
+XaJB6,Epilepsy impairs education
+XaYXv,Epilepsy monitoring in secondary care
+XaJ4S,Exception reporting: epilepsy quality indicators
+XaJ4o,Excepted from epilepsy quality indicators: informed dissent
+XaJ4n,Excepted from epilepsy quality indicators: patient unsuitable
+XaeCq,Neurological disorders depression inventory in epilepsy

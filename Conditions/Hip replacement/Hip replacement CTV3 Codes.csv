@@ -1,0 +1,104 @@
+CTV3Codes,Description
+XaBFE,Hip replacement
+X606J,Prosthetic total arthroplasty of the hip
+XE08j,Total prosthetic replacement of hip joint using cement
+XE08k,Primary cemented total hip replacement
+7K201,Conversion to cemented total hip replacement
+7K202,Revision cemented total hip replacement
+7K20y,Other specified total prosthetic replacement of hip joint using cement
+7K20z,Total prosthetic replacement of hip joint using cement NOS
+XE08m,Total prosthetic replacement of hip joint not using cement
+7K210,Primary uncemented total hip replacement
+7K211,Conversion to uncemented total hip replacement
+7K212,Revision uncemented total hip replacement
+7K21y,Other specified total prosthetic replacement of hip joint not using cement
+7K21z,Total prosthetic replacement of hip joint not using cement NOS
+XaF7l,Prosthetic hybrid total replacement of hip joint
+XaMBd,Hybrid prosthetic replacement of hip joint using cemented acetabular component
+XaMBe,Primary hybrid prosthetic replacement of hip joint using cemented acetabular component
+XaMBi,Other specified hybrid prosthetic replacement of hip joint using cemented acetabular component
+XaMBj,Hybrid prosthetic replacement of hip joint using cemented acetabular component NOS
+XaMBn,Hybrid prosthetic replacement of hip joint using cemented femoral component
+XaMBo,Primary hybrid prosthetic replacement of hip joint using cemented femoral component
+XaMBs,Other specified hybrid prosthetic replacement of hip joint using cemented femoral component
+XaMBu,Hybrid prosthetic replacement of hip joint using cemented femoral component NOS
+XaF7j,Primary hybrid total replacement of hip joint
+XaF7k,Primary hybrid total replacement of hip joint NEC
+XE08p,Conversion to hybrid total hip replacement NEC
+XaMC6,Conversion to hybrid prosthetic replacement of hip joint using cement NEC
+XaF7n,Revision of hybrid total hip replacement NEC
+XaMC4,Hybrid prosthetic replacement of hip joint using cement
+XaMC5,Primary hybrid prosthetic replacement of hip joint using cement NEC
+XaMCA,Other specified hybrid prosthetic replacement of hip joint using cement
+XaMCB,Hybrid prosthetic replacement of hip joint using cement NOS
+XE08o,Other total prosthetic replacement of hip joint
+7K22y,Other specified total prosthetic replacement of hip joint
+7K22z,Total prosthetic replacement of hip joint NOS
+XE2n7,Primary total prosthetic replacement of hip joint NEC
+X606K,Prosthetic hemiarthroplasty of the hip
+XE08r,Prosthetic cemented hemiarthroplasty of hip
+7K230,Primary cemented hemiarthroplasty of hip
+7K231,Conversion to cemented hemiarthroplasty of hip
+7K232,Revision cemented hemiarthroplasty of hip
+XaBrw,Thompson hemiarthroplasty of hip joint using cement
+7K23y,Other specified prosthetic cemented hemiarthroplasty of hip
+7K23z,Prosthetic cemented hemiarthroplasty of hip NOS
+XS2Dh,Prosthetic uncemented hemiarthroplasty of hip
+7K240,Primary uncemented hemiarthroplasty of hip
+7K241,Conversion to uncemented hemiarthroplasty of hip
+7K242,Revision uncemented hemiarthroplasty of hip
+7K24y,Other specified prosthetic uncemented hemiarthroplasty of hip
+7K24z,Prosthetic uncemented hemiarthroplasty of hip NOS
+XE08u,Other prosthetic hemiarthroplasty of hip
+7K250,Primary prosthetic hemiarthroplasty of hip NEC
+7K251,Conversion to prosthetic hemiarthroplasty of hip NEC
+7K25y,Other specified other prosthetic hemiarthroplasty of hip
+7K25z,Other prosthetic hemiarthroplasty of hip NOS
+XM1Hp,Hemiarthroplasty of head of femur NEC
+XaBFG,Arthroplasty of hip joint using cement
+XaBFH,Arthroplasty of hip without cement
+XaXN4,H/O hip replacement
+Xa1l6,Loosening of total hip replacement
+Xa1l7,Loosening of acetabular cup of total hip replacement
+Xa1l8,Loosening of femoral stem of total hip replacement
+7K223,Attention to total hip replacement NEC
+XaZqP,Metal-on-metal hip replacement annual review
+XE08l,Conversion from cemented total hip replacement
+XaC3C,Removal of previous uncemented total prosthetic replacement of hip joint
+XaMC9,Conversion from previous hybrid prosthetic replacement of hip joint using cement NEC
+XaM8i,Revision of one component of total prosthetic replacement of hip joint not using cement
+XE08q,Conversion from hybrid total prosthetic hip replacement NEC
+XaM8j,Revision of one component of total prosthetic replacement of hip joint NEC
+XaEGF,Conversion to total prosthetic replacement of hip joint NEC
+XaMC7,Revision of hybrid prosthetic replacement of hip joint using cement NEC
+XaMBq,Revision of hybrid prosthetic replacement of hip joint using cemented femoral component
+XaMC8,Attention to hybrid prosthetic replacement of hip joint using cement NEC
+XaM92,Closed reduction of dislocated total prosthetic replacement of hip joint
+X606I,Hip arthroplasty
+Xa1QY,Revision of hip arthroplasty
+XaMJe,Conversion of hip arthroplasty
+XaMBh,Conversion from previous hybrid prosthetic replacement of hip joint using cemented acetabular component
+XaMBr,Conversion from previous hybrid prosthetic replacement of hip joint using cemented femoral component
+XaMBp,Conversion to hybrid prosthetic replacement of hip joint using cemented femoral component
+XaMBf,Conversion to hybrid prosthetic replacement of hip joint using cemented acetabular component
+XaM8h,Revision of one component of total prosthetic replacement of hip joint using cement
+Xa3uq,Hip arthroplasty NOS
+XaMBg,Revision of hybrid prosthetic replacement of hip joint using cemented acetabular component
+7K252,Revision of prosthetic hemiarthroplasty of hip NEC
+7K253,Attention to prosthetic hemiarthroplasty of hip NEC
+XE08n,Conversion from uncemented total hip replacement
+XE08s,Conversion from cemented hemiarthroplasty of hip
+XE08t,Conversion from uncemented hemiarthroplasty of hip
+XE08v,Conversion from previous hemiarthroplasty of hip NEC
+XE2n8,Revision of total prosthetic replacement of hip joint NEC
+XaEGG,Conversion from previous total prosthetic replacement of hip joint NEC
+XE1Dh,Transient arthropathy of hip
+N02zH,"Crystal arthropathy NOS, of hip"
+X606L,Excision arthroplasty of the hip
+X604W,Diagnostic arthroscopy of hip joint
+X606M,Interposition arthroplasty of the hip
+XE0JM,Secondary arthroplasty of hip for correction of congenital deformity
+X70Dm,Hip prosthesis loose
+Xa1l4,Loosening of hip joint hemiarthroplasty
+Xaa2R,Metal-on-metal hip prosthesis in situ
+XaEgP,Dislocation of hip joint prosthesis
